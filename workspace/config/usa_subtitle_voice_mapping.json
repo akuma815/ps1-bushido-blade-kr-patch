@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "description": "USA official subtitle records mapped to Japanese voice catalog entries. Add only runtime or audio-confirmed mappings.",
+  "mappings": [
+    {
+      "source_path": "DATA7/V00.DAT",
+      "start_frame": 60,
+      "english_text": "For the first time in my life,\nI've taken a life.",
+      "usa_group": 3,
+      "voice_subtitle_ids": [
+        "voice/se4/tat3win/02/p00/t00/v01",
+        "voice/se4/tat3win/02/p00/t01/v02"
+      ],
+      "mapping_status": "runtime_confirmed",
+      "notes": "v15 runtime pass: V00 group 3, frames 60-179; the USA two-line record combines two Japanese voice entries."
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+[
+  {
+    "asset": "title",
+    "path": "DATA3/O12.DAT",
+    "offset": "0x0001CC",
+    "size": "480x128",
+    "bpp": 4,
+    "tim_total_size": 30784,
+    "pixel_payload_size": 30720,
+    "clut_entries": 16,
+    "transparent_indices": [],
+    "palette_rgb": [
+      "#000000",
+      "#D00018",
+      "#202020",
+      "#981828",
+      "#D81828",
+      "#E04048",
+      "#505050",
+      "#606060",
+      "#E86870",
+      "#888888",
+      "#F09088",
+      "#B0B0B0",
+      "#B8B8B8",
+      "#D0D0D0",
+      "#E8E8E8",
+      "#F8F8F8"
+    ],
+    "original_png": "workspace\\graphics\\usa\\title_original.png",
+    "edit_png": "workspace\\graphics\\usa\\title_ko_edit.png"
+  },
+  {
+    "asset": "loading",
+    "path": "SCUS_941.80",
+    "offset": "0x074A84",
+    "size": "176x16",
+    "bpp": 4,
+    "tim_total_size": 1472,
+    "pixel_payload_size": 1408,
+    "clut_entries": 16,
+    "transparent_indices": [
+      15
+    ],
+    "palette_rgb": [
+      "#800000",
+      "#880000",
+      "#A00000",
+      "#C00808",
+      "#D82828",
+      "#E03030",
+      "#E84040",
+      "#F86060",
+      "#F87070",
+      "#F88888",
+      "#F8A0A0",
+      "#F8B8B8",
+      "#F8D8D8",
+      "#F8F0F0",
+      "#F8F8F8",
+      "#000000"
+    ],
+    "original_png": "workspace\\graphics\\usa\\loading_original.png",
+    "edit_png": "workspace\\graphics\\usa\\loading_ko_edit.png"
+  }
+]

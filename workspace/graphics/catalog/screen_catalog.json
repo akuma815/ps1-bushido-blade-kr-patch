@@ -1,0 +1,560 @@
+{
+  "catalog_version": 1,
+  "baseline": {
+    "title": "Bushido Blade",
+    "region": "Japan",
+    "serial": "SLPM-86020",
+    "bin_sha256": "7D89B9254C5001AD7FC4F0C2FC3CDA9600417D075292C34D3B60AA3B600DBA96"
+  },
+  "capture_session": {
+    "emulator": "DuckStation 0.1.11621",
+    "started_at": "2026-07-29T20:23:35.1024191+09:00",
+    "source_directory": "H:\\Duckstation\\screenshots",
+    "project_directory": "work/screenshots/original",
+    "status": "representative_assets_linked",
+    "captured_count": 8
+  },
+  "state_values": [
+    "unobserved",
+    "captured",
+    "classified",
+    "asset_linked",
+    "translated",
+    "verified"
+  ],
+  "screens": [
+    {
+      "screen_id": "BBJ-LOGO-001",
+      "category": "boot",
+      "name_ko": "제작사·퍼블리셔 로고",
+      "priority": 2,
+      "state": "unobserved",
+      "captures": [],
+      "entry_steps": "게임 부팅",
+      "visible_text_blocks": [],
+      "notes": ""
+    },
+    {
+      "screen_id": "BBJ-TITLE-001",
+      "category": "title",
+      "name_ko": "타이틀 화면",
+      "priority": 1,
+      "state": "verified",
+      "captures": [
+        {
+          "path": "work/screenshots/original/ブシドーブレード 2026-07-29-20-25-12.png",
+          "captured_at": "2026-07-29T20:25:14.2225345+09:00",
+          "sha256": "56577CE4E116FAB95121D52879E8C89379A0630ABC1B8C194478C6832E4A9B4A"
+        },
+        {
+          "path": "work/screenshots/poc_title/ブシドーブレード 2026-07-29-21-55-42.png",
+          "captured_at": "2026-07-29T21:55:44.9365296+09:00",
+          "sha256": "CEEA68AC9C1BA135D8910FBCBD3C8736985429363B1FCD23E8DD44DD96FA6907",
+          "comparison_role": "korean_title_poc_runtime"
+        }
+      ],
+      "entry_steps": "게임 부팅 후 로고·오프닝 통과",
+      "visible_text_blocks": [
+        {
+          "block_id": "BBJ-TITLE-001-B01",
+          "source_text": "ブシドーブレード",
+          "role": "title_logo",
+          "asset_type": "tim_4bpp",
+          "transcription_status": "confirmed",
+          "translation_text": "무사도의 검",
+          "translation_status": "verified",
+          "asset_ref": "BBJ-TITLE-LOGO-001",
+          "source": {
+            "path": "DATA3/O12.DAT",
+            "file_sha256": "10FB76FA2D09F99E48CF3B12B26521C6FE9618F15E0EFD2DF72F4CB79025E83B",
+            "tim_offset": 460,
+            "tim_offset_hex": "0x000001CC",
+            "tim_total_size": 30784,
+            "pixel_width": 480,
+            "pixel_height": 128,
+            "edit_png": "workspace/graphics/title/title_ko_edit.png"
+          }
+        },
+        {
+          "block_id": "BBJ-TITLE-001-B02",
+          "source_text": "BUSHIDO BLADE",
+          "role": "title_logo_latin",
+          "asset_type": "tim_4bpp",
+          "transcription_status": "confirmed",
+          "asset_ref": "BBJ-TITLE-LOGO-001"
+        }
+      ],
+      "notes": "메인 메뉴와 같은 캡처를 공유한다. 일본어 로고, 영문명, TM이 DATA3/O12.DAT의 단일 480x128 TIM에 함께 들어 있다. 한글 로고 표시와 메뉴 선택 이동·복귀가 정상으로 확인됐다."
+    },
+    {
+      "screen_id": "BBJ-MENU-001",
+      "category": "menu",
+      "name_ko": "메인 메뉴",
+      "priority": 1,
+      "state": "asset_linked",
+      "captures": [
+        {
+          "path": "work/screenshots/original/ブシドーブレード 2026-07-29-20-25-12.png",
+          "captured_at": "2026-07-29T20:25:14.2225345+09:00",
+          "sha256": "56577CE4E116FAB95121D52879E8C89379A0630ABC1B8C194478C6832E4A9B4A",
+          "selection": "ストーリー・モード"
+        },
+        {
+          "path": "work/screenshots/original/ブシドーブレード 2026-07-29-20-40-48.png",
+          "captured_at": "2026-07-29T20:40:51.0490594+09:00",
+          "sha256": "1187B114A91F73AE329FA5F538D4B34E340C63D5CE6282C2DD772EE8D65FB384",
+          "selection": "ストーリー・モード",
+          "comparison_role": "same_state_repeat"
+        },
+        {
+          "path": "work/screenshots/original/ブシドーブレード 2026-07-29-20-44-24.png",
+          "captured_at": "2026-07-29T20:44:26.9459455+09:00",
+          "sha256": "8B3965EE54E2BE8BD5BF7E5748F397AA20383BC003C365C90A95C279C773BF22",
+          "selection": "対戦モード",
+          "comparison_role": "alternate_menu_item"
+        }
+      ],
+      "entry_steps": "타이틀에서 시작",
+      "visible_text_blocks": [
+        {
+          "block_id": "BBJ-MENU-001-B01",
+          "source_text": "ストーリー・モード",
+          "role": "selected_menu_item",
+          "asset_type": "tim_4bpp",
+          "transcription_status": "confirmed",
+          "source": {
+            "path": "DATA3/O12.DAT",
+            "file_sha256": "10FB76FA2D09F99E48CF3B12B26521C6FE9618F15E0EFD2DF72F4CB79025E83B",
+            "tim_offset": 45612,
+            "tim_offset_hex": "0x0000B22C",
+            "tim_total_size": 3232,
+            "pixel_width": 352,
+            "pixel_height": 18,
+            "evidence_png": "work/graphics/tim_candidates/7820a8d7_011_0000b22c.png"
+          }
+        },
+        {
+          "block_id": "BBJ-MENU-001-B02",
+          "source_text": "対戦モード",
+          "role": "selected_menu_item_variant",
+          "asset_type": "tim_4bpp",
+          "transcription_status": "confirmed",
+          "source": {
+            "path": "DATA3/O12.DAT",
+            "file_sha256": "10FB76FA2D09F99E48CF3B12B26521C6FE9618F15E0EFD2DF72F4CB79025E83B",
+            "tim_offset": 51032,
+            "tim_offset_hex": "0x0000C758",
+            "tim_total_size": 2188,
+            "pixel_width": 236,
+            "pixel_height": 18,
+            "evidence_png": "work/graphics/tim_candidates/7820a8d7_013_0000c758.png"
+          }
+        }
+      ],
+      "notes": "동일한 하단 선택 프레임 안에서 ストーリー・モード와 対戦モード가 교체된다. 프레임과 타이틀 로고는 유지되며 라벨의 저장·렌더 경로는 아직 미확정이다."
+    },
+    {
+      "screen_id": "BBJ-MENU-002",
+      "category": "menu",
+      "name_ko": "옵션",
+      "priority": 1,
+      "state": "translated",
+      "captures": [
+        {
+          "path": "work/screenshots/original/ブシドーブレード 2026-07-29-20-25-33.png",
+          "captured_at": "2026-07-29T20:25:35.3000616+09:00",
+          "sha256": "84024DE2527BABF8D1B578272BA81B41C722B96697DEA98974921040D237D0D2"
+        },
+        {
+          "path": "work/screenshots/poc_options/ブシドーブレード 2026-07-29-21-12-25.png",
+          "captured_at": "2026-07-29T21:12:27.0895873+09:00",
+          "sha256": "BAB7CABA114CF0DB70E35D63509B8C5427305C58B4AB95218BF1F49407642B27",
+          "comparison_role": "korean_poc_runtime"
+        }
+      ],
+      "entry_steps": "메인 메뉴에서 옵션 진입",
+      "visible_text_blocks": [
+        {
+          "block_id": "BBJ-MENU-002-B01",
+          "source_text": "オプション",
+          "role": "screen_header",
+          "asset_type": "tim_4bpp",
+          "transcription_status": "confirmed",
+          "translation_text": "옵션",
+          "translation_status": "verified",
+          "source": {
+            "path": "DATA3/O04.DAT",
+            "file_sha256": "DDED78FBE71C06711EA2F35E8F29D134DF18A21A1CF3FE6BCD0F0C1F62B5EE91",
+            "tim_offset": 15564,
+            "tim_offset_hex": "0x00003CCC",
+            "tim_total_size": 1920,
+            "pixel_width": 232,
+            "pixel_height": 16,
+            "evidence_png": "work/graphics/tim_candidates/cfe1e058_009_00003ccc.png"
+          }
+        },
+        {
+          "block_id": "BBJ-MENU-002-B02",
+          "source_text": "難易度",
+          "role": "selected_option_tab",
+          "asset_type": "graphic_likely",
+          "transcription_status": "confirmed"
+        },
+        {
+          "block_id": "BBJ-MENU-002-B03",
+          "source_text": null,
+          "role": "remaining_option_tabs",
+          "asset_type": "graphic_likely",
+          "transcription_status": "pending"
+        }
+      ],
+      "notes": "헤더 옵션은 수정 BIN의 실제 게임 화면에서 표시를 확인했고 메인 메뉴 복귀·옵션 재진입도 정상이다. 세로 목판형 탭의 미전사 항목은 추측하지 않고 보류하므로 화면 전체 상태는 translated로 유지한다."
+    },
+    {
+      "screen_id": "BBJ-SELECT-001",
+      "category": "selection",
+      "name_ko": "캐릭터 선택",
+      "priority": 1,
+      "state": "asset_linked",
+      "captures": [
+        {
+          "path": "work/screenshots/original/ブシドーブレード 2026-07-29-20-25-50.png",
+          "captured_at": "2026-07-29T20:25:52.3282825+09:00",
+          "sha256": "91E1397FB84944724B38EAF3EED63488391FBC5E4E25A16DFB6538FE69F7EA1B"
+        }
+      ],
+      "entry_steps": "대전 또는 스토리 모드 진입",
+      "visible_text_blocks": [
+        {
+          "block_id": "BBJ-SELECT-001-B01",
+          "source_text": "登場人物選択",
+          "role": "screen_header",
+          "asset_type": "tim_4bpp",
+          "transcription_status": "confirmed",
+          "source": {
+            "path": "DATA3/O02.DAT",
+            "file_sha256": "6065528BE2165F165847B0B0843C30009B6F97C9DA018B993757450408F5BE64",
+            "tim_offset": 82784,
+            "tim_offset_hex": "0x00014360",
+            "tim_total_size": 1920,
+            "pixel_width": 232,
+            "pixel_height": 16,
+            "evidence_png": "work/graphics/tim_candidates/7879be4a_055_00014360.png"
+          }
+        },
+        {
+          "block_id": "BBJ-SELECT-001-B02",
+          "source_text": null,
+          "role": "character_name_plates",
+          "asset_type": "tim_4bpp",
+          "transcription_status": "pending",
+          "translation_status": "pending_edit",
+          "source": {
+            "path": "DATA3/O02.DAT",
+            "file_sha256": "6065528BE2165F165847B0B0843C30009B6F97C9DA018B993757450408F5BE64",
+            "pixel_width": 40,
+            "pixel_height": 54,
+            "tim_total_size_each": 1144,
+            "tim_offsets": [
+              59628,
+              60772,
+              61916,
+              63060,
+              64204,
+              65348
+            ],
+            "tim_offsets_hex": [
+              "0x0000E8EC",
+              "0x0000ED64",
+              "0x0000F1DC",
+              "0x0000F654",
+              "0x0000FACC",
+              "0x0000FF44"
+            ],
+            "source_dir": "workspace/graphics/ui_translation_batch/source/character_names",
+            "edited_dir": "workspace/graphics/ui_translation_batch/edited/character_names",
+            "contact_sheet": "workspace/graphics/ui_translation_batch/contact_sheets/character_names/png_contact_001.png"
+          }
+        }
+      ],
+      "notes": "사용자 런타임 화면에서 세로 이름패 6개 누락을 확인했다. DATA3/O02.DAT의 연속된 40x54 4bpp TIM 6개와 화면 색상·배열이 일치해 자산을 연결했고, 별도 character_names 편집 배치로 추출했다. 한글 편집과 재삽입 런타임 검증은 아직 대기 중이다."
+    },
+    {
+      "screen_id": "BBJ-SELECT-002",
+      "category": "selection",
+      "name_ko": "무기 선택",
+      "priority": 1,
+      "state": "asset_linked",
+      "captures": [
+        {
+          "path": "work/screenshots/original/ブシドーブレード 2026-07-29-20-25-56.png",
+          "captured_at": "2026-07-29T20:25:58.7497720+09:00",
+          "sha256": "251E88B94E59053E7E4BF987C433E774174C53636B650AF470ADAF6994183A9A",
+          "selection": "打刀"
+        },
+        {
+          "path": "work/screenshots/original/ブシドーブレード 2026-07-29-20-41-06.png",
+          "captured_at": "2026-07-29T20:41:08.6785039+09:00",
+          "sha256": "2863B8FA40150CC4505386CF2FBD1AB78F0C814DDA201C4C33045DC9698D6D78",
+          "selection": "レイピア",
+          "comparison_role": "alternate_weapon"
+        }
+      ],
+      "entry_steps": "캐릭터 선택 다음 화면",
+      "visible_text_blocks": [
+        {
+          "block_id": "BBJ-SELECT-002-B01",
+          "source_text": "使用武器選択",
+          "role": "screen_header",
+          "asset_type": "tim_4bpp",
+          "transcription_status": "confirmed",
+          "source": {
+            "path": "DATA3/O02.DAT",
+            "file_sha256": "6065528BE2165F165847B0B0843C30009B6F97C9DA018B993757450408F5BE64",
+            "tim_offset": 85984,
+            "tim_offset_hex": "0x00014FE0",
+            "tim_total_size": 1920,
+            "pixel_width": 232,
+            "pixel_height": 16,
+            "evidence_png": "work/graphics/tim_candidates/7879be4a_058_00014fe0.png"
+          }
+        },
+        {
+          "block_id": "BBJ-SELECT-002-B02",
+          "source_text": "打刀",
+          "role": "weapon_name",
+          "asset_type": "tim_4bpp_panel",
+          "transcription_status": "confirmed",
+          "source": {
+            "path": "DATA3/O02.DAT",
+            "file_sha256": "6065528BE2165F165847B0B0843C30009B6F97C9DA018B993757450408F5BE64",
+            "tim_offset": 129436,
+            "tim_offset_hex": "0x0001F99C",
+            "tim_total_size": 7232,
+            "pixel_width": 224,
+            "pixel_height": 64,
+            "evidence_png": "work/graphics/tim_candidates/7879be4a_083_0001f99c.png"
+          }
+        },
+        {
+          "block_id": "BBJ-SELECT-002-B03",
+          "source_text": "重量 1.5kg",
+          "role": "weapon_weight",
+          "asset_type": "tim_4bpp_panel",
+          "transcription_status": "confirmed",
+          "source_ref": "BBJ-SELECT-002-B02"
+        },
+        {
+          "block_id": "BBJ-SELECT-002-B04",
+          "source_text": "全長 92.0cm",
+          "role": "weapon_length",
+          "asset_type": "tim_4bpp_panel",
+          "transcription_status": "confirmed",
+          "source_ref": "BBJ-SELECT-002-B02"
+        },
+        {
+          "block_id": "BBJ-SELECT-002-B05",
+          "source_text": "レイピア",
+          "role": "weapon_name_variant",
+          "asset_type": "tim_4bpp_panel",
+          "transcription_status": "confirmed",
+          "source": {
+            "path": "DATA3/O02.DAT",
+            "file_sha256": "6065528BE2165F165847B0B0843C30009B6F97C9DA018B993757450408F5BE64",
+            "tim_offset": 143900,
+            "tim_offset_hex": "0x0002321C",
+            "tim_total_size": 7232,
+            "pixel_width": 224,
+            "pixel_height": 64,
+            "evidence_png": "work/graphics/tim_candidates/7879be4a_085_0002321c.png"
+          }
+        },
+        {
+          "block_id": "BBJ-SELECT-002-B06",
+          "source_text": "重量 0.9kg",
+          "role": "weapon_weight_variant",
+          "asset_type": "tim_4bpp_panel",
+          "transcription_status": "confirmed",
+          "source_ref": "BBJ-SELECT-002-B05"
+        },
+        {
+          "block_id": "BBJ-SELECT-002-B07",
+          "source_text": "全長 75.0cm",
+          "role": "weapon_length_variant",
+          "asset_type": "tim_4bpp_panel",
+          "transcription_status": "confirmed",
+          "source_ref": "BBJ-SELECT-002-B05"
+        }
+      ],
+      "notes": "화면과 일치하는 표준 4bpp TIM을 DATA3/O02.DAT에서 확인했다. 실제 로더·VRAM 소비 경로와 수정본 인게임 표시는 PoC에서 검증한다."
+    },
+    {
+      "screen_id": "BBJ-LOAD-001",
+      "category": "loading",
+      "name_ko": "로딩 화면 소형 타이틀 로고",
+      "priority": 2,
+      "state": "classified",
+      "captures": [],
+      "entry_steps": "메뉴 또는 모드 전환 중 로딩",
+      "visible_text_blocks": [
+        {
+          "block_id": "BBJ-LOAD-001-B01",
+          "source_text": "ブシドーブレード",
+          "role": "loading_logo",
+          "asset_type": "tim_4bpp",
+          "transcription_status": "confirmed",
+          "translation_status": "runtime_verified",
+          "source": {
+            "path": "SLPM_860.20",
+            "file_sha256": "0164189A870BA87495A3C0010ADB85535AE5A798BBD0DD276B88BF24ECC3CEDA",
+            "tim_offset": 484732,
+            "tim_offset_hex": "0x0007657C",
+            "pixel_width": 136,
+            "pixel_height": 32,
+            "evidence_png": "workspace/graphics/loading/source/SLPM_86020_0007657C.png",
+            "runtime_dump_png": "work/graphics/duckstation_loading_dump/runtime_loading_logo_136x32.png",
+            "runtime_reachability": "confirmed",
+            "runtime_probe_png": "work/screenshots/poc_loading_logo_actual/ブシドーブレード 2026-07-29-23-13-01.png",
+            "edited_png": "workspace/graphics/loading/edited/SLPM_86020_0007657C.png",
+            "build_report": "build/loading_logo_ko/build_report.json"
+          }
+        }
+      ],
+      "notes": "사용자 제공 화면에서 우하단의 소형 일본어 로고를 관측했다. O12 공유 가설과 DATA3/O01.DAT 소비 가설은 런타임 비교로 기각했다. DuckStation 덤프와 정적 목록을 대조해 SLPM_860.20 @ 0x7657C를 확정했고 한글 '무사도의 검' 출력을 확인했다. 오른쪽 수평선은 후처리와 MMPX를 꺼도 유지됐고, TIM 오른쪽 24열·25열을 지운 진단에서도 남았다. 일본판 원본 캡처에도 같은 선이 있으므로 별도 장식선/프리미티브인 원본 동작으로 확정했다."
+    },
+    {
+      "screen_id": "BBJ-VERSUS-001",
+      "category": "battle",
+      "name_ko": "대전 시작 전 화면",
+      "priority": 2,
+      "state": "unobserved",
+      "captures": [],
+      "entry_steps": "선택 완료 후 전투 로딩",
+      "visible_text_blocks": [],
+      "notes": ""
+    },
+    {
+      "screen_id": "BBJ-BATTLE-001",
+      "category": "battle",
+      "name_ko": "전투 중 UI",
+      "priority": 1,
+      "state": "unobserved",
+      "captures": [],
+      "entry_steps": "전투 시작",
+      "visible_text_blocks": [],
+      "notes": "전투 시작 문구와 상시 UI를 구분"
+    },
+    {
+      "screen_id": "BBJ-BATTLE-002",
+      "category": "battle",
+      "name_ko": "일시정지",
+      "priority": 1,
+      "state": "classified",
+      "captures": [],
+      "entry_steps": "전투 중 Start",
+      "visible_text_blocks": [],
+      "notes": "사용자 런타임 확인에서 일시정지 시 화면 텍스트가 표시되지 않았다."
+    },
+    {
+      "screen_id": "BBJ-RESULT-001",
+      "category": "battle",
+      "name_ko": "승패·결과 화면",
+      "priority": 1,
+      "state": "classified",
+      "captures": [],
+      "entry_steps": "전투 종료",
+      "visible_text_blocks": [],
+      "notes": "사용자가 확인한 스토리 모드의 승패 결과에는 화면 텍스트가 없었다. 대전 모드 등 다른 모드의 결과 화면까지 같다고 일반화하지 않는다."
+    },
+    {
+      "screen_id": "BBJ-STORY-001",
+      "category": "story",
+      "name_ko": "스토리 모드 첫 연출",
+      "priority": 1,
+      "state": "classified",
+      "captures": [],
+      "entry_steps": "메인 메뉴에서 스토리 모드 진입",
+      "visible_text_blocks": [],
+      "notes": "사용자가 완료한 한 스토리 루트에서는 진행 중 대사가 전부 음성으로만 재생됐고 화면 자막은 관측되지 않았다. 다른 캐릭터·분기까지 전부 같다고 일반화하지 않는다."
+    },
+    {
+      "screen_id": "BBJ-STORY-002",
+      "category": "story",
+      "name_ko": "스토리 모드 첫 일본어 문구",
+      "priority": 1,
+      "state": "classified",
+      "captures": [],
+      "entry_steps": "스토리 첫 연출 진행",
+      "visible_text_blocks": [],
+      "notes": "관찰한 완료 루트에는 본편 화면 문구가 없었다. 스토리 번역 범위에 음성 대사를 포함하려면 별도 자막 오버레이 또는 음성 교체가 필요하다."
+    },
+    {
+      "screen_id": "BBJ-SAVE-001",
+      "category": "system",
+      "name_ko": "저장·불러오기",
+      "priority": 2,
+      "state": "classified",
+      "captures": [],
+      "entry_steps": "저장 또는 불러오기 진입",
+      "visible_text_blocks": [],
+      "notes": "사용자가 게임 메뉴를 확인했으나 저장·불러오기 항목은 없었다. 이는 메뉴 항목의 부재만 확인한 것이며 자동 저장이나 메모리카드 사용 자체의 부재를 뜻하지 않는다."
+    },
+    {
+      "screen_id": "BBJ-END-001",
+      "category": "ending",
+      "name_ko": "엔딩·크레디트",
+      "priority": 3,
+      "state": "runtime_verified",
+      "captures": [
+        {
+          "path": "work/screenshots/story_round1/ブシドーブレード 2026-07-29-22-11-40.png",
+          "captured_at": "2026-07-29T22:11:42.5667695+09:00",
+          "sha256": "4E6698E8B5ED8DFDB8A5A1803E6EB352D598F946A2FFBFD48D9C5F5F76D68E74",
+          "comparison_role": "japanese_ending_runtime"
+        }
+      ],
+      "entry_steps": "스토리 모드 한 루트 완료",
+      "visible_text_blocks": [
+        {
+          "block_id": "BBJ-END-001-B01",
+          "source_text": "修羅の道を往くもまたよし／されど鳴鏡の名の元にあらず",
+          "role": "ending_vertical_message",
+          "asset_type": "tim_4bpp",
+          "transcription_status": "confirmed",
+          "translation_status": "runtime_verified",
+          "source": {
+            "path": "DATA3/O15.DAT",
+            "file_sha256": "486D464AB79F2FBB1E783DB7A00ACC8496AB5B3E979D52F037BE9F735FD27E90",
+            "tim_offset": 13192,
+            "tim_offset_hex": "0x00003388",
+            "pixel_width": 64,
+            "pixel_height": 216,
+            "evidence_png": "workspace/graphics/ending/source/O15_00003388.png",
+            "edited_png": "workspace/graphics/ending/edited/O15_00003388.png",
+            "build_report": "build/loading_ending_ko/build_report.json"
+          }
+        },
+        {
+          "block_id": "BBJ-END-001-B02",
+          "source_text": "神和斎",
+          "role": "ending_signature",
+          "asset_type": "tim_4bpp",
+          "transcription_status": "confirmed",
+          "translation_status": "runtime_verified",
+          "source": {
+            "path": "DATA3/O15.DAT",
+            "file_sha256": "486D464AB79F2FBB1E783DB7A00ACC8496AB5B3E979D52F037BE9F735FD27E90",
+            "tim_offset": 26760,
+            "tim_offset_hex": "0x00006888",
+            "pixel_width": 24,
+            "pixel_height": 40,
+            "evidence_png": "workspace/graphics/ending/source/O15_00006888.png",
+            "edited_png": "workspace/graphics/ending/edited/O15_00006888.png",
+            "build_report": "build/loading_ending_ko/build_report.json"
+          }
+        }
+      ],
+      "notes": "런타임 캡처와 두 TIM의 글자 배열이 정확히 일치한다. O15.DAT의 세로 문구 5개와 서명 1개를 모두 한글 편집했고, 원본 CLUT를 보존한 6개 TIM 재삽입 빌드의 정적 검증과 한글 엔딩 런타임 출력을 통과했다. 문자 오른쪽 잔상은 DuckStation CRT-NewPixie 후처리 효과로 패치 결함에서 제외했다."
+    }
+  ]
+}

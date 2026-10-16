@@ -1,0 +1,578 @@
+{
+  "catalog_version": 1,
+  "baseline": {
+    "image": "Bushido Blade (Japan).bin",
+    "source_manifest": "work/analysis/valid_tim_manifest.json"
+  },
+  "scope": "DATA2 first-pass environmental text review",
+  "review_status": "protected_candidate_population_open",
+  "candidate_count": 28,
+  "notes": [
+    "These are environmental signs, graffiti, placards, and their lower-resolution variants found by static contact-sheet review.",
+    "Every candidate is a protected composite graphic; do not edit outside the confirmed text region.",
+    "Runtime reachability and stage placement are not yet confirmed.",
+    "Costume markings, emblems without readable text, and English production marks are excluded."
+  ],
+  "candidates": [
+    {
+      "candidate_id": "BBJ-GFX-F3D4FED5F871",
+      "state": "found",
+      "classification": "environment_text_or_sign",
+      "protected_graphic": true,
+      "source": {
+        "path": "DATA2/S00.DAT",
+        "offset": 146052,
+        "offset_hex": "0x00023A84",
+        "pixel_width": 64,
+        "pixel_height": 64,
+        "bpp": 4,
+        "tim_total_size": 2112,
+        "decoded_pixel_sha256": "F64E0470408F3E4DE13F2FA7929C8B50025F37FFF803278F3431C353146787FF"
+      },
+      "source_png": "workspace/graphics/environment_text_candidates/source/DATA2_S00_DAT_00023A84.png",
+      "edited_png": "workspace/graphics/environment_text_candidates/edited/DATA2_S00_DAT_00023A84.png",
+      "runtime_reachability": "unknown",
+      "text_blocks": []
+    },
+    {
+      "candidate_id": "BBJ-GFX-5DB0492DF88D",
+      "state": "found",
+      "classification": "environment_text_or_sign",
+      "protected_graphic": true,
+      "source": {
+        "path": "DATA2/S00.DAT",
+        "offset": 148164,
+        "offset_hex": "0x000242C4",
+        "pixel_width": 32,
+        "pixel_height": 32,
+        "bpp": 4,
+        "tim_total_size": 576,
+        "decoded_pixel_sha256": "8B4F4250A7918734509AF549F7104D6CDC62F4236771FD10845D294789FEDA40"
+      },
+      "source_png": "workspace/graphics/environment_text_candidates/source/DATA2_S00_DAT_000242C4.png",
+      "edited_png": "workspace/graphics/environment_text_candidates/edited/DATA2_S00_DAT_000242C4.png",
+      "runtime_reachability": "unknown",
+      "text_blocks": []
+    },
+    {
+      "candidate_id": "BBJ-GFX-7CC40281DF83",
+      "state": "found",
+      "classification": "environment_text_or_sign",
+      "protected_graphic": true,
+      "source": {
+        "path": "DATA2/S00.DAT",
+        "offset": 148740,
+        "offset_hex": "0x00024504",
+        "pixel_width": 16,
+        "pixel_height": 16,
+        "bpp": 4,
+        "tim_total_size": 192,
+        "decoded_pixel_sha256": "3C9D60BDD484B0E522803A2E5FD56A5EE2CDCE2F602236125946B37ECC787AF4"
+      },
+      "source_png": "workspace/graphics/environment_text_candidates/source/DATA2_S00_DAT_00024504.png",
+      "edited_png": "workspace/graphics/environment_text_candidates/edited/DATA2_S00_DAT_00024504.png",
+      "runtime_reachability": "unknown",
+      "text_blocks": []
+    },
+    {
+      "candidate_id": "BBJ-GFX-826B93063C23",
+      "state": "found",
+      "classification": "environment_text_or_sign",
+      "protected_graphic": true,
+      "source": {
+        "path": "DATA2/S00.DAT",
+        "offset": 148932,
+        "offset_hex": "0x000245C4",
+        "pixel_width": 64,
+        "pixel_height": 64,
+        "bpp": 4,
+        "tim_total_size": 2112,
+        "decoded_pixel_sha256": "E6053259A03AF3C74B4F1DD786E2953B4A5F83B1DB8175450F9502F3AE9D54C1"
+      },
+      "source_png": "workspace/graphics/environment_text_candidates/source/DATA2_S00_DAT_000245C4.png",
+      "edited_png": "workspace/graphics/environment_text_candidates/edited/DATA2_S00_DAT_000245C4.png",
+      "runtime_reachability": "unknown",
+      "text_blocks": []
+    },
+    {
+      "candidate_id": "BBJ-GFX-39CE4EDFF4C1",
+      "state": "found",
+      "classification": "environment_text_or_sign",
+      "protected_graphic": true,
+      "source": {
+        "path": "DATA2/S00.DAT",
+        "offset": 151044,
+        "offset_hex": "0x00024E04",
+        "pixel_width": 32,
+        "pixel_height": 32,
+        "bpp": 4,
+        "tim_total_size": 576,
+        "decoded_pixel_sha256": "C6159C4DAD47BA983FF62AA20B29A0E2BE8FDA3B16FCAB5CFD94E4A86BBDF5B7"
+      },
+      "source_png": "workspace/graphics/environment_text_candidates/source/DATA2_S00_DAT_00024E04.png",
+      "edited_png": "workspace/graphics/environment_text_candidates/edited/DATA2_S00_DAT_00024E04.png",
+      "runtime_reachability": "unknown",
+      "text_blocks": []
+    },
+    {
+      "candidate_id": "BBJ-GFX-CD6CD6BD2A0A",
+      "state": "found",
+      "classification": "environment_text_or_sign",
+      "protected_graphic": true,
+      "source": {
+        "path": "DATA2/S00.DAT",
+        "offset": 151620,
+        "offset_hex": "0x00025044",
+        "pixel_width": 16,
+        "pixel_height": 16,
+        "bpp": 4,
+        "tim_total_size": 192,
+        "decoded_pixel_sha256": "E5DAAA0899984E4A8F3FA9A11E13F3DB6C090FF7F48D4BB92BB92CF0B5A40E9A"
+      },
+      "source_png": "workspace/graphics/environment_text_candidates/source/DATA2_S00_DAT_00025044.png",
+      "edited_png": "workspace/graphics/environment_text_candidates/edited/DATA2_S00_DAT_00025044.png",
+      "runtime_reachability": "unknown",
+      "text_blocks": []
+    },
+    {
+      "candidate_id": "BBJ-GFX-095D00A5660A",
+      "state": "found",
+      "classification": "environment_text_or_sign",
+      "protected_graphic": true,
+      "source": {
+        "path": "DATA2/S04.DAT",
+        "offset": 167200,
+        "offset_hex": "0x00028D20",
+        "pixel_width": 64,
+        "pixel_height": 64,
+        "bpp": 4,
+        "tim_total_size": 2112,
+        "decoded_pixel_sha256": "DA8A5246A383D12C72D78F8622ECF5F75EC2EB5D0F852846489E49B0CE8702EC"
+      },
+      "source_png": "workspace/graphics/environment_text_candidates/source/DATA2_S04_DAT_00028D20.png",
+      "edited_png": "workspace/graphics/environment_text_candidates/edited/DATA2_S04_DAT_00028D20.png",
+      "runtime_reachability": "unknown",
+      "text_blocks": []
+    },
+    {
+      "candidate_id": "BBJ-GFX-6C9E01B7738F",
+      "state": "found",
+      "classification": "environment_emblem_or_text",
+      "protected_graphic": true,
+      "source": {
+        "path": "DATA2/S06.DAT",
+        "offset": 162844,
+        "offset_hex": "0x00027C1C",
+        "pixel_width": 32,
+        "pixel_height": 32,
+        "bpp": 4,
+        "tim_total_size": 576,
+        "decoded_pixel_sha256": "FA787E7B99CB828F0C6C694F4FF16690EAC0985ECDE919D7BAC4035178B3E19A"
+      },
+      "source_png": "workspace/graphics/environment_text_candidates/source/DATA2_S06_DAT_00027C1C.png",
+      "edited_png": "workspace/graphics/environment_text_candidates/edited/DATA2_S06_DAT_00027C1C.png",
+      "runtime_reachability": "unknown",
+      "text_blocks": []
+    },
+    {
+      "candidate_id": "BBJ-GFX-17594A1E3393",
+      "state": "found",
+      "classification": "environment_text_or_sign",
+      "protected_graphic": true,
+      "source": {
+        "path": "DATA2/S07.DAT",
+        "offset": 162484,
+        "offset_hex": "0x00027AB4",
+        "pixel_width": 64,
+        "pixel_height": 64,
+        "bpp": 4,
+        "tim_total_size": 2112,
+        "decoded_pixel_sha256": "C5BE4F5ED5AB76458C5752084D7D0C2388C6C6A6B36A8D2A31D197C6E10B0B30"
+      },
+      "source_png": "workspace/graphics/environment_text_candidates/source/DATA2_S07_DAT_00027AB4.png",
+      "edited_png": "workspace/graphics/environment_text_candidates/edited/DATA2_S07_DAT_00027AB4.png",
+      "runtime_reachability": "unknown",
+      "text_blocks": []
+    },
+    {
+      "candidate_id": "BBJ-GFX-7DC223DBD8FC",
+      "state": "found",
+      "classification": "environment_text_or_sign",
+      "protected_graphic": true,
+      "source": {
+        "path": "DATA2/S07.DAT",
+        "offset": 164596,
+        "offset_hex": "0x000282F4",
+        "pixel_width": 32,
+        "pixel_height": 32,
+        "bpp": 4,
+        "tim_total_size": 576,
+        "decoded_pixel_sha256": "7AD050FB006935EA50B517C13C61ECA0C88736293C7666817C54E035E8FE7FBC"
+      },
+      "source_png": "workspace/graphics/environment_text_candidates/source/DATA2_S07_DAT_000282F4.png",
+      "edited_png": "workspace/graphics/environment_text_candidates/edited/DATA2_S07_DAT_000282F4.png",
+      "runtime_reachability": "unknown",
+      "text_blocks": []
+    },
+    {
+      "candidate_id": "BBJ-GFX-F17B7D08F615",
+      "state": "found",
+      "classification": "environment_text_or_sign",
+      "protected_graphic": true,
+      "source": {
+        "path": "DATA2/S07.DAT",
+        "offset": 165172,
+        "offset_hex": "0x00028534",
+        "pixel_width": 16,
+        "pixel_height": 16,
+        "bpp": 4,
+        "tim_total_size": 192,
+        "decoded_pixel_sha256": "371E07F63C4965F86C070C97DE0D1CFCC605BE42B47C6E14A2F2C4642666D777"
+      },
+      "source_png": "workspace/graphics/environment_text_candidates/source/DATA2_S07_DAT_00028534.png",
+      "edited_png": "workspace/graphics/environment_text_candidates/edited/DATA2_S07_DAT_00028534.png",
+      "runtime_reachability": "unknown",
+      "text_blocks": []
+    },
+    {
+      "candidate_id": "BBJ-GFX-4BDD95FD062B",
+      "state": "found",
+      "classification": "environment_text_or_sign",
+      "protected_graphic": true,
+      "source": {
+        "path": "DATA2/S07.DAT",
+        "offset": 165364,
+        "offset_hex": "0x000285F4",
+        "pixel_width": 64,
+        "pixel_height": 64,
+        "bpp": 4,
+        "tim_total_size": 2112,
+        "decoded_pixel_sha256": "F90E7EFBF07198425C701C920BADBD640AC6B46BD6715B23A4A9FDA896A75E3A"
+      },
+      "source_png": "workspace/graphics/environment_text_candidates/source/DATA2_S07_DAT_000285F4.png",
+      "edited_png": "workspace/graphics/environment_text_candidates/edited/DATA2_S07_DAT_000285F4.png",
+      "runtime_reachability": "unknown",
+      "text_blocks": []
+    },
+    {
+      "candidate_id": "BBJ-GFX-90EE924ED908",
+      "state": "found",
+      "classification": "environment_text_or_sign",
+      "protected_graphic": true,
+      "source": {
+        "path": "DATA2/S07.DAT",
+        "offset": 167476,
+        "offset_hex": "0x00028E34",
+        "pixel_width": 32,
+        "pixel_height": 32,
+        "bpp": 4,
+        "tim_total_size": 576,
+        "decoded_pixel_sha256": "AAD754DF51564313CB0C70B5F6F38EBA504A7FE9D49A4BF74CDC960B574F5F38"
+      },
+      "source_png": "workspace/graphics/environment_text_candidates/source/DATA2_S07_DAT_00028E34.png",
+      "edited_png": "workspace/graphics/environment_text_candidates/edited/DATA2_S07_DAT_00028E34.png",
+      "runtime_reachability": "unknown",
+      "text_blocks": []
+    },
+    {
+      "candidate_id": "BBJ-GFX-547138449A6F",
+      "state": "found",
+      "classification": "environment_text_or_sign",
+      "protected_graphic": true,
+      "source": {
+        "path": "DATA2/S07.DAT",
+        "offset": 168052,
+        "offset_hex": "0x00029074",
+        "pixel_width": 16,
+        "pixel_height": 16,
+        "bpp": 4,
+        "tim_total_size": 192,
+        "decoded_pixel_sha256": "E81735C8E192DADD6EF391C7062DD07FFA974170A7D00078209DEAA6A9CF5D3A"
+      },
+      "source_png": "workspace/graphics/environment_text_candidates/source/DATA2_S07_DAT_00029074.png",
+      "edited_png": "workspace/graphics/environment_text_candidates/edited/DATA2_S07_DAT_00029074.png",
+      "runtime_reachability": "unknown",
+      "text_blocks": []
+    },
+    {
+      "candidate_id": "BBJ-GFX-08B5B346D77B",
+      "state": "found",
+      "classification": "environment_text_or_sign",
+      "protected_graphic": true,
+      "source": {
+        "path": "DATA2/S09.DAT",
+        "offset": 114604,
+        "offset_hex": "0x0001BFAC",
+        "pixel_width": 64,
+        "pixel_height": 64,
+        "bpp": 4,
+        "tim_total_size": 2112,
+        "decoded_pixel_sha256": "479B8FFB0A2A57C4D7E7F2A8682554F1BDD814FF4CA72ABF2D1E0F5606790E62"
+      },
+      "source_png": "workspace/graphics/environment_text_candidates/source/DATA2_S09_DAT_0001BFAC.png",
+      "edited_png": "workspace/graphics/environment_text_candidates/edited/DATA2_S09_DAT_0001BFAC.png",
+      "runtime_reachability": "unknown",
+      "text_blocks": []
+    },
+    {
+      "candidate_id": "BBJ-GFX-33E6A139E211",
+      "state": "found",
+      "classification": "environment_placard_uncertain",
+      "protected_graphic": true,
+      "source": {
+        "path": "DATA2/S11.DAT",
+        "offset": 72684,
+        "offset_hex": "0x00011BEC",
+        "pixel_width": 64,
+        "pixel_height": 64,
+        "bpp": 4,
+        "tim_total_size": 2112,
+        "decoded_pixel_sha256": "29B597BB9B3A436C8541CA25838A325E32A9EAB5FB7F509B295B8A5E97FB8CB9"
+      },
+      "source_png": "workspace/graphics/environment_text_candidates/source/DATA2_S11_DAT_00011BEC.png",
+      "edited_png": "workspace/graphics/environment_text_candidates/edited/DATA2_S11_DAT_00011BEC.png",
+      "runtime_reachability": "unknown",
+      "text_blocks": []
+    },
+    {
+      "candidate_id": "BBJ-GFX-6FAF7394B16C",
+      "state": "found",
+      "classification": "environment_placard_uncertain",
+      "protected_graphic": true,
+      "source": {
+        "path": "DATA2/S12.DAT",
+        "offset": 78812,
+        "offset_hex": "0x000133DC",
+        "pixel_width": 64,
+        "pixel_height": 64,
+        "bpp": 4,
+        "tim_total_size": 2112,
+        "decoded_pixel_sha256": "27B8ACD9730A7C51E51D2372CED08181BE1DB9140A800C8B375E6EC750BE4208"
+      },
+      "source_png": "workspace/graphics/environment_text_candidates/source/DATA2_S12_DAT_000133DC.png",
+      "edited_png": "workspace/graphics/environment_text_candidates/edited/DATA2_S12_DAT_000133DC.png",
+      "runtime_reachability": "unknown",
+      "text_blocks": []
+    },
+    {
+      "candidate_id": "BBJ-GFX-409154365219",
+      "state": "found",
+      "classification": "environment_placard_uncertain",
+      "protected_graphic": true,
+      "source": {
+        "path": "DATA2/S12.DAT",
+        "offset": 80924,
+        "offset_hex": "0x00013C1C",
+        "pixel_width": 32,
+        "pixel_height": 32,
+        "bpp": 4,
+        "tim_total_size": 576,
+        "decoded_pixel_sha256": "1F6063BBC124499B0BC7C65666F04C071DF0A43DF1A42EABCA42E8D41E66EAB4"
+      },
+      "source_png": "workspace/graphics/environment_text_candidates/source/DATA2_S12_DAT_00013C1C.png",
+      "edited_png": "workspace/graphics/environment_text_candidates/edited/DATA2_S12_DAT_00013C1C.png",
+      "runtime_reachability": "unknown",
+      "text_blocks": []
+    },
+    {
+      "candidate_id": "BBJ-GFX-AC025F5156D8",
+      "state": "found",
+      "classification": "environment_placard_uncertain",
+      "protected_graphic": true,
+      "source": {
+        "path": "DATA2/S12.DAT",
+        "offset": 81500,
+        "offset_hex": "0x00013E5C",
+        "pixel_width": 16,
+        "pixel_height": 16,
+        "bpp": 4,
+        "tim_total_size": 192,
+        "decoded_pixel_sha256": "E04D93AC879B3A5549E3F6A1BE6C44599F2003F49973C7435BB494B83604CD29"
+      },
+      "source_png": "workspace/graphics/environment_text_candidates/source/DATA2_S12_DAT_00013E5C.png",
+      "edited_png": "workspace/graphics/environment_text_candidates/edited/DATA2_S12_DAT_00013E5C.png",
+      "runtime_reachability": "unknown",
+      "text_blocks": []
+    },
+    {
+      "candidate_id": "BBJ-GFX-250669011E77",
+      "state": "found",
+      "classification": "environment_placard_uncertain",
+      "protected_graphic": true,
+      "source": {
+        "path": "DATA2/S12.DAT",
+        "offset": 81692,
+        "offset_hex": "0x00013F1C",
+        "pixel_width": 64,
+        "pixel_height": 64,
+        "bpp": 4,
+        "tim_total_size": 2112,
+        "decoded_pixel_sha256": "66DB866B243215651F07D53A474A06CA1C7693AB4B0A24E3001A4C5075C1265B"
+      },
+      "source_png": "workspace/graphics/environment_text_candidates/source/DATA2_S12_DAT_00013F1C.png",
+      "edited_png": "workspace/graphics/environment_text_candidates/edited/DATA2_S12_DAT_00013F1C.png",
+      "runtime_reachability": "unknown",
+      "text_blocks": []
+    },
+    {
+      "candidate_id": "BBJ-GFX-B6416C7F5471",
+      "state": "found",
+      "classification": "environment_placard_uncertain",
+      "protected_graphic": true,
+      "source": {
+        "path": "DATA2/S12.DAT",
+        "offset": 83804,
+        "offset_hex": "0x0001475C",
+        "pixel_width": 32,
+        "pixel_height": 32,
+        "bpp": 4,
+        "tim_total_size": 576,
+        "decoded_pixel_sha256": "96750D75A0A6383548710330A8D78ABF085F8F921F3F95E3CE6A6D8B5C52F8A4"
+      },
+      "source_png": "workspace/graphics/environment_text_candidates/source/DATA2_S12_DAT_0001475C.png",
+      "edited_png": "workspace/graphics/environment_text_candidates/edited/DATA2_S12_DAT_0001475C.png",
+      "runtime_reachability": "unknown",
+      "text_blocks": []
+    },
+    {
+      "candidate_id": "BBJ-GFX-2A33CCC338A0",
+      "state": "found",
+      "classification": "environment_placard_uncertain",
+      "protected_graphic": true,
+      "source": {
+        "path": "DATA2/S12.DAT",
+        "offset": 84380,
+        "offset_hex": "0x0001499C",
+        "pixel_width": 16,
+        "pixel_height": 16,
+        "bpp": 4,
+        "tim_total_size": 192,
+        "decoded_pixel_sha256": "8EEF855850472D38511DC0A2BA13163EB07F1406762F210ED40DC4B8CE9CC8F4"
+      },
+      "source_png": "workspace/graphics/environment_text_candidates/source/DATA2_S12_DAT_0001499C.png",
+      "edited_png": "workspace/graphics/environment_text_candidates/edited/DATA2_S12_DAT_0001499C.png",
+      "runtime_reachability": "unknown",
+      "text_blocks": []
+    },
+    {
+      "candidate_id": "BBJ-GFX-2114C470BFAD",
+      "state": "found",
+      "classification": "environment_text_or_sign",
+      "protected_graphic": true,
+      "source": {
+        "path": "DATA2/S13.DAT",
+        "offset": 101176,
+        "offset_hex": "0x00018B38",
+        "pixel_width": 128,
+        "pixel_height": 128,
+        "bpp": 4,
+        "tim_total_size": 8256,
+        "decoded_pixel_sha256": "F8020017DD52F9D0DA007E8740F9F6A6A44248724D517D25931BA1203F820814"
+      },
+      "source_png": "workspace/graphics/environment_text_candidates/source/DATA2_S13_DAT_00018B38.png",
+      "edited_png": "workspace/graphics/environment_text_candidates/edited/DATA2_S13_DAT_00018B38.png",
+      "runtime_reachability": "unknown",
+      "text_blocks": []
+    },
+    {
+      "candidate_id": "BBJ-GFX-FFB03CA598C0",
+      "state": "found",
+      "classification": "environment_text_or_sign",
+      "protected_graphic": true,
+      "source": {
+        "path": "DATA2/S18.DAT",
+        "offset": 175168,
+        "offset_hex": "0x0002AC40",
+        "pixel_width": 64,
+        "pixel_height": 64,
+        "bpp": 4,
+        "tim_total_size": 2112,
+        "decoded_pixel_sha256": "48BEBB9773EEAD76446F6A575E4BB9A4B8C0DC62FA5F40FE5569EDE6EA03BC25"
+      },
+      "source_png": "workspace/graphics/environment_text_candidates/source/DATA2_S18_DAT_0002AC40.png",
+      "edited_png": "workspace/graphics/environment_text_candidates/edited/DATA2_S18_DAT_0002AC40.png",
+      "runtime_reachability": "unknown",
+      "text_blocks": []
+    },
+    {
+      "candidate_id": "BBJ-GFX-69E25EDF5BE3",
+      "state": "found",
+      "classification": "environment_text_or_graffiti",
+      "protected_graphic": true,
+      "source": {
+        "path": "DATA2/S22.DAT",
+        "offset": 105964,
+        "offset_hex": "0x00019DEC",
+        "pixel_width": 64,
+        "pixel_height": 64,
+        "bpp": 4,
+        "tim_total_size": 2112,
+        "decoded_pixel_sha256": "9B3698DE6D2959400F7A2205AD27559A846BBC5C0794E809C710AE94CA8C62CF"
+      },
+      "source_png": "workspace/graphics/environment_text_candidates/source/DATA2_S22_DAT_00019DEC.png",
+      "edited_png": "workspace/graphics/environment_text_candidates/edited/DATA2_S22_DAT_00019DEC.png",
+      "runtime_reachability": "unknown",
+      "text_blocks": []
+    },
+    {
+      "candidate_id": "BBJ-GFX-2C3310961657",
+      "state": "found",
+      "classification": "environment_text_or_graffiti",
+      "protected_graphic": true,
+      "source": {
+        "path": "DATA2/S22.DAT",
+        "offset": 108076,
+        "offset_hex": "0x0001A62C",
+        "pixel_width": 32,
+        "pixel_height": 32,
+        "bpp": 4,
+        "tim_total_size": 576,
+        "decoded_pixel_sha256": "AAFF750BE411EF28E257FE40D336863E5AFE2D848D6240533AD989C286CD6A7F"
+      },
+      "source_png": "workspace/graphics/environment_text_candidates/source/DATA2_S22_DAT_0001A62C.png",
+      "edited_png": "workspace/graphics/environment_text_candidates/edited/DATA2_S22_DAT_0001A62C.png",
+      "runtime_reachability": "unknown",
+      "text_blocks": []
+    },
+    {
+      "candidate_id": "BBJ-GFX-A98CD2987348",
+      "state": "found",
+      "classification": "environment_text_or_graffiti",
+      "protected_graphic": true,
+      "source": {
+        "path": "DATA2/S22.DAT",
+        "offset": 108652,
+        "offset_hex": "0x0001A86C",
+        "pixel_width": 16,
+        "pixel_height": 16,
+        "bpp": 4,
+        "tim_total_size": 192,
+        "decoded_pixel_sha256": "F0DBF1F689BA27F5D01E295A7C60C5A97EEF3D4AFFC87FE01AEAE4F98F6A7D99"
+      },
+      "source_png": "workspace/graphics/environment_text_candidates/source/DATA2_S22_DAT_0001A86C.png",
+      "edited_png": "workspace/graphics/environment_text_candidates/edited/DATA2_S22_DAT_0001A86C.png",
+      "runtime_reachability": "unknown",
+      "text_blocks": []
+    },
+    {
+      "candidate_id": "BBJ-GFX-C87A0EB54EBF",
+      "state": "found",
+      "classification": "environment_text_or_poster",
+      "protected_graphic": true,
+      "source": {
+        "path": "DATA2/S23.DAT",
+        "offset": 121372,
+        "offset_hex": "0x0001DA1C",
+        "pixel_width": 64,
+        "pixel_height": 64,
+        "bpp": 4,
+        "tim_total_size": 2112,
+        "decoded_pixel_sha256": "B16082A7D4B85A74878774C1CB0CD3C021FF74C5A41A4C38510D5EA84790348E"
+      },
+      "source_png": "workspace/graphics/environment_text_candidates/source/DATA2_S23_DAT_0001DA1C.png",
+      "edited_png": "workspace/graphics/environment_text_candidates/edited/DATA2_S23_DAT_0001DA1C.png",
+      "runtime_reachability": "unknown",
+      "text_blocks": []
+    }
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "selection_version": 1,
+  "scope": "DATA2 first-pass environmental text review",
+  "review_status": "protected_candidate_population_open",
+  "notes": [
+    "These are environmental signs, graffiti, placards, and their lower-resolution variants found by static contact-sheet review.",
+    "Every candidate is a protected composite graphic; do not edit outside the confirmed text region.",
+    "Runtime reachability and stage placement are not yet confirmed.",
+    "Costume markings, emblems without readable text, and English production marks are excluded."
+  ],
+  "groups": [
+    {
+      "path": "DATA2/S00.DAT",
+      "classification": "environment_text_or_sign",
+      "protected_graphic": true,
+      "offsets": [
+        "0x00023A84", "0x000242C4", "0x00024504",
+        "0x000245C4", "0x00024E04", "0x00025044"
+      ]
+    },
+    {
+      "path": "DATA2/S04.DAT",
+      "classification": "environment_text_or_sign",
+      "protected_graphic": true,
+      "offsets": ["0x00028D20"]
+    },
+    {
+      "path": "DATA2/S06.DAT",
+      "classification": "environment_emblem_or_text",
+      "protected_graphic": true,
+      "offsets": ["0x00027C1C"]
+    },
+    {
+      "path": "DATA2/S07.DAT",
+      "classification": "environment_text_or_sign",
+      "protected_graphic": true,
+      "offsets": [
+        "0x00027AB4", "0x000282F4", "0x00028534",
+        "0x000285F4", "0x00028E34", "0x00029074"
+      ]
+    },
+    {
+      "path": "DATA2/S09.DAT",
+      "classification": "environment_text_or_sign",
+      "protected_graphic": true,
+      "offsets": ["0x0001BFAC"]
+    },
+    {
+      "path": "DATA2/S11.DAT",
+      "classification": "environment_placard_uncertain",
+      "protected_graphic": true,
+      "offsets": ["0x00011BEC"]
+    },
+    {
+      "path": "DATA2/S12.DAT",
+      "classification": "environment_placard_uncertain",
+      "protected_graphic": true,
+      "offsets": [
+        "0x000133DC", "0x00013C1C", "0x00013E5C",
+        "0x00013F1C", "0x0001475C", "0x0001499C"
+      ]
+    },
+    {
+      "path": "DATA2/S13.DAT",
+      "classification": "environment_text_or_sign",
+      "protected_graphic": true,
+      "offsets": ["0x00018B38"]
+    },
+    {
+      "path": "DATA2/S18.DAT",
+      "classification": "environment_text_or_sign",
+      "protected_graphic": true,
+      "offsets": ["0x0002AC40"]
+    },
+    {
+      "path": "DATA2/S22.DAT",
+      "classification": "environment_text_or_graffiti",
+      "protected_graphic": true,
+      "offsets": ["0x00019DEC", "0x0001A62C", "0x0001A86C"]
+    },
+    {
+      "path": "DATA2/S23.DAT",
+      "classification": "environment_text_or_poster",
+      "protected_graphic": true,
+      "offsets": ["0x0001DA1C"]
+    }
+  ]
+}

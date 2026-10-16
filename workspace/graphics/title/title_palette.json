@@ -1,0 +1,180 @@
+{
+  "palette": [
+    {
+      "index": 0,
+      "psx_bgr555": "0x8000",
+      "rgba": [
+        0,
+        0,
+        0,
+        255
+      ],
+      "pixel_count": 21823
+    },
+    {
+      "index": 1,
+      "psx_bgr555": "0x8C1A",
+      "rgba": [
+        213,
+        0,
+        24,
+        255
+      ],
+      "pixel_count": 599
+    },
+    {
+      "index": 2,
+      "psx_bgr555": "0x9084",
+      "rgba": [
+        32,
+        32,
+        32,
+        255
+      ],
+      "pixel_count": 1278
+    },
+    {
+      "index": 3,
+      "psx_bgr555": "0x9473",
+      "rgba": [
+        156,
+        24,
+        41,
+        255
+      ],
+      "pixel_count": 14
+    },
+    {
+      "index": 4,
+      "psx_bgr555": "0x947B",
+      "rgba": [
+        222,
+        24,
+        41,
+        255
+      ],
+      "pixel_count": 259
+    },
+    {
+      "index": 5,
+      "psx_bgr555": "0xA51C",
+      "rgba": [
+        230,
+        65,
+        74,
+        255
+      ],
+      "pixel_count": 175
+    },
+    {
+      "index": 6,
+      "psx_bgr555": "0xA94A",
+      "rgba": [
+        82,
+        82,
+        82,
+        255
+      ],
+      "pixel_count": 768
+    },
+    {
+      "index": 7,
+      "psx_bgr555": "0xB18C",
+      "rgba": [
+        98,
+        98,
+        98,
+        255
+      ],
+      "pixel_count": 517
+    },
+    {
+      "index": 8,
+      "psx_bgr555": "0xB9BD",
+      "rgba": [
+        238,
+        106,
+        115,
+        255
+      ],
+      "pixel_count": 188
+    },
+    {
+      "index": 9,
+      "psx_bgr555": "0xC631",
+      "rgba": [
+        139,
+        139,
+        139,
+        255
+      ],
+      "pixel_count": 858
+    },
+    {
+      "index": 10,
+      "psx_bgr555": "0xC65E",
+      "rgba": [
+        246,
+        148,
+        139,
+        255
+      ],
+      "pixel_count": 193
+    },
+    {
+      "index": 11,
+      "psx_bgr555": "0xDAD6",
+      "rgba": [
+        180,
+        180,
+        180,
+        255
+      ],
+      "pixel_count": 546
+    },
+    {
+      "index": 12,
+      "psx_bgr555": "0xDEF7",
+      "rgba": [
+        189,
+        189,
+        189,
+        255
+      ],
+      "pixel_count": 482
+    },
+    {
+      "index": 13,
+      "psx_bgr555": "0xEB5A",
+      "rgba": [
+        213,
+        213,
+        213,
+        255
+      ],
+      "pixel_count": 862
+    },
+    {
+      "index": 14,
+      "psx_bgr555": "0xF7BD",
+      "rgba": [
+        238,
+        238,
+        238,
+        255
+      ],
+      "pixel_count": 1333
+    },
+    {
+      "index": 15,
+      "psx_bgr555": "0xFFFF",
+      "rgba": [
+        255,
+        255,
+        255,
+        255
+      ],
+      "pixel_count": 31545
+    }
+  ]
+}

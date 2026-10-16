@@ -1,0 +1,82 @@
+{
+  "schema_version": 1,
+  "game": "Bushido Blade (Japan) SLPM_860.20",
+  "policy": {
+    "custom_persistent_state_allowed": false,
+    "official_glyph_payload": {
+      "start": "0x800118B4",
+      "end_exclusive": "0x80011D85",
+      "runtime_writable": false,
+      "evidence": "v31 clean boot and official-glyph runtime; upper bound reduced after v32 executable overwrite"
+    }
+  },
+  "game_owned_read_only_fields": [
+    {
+      "name": "jp_scene_source",
+      "address": "0x800A2D88",
+      "gp_offset": "0x304",
+      "use": "scene record pointer = 0x8014C000 + [0x8014C000+0x38+group*4]; header {stream_count,n1,2*n1} is NOT unique per dialogue"
+    },
+    {
+      "name": "jp_scene_frame",
+      "address": "0x800A2D98",
+      "gp_offset": "0x314",
+      "use": "official scene timeline; counts 1..scene_length per frame at 0x8003A88C, then stores length-1 (179 observed post-scene)"
+    },
+    {
+      "name": "jp_scene_cmp",
+      "address": "0x800A2D7C",
+      "gp_offset": "0x2F8",
+      "use": "group compare entry = 0x8014C000 + [0x8014C000+4] + group*8; group = (value - 0x8014C000 - [0x8014C004]) / 8"
+    },
+    {
+      "name": "v0x_transient_base",
+      "address": "0x8014C000",
+      "use": "DATA7/V0X.DAT resident here during dialogue scenes; header words fingerprint the file (docs/v0x-scene-mapping.md)"
+    },
+    {
+      "name": "story_scene_counter",
+      "address": "0x800A30A0",
+      "width": "halfword",
+      "use": "group = value % 6 at scene start (caller 0x800483EC)"
+    },
+    {
+      "name": "story_stage_index",
+      "address": "0x800A3074",
+      "width": "halfword",
+      "use": "stage = value - 1 at scene start (caller 0x800483EC)"
+    }
+  ],
+  "rejected_persistent_ranges": [
+    {
+      "start": "0x800A2E90",
+      "end_exclusive": "0x800A2E9C",
+      "reason": "mutable game data; foreign frame value 0x4000"
+    },
+    {
+      "start": "0x80011D94",
+      "end_exclusive": "0x80011DA0",
+      "reason": "live executable bytes; v32 BIOS-stage failure"
+    },
+    {
+      "start": "0x80011D78",
+      "end_exclusive": "0x80011D84",
+      "reason": "runtime game writer; v33 foreign frame value 0x4000"
+    }
+  ],
+  "target_scene_signature": {
+    "source_gp_offset": "0x304",
+    "word_at_0": "0x00000002",
+    "word_at_4": "0x00000017",
+    "word_at_8": "0x0000002E",
+    "scene_length_via_gp_0x2F8_word_at_4": 180,
+    "evidence": "live single-breakpoint trace at 0x8003A88C, constant across playback frames 1-180 (work/analysis/jp_scene_update_entry_trace.json)"
+  },
+  "rejected_scene_signatures": [
+    {
+      "word_at_4": "0x000C16E9",
+      "word_at_12": "0xACAF17DF",
+      "reason": "captured after scene end (v33 runtime); never matches during playback frames 1-180, root cause of v34 no-render"
+    }
+  ]
+}

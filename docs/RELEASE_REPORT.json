@@ -1,0 +1,82 @@
+{
+  "schema_version": 2,
+  "status": "PASS: both region patches reverse-verified and apply helpers tested",
+  "distribution_policy": "one independent disc patch per region",
+  "contains_original_game_files": false,
+  "patches": [
+    {
+      "id": "USA",
+      "executable": "SCUS_941.80",
+      "patch": "BushidoBlade_SCUS94180_KR_20260811.xdelta",
+      "patch_size": 1699354,
+      "patch_sha256": "271909e08c9efcb980258afa058a46d0c67f10e0d81c184474f707b4969fa118",
+      "source_size": 582258768,
+      "source_sha256": "c5cba1e3e8bc68f15e32492907ac37add7f8e8d3e10ddb36742a729ce1a970bf",
+      "target_size": 586647600,
+      "target_sha256": "323c1a47604310b98a37f3711a16379bda7014272a325f28d4023078078141e5",
+      "reverse_verification": "PASS"
+    },
+    {
+      "id": "JP",
+      "executable": "SLPM_860.20",
+      "patch": "BushidoBlade_SLPM86020_KR_20260811.xdelta",
+      "patch_size": 1155798,
+      "patch_sha256": "dda3068a39d878282edcbb0c6a4774cf643906a30124361badab2f35b29c5691",
+      "source_size": 510021792,
+      "source_sha256": "7d89b9254c5001ad7fc4f0c2fc3cda9600417d075292c34d3b60aa3b600dba96",
+      "target_size": 512841840,
+      "target_sha256": "17f137839c0bcc27782a70599b7b1b1bebc8596a01391e2bf8ba8187e8b50ead",
+      "reverse_verification": "PASS"
+    }
+  ],
+  "apply_script_end_to_end": {
+    "USA": "PASS: apply_usa.ps1 and apply_usa.cmd reproduced target hash and cue from a source path containing spaces",
+    "JP": "PASS: apply_jp.ps1 and apply_jp.cmd reproduced target hash and cue from a source path containing spaces"
+  },
+  "coverage": {
+    "shared": [
+      "title logo",
+      "loading logo",
+      "character-select names",
+      "win-scene subtitles",
+      "bad-ending banner art",
+      "movie gallery forced open"
+    ],
+    "USA_only": [
+      "opening cutscene subtitles",
+      "pre-battle opponent lines",
+      "ending subtitles"
+    ],
+    "JP_only": [
+      "main menu / options screens",
+      "character profile screens",
+      "weapon select and versus settings"
+    ],
+    "note": "the two discs use different text engines, so neither set can be ported to the other -- USA can render subtitles over movies, JP keeps its UI text as swappable images"
+  },
+  "gallery_unlock": {
+    "USA": {
+      "mask": "0x800A10D8",
+      "patched_loads": 7,
+      "save_path": "untouched"
+    },
+    "JP": {
+      "mask": "0x800A30B8",
+      "patched_loads": 7,
+      "save_path": "untouched",
+      "note": "nop-ing the two branch gates was not enough in 2026-08-02 testing; forcing every menu-gate load to -1 is the USA-proven equivalent"
+    }
+  },
+  "runtime": {
+    "static_verification": "PASS (build reports + read-back of patched TIMs)",
+    "user_runtime_confirmation": "PASS: prior release coverage retained; 2026-08-11 USA V03 record 1 fix target scene confirmed on the exact distributed BIN hash",
+    "gallery_unlock_check": "verified against a cleared memory card -- the stock disc showed the gallery locked, the patched disc showed it open, so the unlock comes from the patch and not from save data"
+  },
+  "release_date": "20260811",
+  "usa_subtitle_record_fix": {
+    "mechanism": "K1US magic-only cross-file alias",
+    "change": "validate K1US magic plus crc32(source_path)",
+    "target_scene_runtime": "PASS: 너도 카게에 들어와 있었다니…",
+    "tested_target_sha256": "323c1a47604310b98a37f3711a16379bda7014272a325f28d4023078078141e5"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "asset_id": "BBJ-TITLE-LOGO-001",
+  "source": {
+    "path": "DATA3/O12.DAT",
+    "sha256": "10FB76FA2D09F99E48CF3B12B26521C6FE9618F15E0EFD2DF72F4CB79025E83B",
+    "tim_offset": 460,
+    "tim_offset_hex": "0x000001CC",
+    "tim_size": 30784
+  },
+  "format": {
+    "container": "PlayStation TIM",
+    "bpp": 4,
+    "width": 480,
+    "height": 128,
+    "palette_entries": 16,
+    "transparent_palette_indices": [],
+    "background_palette_index": 15,
+    "background_rgba": [
+      255,
+      255,
+      255,
+      255
+    ]
+  },
+  "outputs": {
+    "raw_tim": "title_original.tim",
+    "rgba_png": "title_original.png",
+    "indexed_png": "title_original_indexed.png",
+    "editable_png": "title_ko_edit.png",
+    "palette": "title_palette.json"
+  },
+  "hashes": {
+    "raw_tim_sha256": "03CABFA7074E323857C655F49E66DD57E5BA1876D8B71ACB6580F8AB3A1351B9",
+    "rgba_png_sha256": "010368A952CCB80F2F9E444960279A7C2DE40332C9939AEE3AA64DFB863B643A",
+    "indexed_png_sha256": "0B2FCD8BAC6CA85744ECE37815147FC8202966D8C262C5489F4BA67771203D7D"
+  },
+  "editable_png_matches_original": false,
+  "note": "title_ko_edit.png is created only when missing and is never overwritten."
+}

@@ -1,0 +1,97 @@
+{
+  "selection_version": 1,
+  "scope": "DATA3 first-pass visual review",
+  "review_status": "candidate_population_open",
+  "notes": [
+    "This is a conservative first-pass list of Japanese baked-text TIM assets.",
+    "It does not yet prove runtime reachability or completeness outside DATA3.",
+    "O19 is a composite protected graphic and requires a text-area mask before editing."
+  ],
+  "groups": [
+    {
+      "path": "DATA3/O00.DAT",
+      "classification": "text_or_glyph",
+      "offsets": ["0x0000E904", "0x0000FC84", "0x000106C4", "0x00011244", "0x00011384"]
+    },
+    {
+      "path": "DATA3/O01.DAT",
+      "classification": "text_or_logo",
+      "offsets": [
+        "0x00021B78", "0x000236B8", "0x000246F8", "0x00025738",
+        "0x00026778", "0x000277B8", "0x000523D8", "0x00053418",
+        "0x00054458", "0x00055498", "0x0006F7F8", "0x00070838",
+        "0x00071878", "0x0007CB18"
+      ]
+    },
+    {
+      "path": "DATA3/O02.DAT",
+      "classification": "text",
+      "offsets": [
+        "0x00000124", "0x00014360", "0x00014AE0", "0x00014D60",
+        "0x0000E8EC", "0x0000ED64", "0x0000F1DC", "0x0000F654",
+        "0x0000FACC", "0x0000FF44",
+        "0x00014FE0", "0x000160A0", "0x000164E0", "0x00016920",
+        "0x00016D60", "0x000171A0", "0x000174E0", "0x00017820",
+        "0x00017C60", "0x00017FA0", "0x0001ABA0", "0x0001C11C",
+        "0x0001DD5C", "0x0001F99C", "0x000215DC", "0x0002321C",
+        "0x00024E5C", "0x00026A9C", "0x000286DC", "0x0002B07C"
+      ]
+    },
+    {
+      "path": "DATA3/O04.DAT",
+      "classification": "text",
+      "offsets": [
+        "0x00003CCC", "0x00004CAC", "0x00004FEC", "0x0000532C",
+        "0x0000556C", "0x00005BAC", "0x000061EC", "0x0000642C",
+        "0x0000696C", "0x00006FAC", "0x0000712C", "0x000072AC",
+        "0x0000742C", "0x000075AC", "0x0000772C", "0x000078AC",
+        "0x00007A2C", "0x00007BAC", "0x00007D2C", "0x00007EAC",
+        "0x0000932C", "0x0000990C", "0x0000A04C", "0x0000AD7C",
+        "0x0000B8FC", "0x0000C35C", "0x0000D59C", "0x0000E75C",
+        "0x0000ED3C", "0x0000F47C", "0x0000FEBC", "0x0001107C",
+        "0x0001167C", "0x00011DBC", "0x00012EDC", "0x00013C0C",
+        "0x00013F8C"
+      ]
+    },
+    {
+      "path": "DATA3/O12.DAT",
+      "classification": "text_or_logo",
+      "offsets": [
+        "0x000001CC", "0x00007B9C", "0x000089A4", "0x00009644",
+        "0x00009D20", "0x0000A930", "0x0000B22C", "0x0000BECC",
+        "0x0000C758", "0x0000CFE4"
+      ]
+    },
+    {
+      "path": "DATA3/O13.DAT",
+      "classification": "text",
+      "offsets": ["0x00004D4C", "0x00005C9C", "0x0000655C", "0x000075BC"]
+    },
+    {
+      "path": "DATA3/O14.DAT",
+      "classification": "text",
+      "offsets": [
+        "0x000002A4", "0x000006E4", "0x00001B68", "0x00002288",
+        "0x00002A08", "0x000033A8", "0x00003F28", "0x000041A8",
+        "0x00004868", "0x00004AA8", "0x00004FE8", "0x00005268",
+        "0x000055E8", "0x00005B48", "0x000060C8", "0x00006388",
+        "0x000068C8", "0x00006D08", "0x00007188", "0x00007588",
+        "0x00007988", "0x00007D88", "0x00008188", "0x00008588"
+      ]
+    },
+    {
+      "path": "DATA3/O15.DAT",
+      "classification": "text",
+      "offsets": [
+        "0x00000148", "0x00000F08", "0x00001CC8",
+        "0x00003388", "0x00004EC8", "0x00006888"
+      ]
+    },
+    {
+      "path": "DATA3/O19.DAT",
+      "classification": "composite_text_image",
+      "protected_graphic": true,
+      "offsets": ["0x0000010C"]
+    }
+  ]
+}
