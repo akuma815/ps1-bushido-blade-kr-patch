@@ -4,6 +4,14 @@
 
 > **최종 배포본 · 2026-08-11**
 
+<!-- game-preview:start -->
+<p align="center">
+  <img src="img/preview.webp" alt="무사도의 검 (Bushido Blade) — 한글 타이틀 · 작업 당시 캡처" width="640">
+</p>
+
+**한글 타이틀 · 작업 당시 캡처** — poc_title 2026-07-29 캡처 작업 당시 화면이며 최종 배포본의 화면 검증을 의미하지 않습니다.
+<!-- game-preview:end -->
+
 ## 다운로드 및 적용 방법
 
 1. 아래 체크섬 또는 상세 안내와 일치하는 원본을 준비합니다.

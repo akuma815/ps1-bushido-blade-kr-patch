@@ -1,0 +1,14 @@
+{
+  "src": "assets/screenshots/ps1-bushido-blade-kr-patch.webp",
+  "caption": "한글 타이틀 · 작업 당시 캡처",
+  "kind": "runtime",
+  "width": 3840,
+  "height": 2055,
+  "source": "Games/Bushido Blade/work/screenshots/poc_title/ブシドーブレード 2026-07-29-21-55-42.png",
+  "sourceSHA256": "ceea68ac9c1ba135d8910fbcbd3c8736985429363b1fcd23e8dd44dd96fa6907",
+  "assetSHA256": "64df2347093f15ca65ea7e484a0679025cc30138d2156b2c19f74ae300600bc0",
+  "pixelSHA256": "3cf122c3c2231a3058decf260b819b762f7bf5ee2ad31016b8348d10dd2492ca",
+  "sourceNote": "poc_title 2026-07-29 캡처",
+  "readmeAsset": "img/preview.webp",
+  "displayNote": "poc_title 2026-07-29 캡처 작업 당시 화면이며 최종 배포본의 화면 검증을 의미하지 않습니다."
+}
