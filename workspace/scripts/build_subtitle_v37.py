@@ -53,7 +53,7 @@ from build_subtitle_poc import assemble, encode_jump, patch_logical_sector, sha2
 from build_subtitle_scene_poc_v36 import STOCK_TEMPLATE_CLUT, render_glyph_fit
 
 ROOT = Path(__file__).resolve().parents[2]
-SCHEDULE_PATH = ROOT / "work" / "analysis" / "jp_subtitle_scene_schedule.json"
+SCHEDULE_PATH = ROOT / "inputs" / "analysis" / "jp_subtitle_scene_schedule.json"
 KOREAN_PATH = ROOT / "workspace" / "text" / "source" / "v0x_record_korean.json"
 
 TRANSIENT_BASE = 0x8014C000

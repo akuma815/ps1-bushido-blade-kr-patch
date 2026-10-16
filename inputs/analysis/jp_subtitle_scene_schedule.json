@@ -1,0 +1,1508 @@
+{
+  "runtime_key": {
+    "transient_base": "0x8014C000",
+    "group_formula": "([gp+0x2F8] - 0x8014C000 - [0x8014C004]) / 8",
+    "frame_source": "a0 at 0x8003A88C (1..length)"
+  },
+  "files": [
+    {
+      "path": "DATA7/V00.DAT",
+      "jp_size": 220896,
+      "jp_header_words": [
+        "0x13",
+        "0x54",
+        "0x84",
+        "0x3F8"
+      ],
+      "usa_record_count_field": 7,
+      "csv_rows": 7,
+      "csv_joined": 7,
+      "groups": [
+        {
+          "group": 0,
+          "cmp_ptr_runtime": "0x8014C054",
+          "slot_word": 7,
+          "length_frames": 180,
+          "schedule": [
+            {
+              "frame": 30,
+              "lines_en": [
+                "Nothing personal, babushka."
+              ],
+              "lines_ko": [],
+              "timeline_id": "usa/data7/v00/000"
+            },
+            {
+              "frame": 180,
+              "lines_en": [],
+              "lines_ko": null
+            }
+          ]
+        },
+        {
+          "group": 1,
+          "cmp_ptr_runtime": "0x8014C05C",
+          "slot_word": 7,
+          "length_frames": 180,
+          "schedule": [
+            {
+              "frame": 84,
+              "lines_en": [
+                "Why would Kannuki want to kill me...?"
+              ],
+              "lines_ko": [],
+              "timeline_id": "usa/data7/v00/001"
+            },
+            {
+              "frame": 180,
+              "lines_en": [],
+              "lines_ko": null
+            }
+          ]
+        },
+        {
+          "group": 2,
+          "cmp_ptr_runtime": "0x8014C064",
+          "slot_word": 7,
+          "length_frames": 180,
+          "schedule": [
+            {
+              "frame": 60,
+              "lines_en": [
+                "I don't want to kill women."
+              ],
+              "lines_ko": [],
+              "timeline_id": "usa/data7/v00/002"
+            },
+            {
+              "frame": 180,
+              "lines_en": [],
+              "lines_ko": null
+            }
+          ]
+        },
+        {
+          "group": 3,
+          "cmp_ptr_runtime": "0x8014C06C",
+          "slot_word": 6,
+          "length_frames": 180,
+          "schedule": [
+            {
+              "frame": 60,
+              "lines_en": [
+                "For the first time in my life,",
+                "I've taken a life."
+              ],
+              "lines_ko": [
+                "처음으로…",
+                "사람을 베었어…"
+              ],
+              "timeline_id": "usa/data7/v00/003"
+            },
+            {
+              "frame": 180,
+              "lines_en": [],
+              "lines_ko": null
+            }
+          ]
+        },
+        {
+          "group": 4,
+          "cmp_ptr_runtime": "0x8014C074",
+          "slot_word": 7,
+          "length_frames": 180,
+          "schedule": [
+            {
+              "frame": 30,
+              "lines_en": [
+                "Mikado..."
+              ],
+              "lines_ko": [],
+              "timeline_id": "usa/data7/v00/004"
+            },
+            {
+              "frame": 120,
+              "lines_en": [
+                "I'm sorry..."
+              ],
+              "lines_ko": [],
+              "timeline_id": "usa/data7/v00/005"
+            },
+            {
+              "frame": 180,
+              "lines_en": [],
+              "lines_ko": null
+            }
+          ]
+        },
+        {
+          "group": 5,
+          "cmp_ptr_runtime": "0x8014C07C",
+          "slot_word": 7,
+          "length_frames": 180,
+          "schedule": [
+            {
+              "frame": 50,
+              "lines_en": [
+                "You are not even in Kage,",
+                "why were you after me?"
+              ],
+              "lines_ko": [],
+              "timeline_id": "usa/data7/v00/006"
+            },
+            {
+              "frame": 180,
+              "lines_en": [],
+              "lines_ko": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "path": "DATA7/V01.DAT",
+      "jp_size": 201280,
+      "jp_header_words": [
+        "0x13",
+        "0x54",
+        "0x84",
+        "0x37C"
+      ],
+      "usa_record_count_field": 7,
+      "csv_rows": 6,
+      "csv_joined": 6,
+      "groups": [
+        {
+          "group": 0,
+          "cmp_ptr_runtime": "0x8014C054",
+          "slot_word": 6,
+          "length_frames": 180,
+          "schedule": [
+            {
+              "frame": 80,
+              "lines_en": [
+                "Looks like you got a little too old, Pops."
+              ],
+              "lines_ko": [],
+              "timeline_id": "usa/data7/v01/000"
+            },
+            {
+              "frame": 180,
+              "lines_en": [],
+              "lines_ko": null
+            }
+          ]
+        },
+        {
+          "group": 1,
+          "cmp_ptr_runtime": "0x8014C05C",
+          "slot_word": 6,
+          "length_frames": 180,
+          "schedule": [
+            {
+              "frame": 40,
+              "lines_en": [
+                "Is the Dojo Master controlling everyone?"
+              ],
+              "lines_ko": [],
+              "timeline_id": "usa/data7/v01/001"
+            },
+            {
+              "frame": 180,
+              "lines_en": [],
+              "lines_ko": null
+            }
+          ]
+        },
+        {
+          "group": 2,
+          "cmp_ptr_runtime": "0x8014C064",
+          "slot_word": 7,
+          "length_frames": 180,
+          "schedule": [
+            {
+              "frame": 30,
+              "lines_en": [
+                "Why did you try to kill me?"
+              ],
+              "lines_ko": [],
+              "timeline_id": "usa/data7/v01/002"
+            },
+            {
+              "frame": 180,
+              "lines_en": [],
+              "lines_ko": null
+            }
+          ]
+        },
+        {
+          "group": 3,
+          "cmp_ptr_runtime": "0x8014C06C",
+          "slot_word": 7,
+          "length_frames": 180,
+          "schedule": [
+            {
+              "frame": 50,
+              "lines_en": [
+                "I never thought I would ever have to kill you."
+              ],
+              "lines_ko": [],
+              "timeline_id": "usa/data7/v01/003"
+            },
+            {
+              "frame": 180,
+              "lines_en": [],
+              "lines_ko": null
+            }
+          ]
+        },
+        {
+          "group": 4,
+          "cmp_ptr_runtime": "0x8014C074",
+          "slot_word": 7,
+          "length_frames": 180,
+          "schedule": [
+            {
+              "frame": 30,
+              "lines_en": [
+                "I must see how far I can make it..."
+              ],
+              "lines_ko": [],
+              "timeline_id": "usa/data7/v01/004"
+            },
+            {
+              "frame": 180,
+              "lines_en": [],
+              "lines_ko": null
+            }
+          ]
+        },
+        {
+          "group": 5,
+          "cmp_ptr_runtime": "0x8014C07C",
+          "slot_word": 7,
+          "length_frames": 180,
+          "schedule": [
+            {
+              "frame": 50,
+              "lines_en": [
+                "Still so young...",
+                "don't throw your life away for nothing."
+              ],
+              "lines_ko": [],
+              "timeline_id": "usa/data7/v01/005"
+            },
+            {
+              "frame": 180,
+              "lines_en": [],
+              "lines_ko": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "path": "DATA7/V02.DAT",
+      "jp_size": 295152,
+      "jp_header_words": [
+        "0x13",
+        "0x54",
+        "0x84",
+        "0x634"
+      ],
+      "usa_record_count_field": 7,
+      "csv_rows": 8,
+      "csv_joined": 8,
+      "groups": [
+        {
+          "group": 0,
+          "cmp_ptr_runtime": "0x8014C054",
+          "slot_word": 7,
+          "length_frames": 300,
+          "schedule": [
+            {
+              "frame": 11,
+              "lines_en": [
+                "Bastard!",
+                "You massacred a whole Ryukyu village?"
+              ],
+              "lines_ko": [],
+              "timeline_id": "usa/data7/v02/000"
+            },
+            {
+              "frame": 150,
+              "lines_en": [
+                "`...\""
+              ],
+              "lines_ko": [
+                "“…”"
+              ],
+              "synthesized": true
+            },
+            {
+              "frame": 210,
+              "lines_en": [
+                "What a fool I was..."
+              ],
+              "lines_ko": [],
+              "timeline_id": "usa/data7/v02/001"
+            },
+            {
+              "frame": 300,
+              "lines_en": [],
+              "lines_ko": null
+            }
+          ]
+        },
+        {
+          "group": 1,
+          "cmp_ptr_runtime": "0x8014C05C",
+          "slot_word": 7,
+          "length_frames": 180,
+          "schedule": [
+            {
+              "frame": 40,
+              "lines_en": [
+                "Rest in peace...Black Lotus..."
+              ],
+              "lines_ko": [],
+              "timeline_id": "usa/data7/v02/002"
+            },
+            {
+              "frame": 180,
+              "lines_en": [],
+              "lines_ko": null
+            }
+          ]
+        },
+        {
+          "group": 2,
+          "cmp_ptr_runtime": "0x8014C064",
+          "slot_word": 7,
+          "length_frames": 350,
+          "schedule": [
+            {
+              "frame": 15,
+              "lines_en": [
+                "Master Utsusemi!",
+                "`It's all right. This must be fate.\""
+              ],
+              "lines_ko": [],
+              "timeline_id": "usa/data7/v02/003"
+            },
+            {
+              "frame": 150,
+              "lines_en": [
+                "Master Utsusemi!",
+                "I deeply respected you."
+              ],
+              "lines_ko": [],
+              "timeline_id": "usa/data7/v02/004"
+            },
+            {
+              "frame": 350,
+              "lines_en": [],
+              "lines_ko": null
+            }
+          ]
+        },
+        {
+          "group": 3,
+          "cmp_ptr_runtime": "0x8014C06C",
+          "slot_word": 6,
+          "length_frames": 210,
+          "schedule": [
+            {
+              "frame": 40,
+              "lines_en": [
+                "I can't believe I beat you."
+              ],
+              "lines_ko": [],
+              "timeline_id": "usa/data7/v02/005"
+            },
+            {
+              "frame": 180,
+              "lines_en": [],
+              "lines_ko": null
+            }
+          ]
+        },
+        {
+          "group": 4,
+          "cmp_ptr_runtime": "0x8014C074",
+          "slot_word": 7,
+          "length_frames": 210,
+          "schedule": [
+            {
+              "frame": 30,
+              "lines_en": [
+                "All I wanted was to kill the Dojo Master",
+                "for Utsusemi..."
+              ],
+              "lines_ko": [],
+              "timeline_id": "usa/data7/v02/006"
+            },
+            {
+              "frame": 180,
+              "lines_en": [],
+              "lines_ko": null
+            }
+          ]
+        },
+        {
+          "group": 5,
+          "cmp_ptr_runtime": "0x8014C07C",
+          "slot_word": 7,
+          "length_frames": 180,
+          "schedule": [
+            {
+              "frame": 40,
+              "lines_en": [
+                "I'm sorry.",
+                "I didn't mean for you to get involved."
+              ],
+              "lines_ko": [],
+              "timeline_id": "usa/data7/v02/007"
+            },
+            {
+              "frame": 180,
+              "lines_en": [],
+              "lines_ko": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "path": "DATA7/V03.DAT",
+      "jp_size": 181708,
+      "jp_header_words": [
+        "0x13",
+        "0x54",
+        "0x84",
+        "0x438"
+      ],
+      "usa_record_count_field": 7,
+      "csv_rows": 6,
+      "csv_joined": 6,
+      "groups": [
+        {
+          "group": 0,
+          "cmp_ptr_runtime": "0x8014C054",
+          "slot_word": 7,
+          "length_frames": 180,
+          "schedule": [
+            {
+              "frame": 30,
+              "lines_en": [
+                "I know it's not your fault."
+              ],
+              "lines_ko": [],
+              "timeline_id": "usa/data7/v03/000"
+            },
+            {
+              "frame": 180,
+              "lines_en": [],
+              "lines_ko": null
+            }
+          ]
+        },
+        {
+          "group": 1,
+          "cmp_ptr_runtime": "0x8014C05C",
+          "slot_word": 7,
+          "length_frames": 180,
+          "schedule": [
+            {
+              "frame": 60,
+              "lines_en": [
+                "You were involved with Kage?"
+              ],
+              "lines_ko": [],
+              "timeline_id": "usa/data7/v03/001"
+            },
+            {
+              "frame": 180,
+              "lines_en": [],
+              "lines_ko": null
+            }
+          ]
+        },
+        {
+          "group": 2,
+          "cmp_ptr_runtime": "0x8014C064",
+          "slot_word": 7,
+          "length_frames": 180,
+          "schedule": [
+            {
+              "frame": 40,
+              "lines_en": [
+                "I don't care who comes against me."
+              ],
+              "lines_ko": [],
+              "timeline_id": "usa/data7/v03/002"
+            },
+            {
+              "frame": 180,
+              "lines_en": [],
+              "lines_ko": null
+            }
+          ]
+        },
+        {
+          "group": 3,
+          "cmp_ptr_runtime": "0x8014C06C",
+          "slot_word": 6,
+          "length_frames": 180,
+          "schedule": [
+            {
+              "frame": 50,
+              "lines_en": [
+                "There's no way I'm going to die."
+              ],
+              "lines_ko": [],
+              "timeline_id": "usa/data7/v03/003"
+            },
+            {
+              "frame": 180,
+              "lines_en": [],
+              "lines_ko": null
+            }
+          ]
+        },
+        {
+          "group": 4,
+          "cmp_ptr_runtime": "0x8014C074",
+          "slot_word": 6,
+          "length_frames": 180,
+          "schedule": [
+            {
+              "frame": 30,
+              "lines_en": [
+                "I don't want to kill..."
+              ],
+              "lines_ko": [],
+              "timeline_id": "usa/data7/v03/004"
+            },
+            {
+              "frame": 180,
+              "lines_en": [],
+              "lines_ko": null
+            }
+          ]
+        },
+        {
+          "group": 5,
+          "cmp_ptr_runtime": "0x8014C07C",
+          "slot_word": 6,
+          "length_frames": 180,
+          "schedule": [
+            {
+              "frame": 50,
+              "lines_en": [
+                "Humph!",
+                "You're years away from beating me."
+              ],
+              "lines_ko": [],
+              "timeline_id": "usa/data7/v03/005"
+            },
+            {
+              "frame": 180,
+              "lines_en": [],
+              "lines_ko": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "path": "DATA7/V04.DAT",
+      "jp_size": 355412,
+      "jp_header_words": [
+        "0x13",
+        "0x54",
+        "0x84",
+        "0x378"
+      ],
+      "usa_record_count_field": 7,
+      "csv_rows": 11,
+      "csv_joined": 11,
+      "groups": [
+        {
+          "group": 0,
+          "cmp_ptr_runtime": "0x8014C054",
+          "slot_word": 6,
+          "length_frames": 180,
+          "schedule": [
+            {
+              "frame": 40,
+              "lines_en": [
+                "Why did we ever join Meikyokan",
+                "in the first place?"
+              ],
+              "lines_ko": [],
+              "timeline_id": "usa/data7/v04/000"
+            },
+            {
+              "frame": 180,
+              "lines_en": [],
+              "lines_ko": null
+            }
+          ]
+        },
+        {
+          "group": 1,
+          "cmp_ptr_runtime": "0x8014C05C",
+          "slot_word": 7,
+          "length_frames": 400,
+          "schedule": [
+            {
+              "frame": 30,
+              "lines_en": [
+                "I didn't want to kill you.",
+                "It was the Dojo Master's orders, wasn't it?"
+              ],
+              "lines_ko": [],
+              "timeline_id": "usa/data7/v04/001"
+            },
+            {
+              "frame": 190,
+              "lines_en": [
+                "`......\""
+              ],
+              "lines_ko": [
+                "“……”"
+              ],
+              "synthesized": true
+            },
+            {
+              "frame": 240,
+              "lines_en": [
+                "I never should have tried to escape.",
+                "We're all just killing each other..."
+              ],
+              "lines_ko": [],
+              "timeline_id": "usa/data7/v04/002"
+            },
+            {
+              "frame": 400,
+              "lines_en": [],
+              "lines_ko": null
+            }
+          ]
+        },
+        {
+          "group": 2,
+          "cmp_ptr_runtime": "0x8014C064",
+          "slot_word": 7,
+          "length_frames": 180,
+          "schedule": [
+            {
+              "frame": 10,
+              "lines_en": [
+                "I've broken the code...have no `loyalty\".",
+                "What have I got to fear? Ha ha ha..."
+              ],
+              "lines_ko": [],
+              "timeline_id": "usa/data7/v04/003"
+            },
+            {
+              "frame": 180,
+              "lines_en": [],
+              "lines_ko": null
+            }
+          ]
+        },
+        {
+          "group": 3,
+          "cmp_ptr_runtime": "0x8014C06C",
+          "slot_word": 7,
+          "length_frames": 400,
+          "schedule": [
+            {
+              "frame": 20,
+              "lines_en": [
+                "Should I have turned and run away?"
+              ],
+              "lines_ko": [],
+              "timeline_id": "usa/data7/v04/004"
+            },
+            {
+              "frame": 150,
+              "lines_en": [
+                "`Make your decision, then stand by it.\""
+              ],
+              "lines_ko": [],
+              "timeline_id": "usa/data7/v04/005"
+            },
+            {
+              "frame": 310,
+              "lines_en": [
+                "Then, I'll never run away again."
+              ],
+              "lines_ko": [],
+              "timeline_id": "usa/data7/v04/006"
+            },
+            {
+              "frame": 400,
+              "lines_en": [],
+              "lines_ko": null
+            }
+          ]
+        },
+        {
+          "group": 4,
+          "cmp_ptr_runtime": "0x8014C074",
+          "slot_word": 7,
+          "length_frames": 350,
+          "schedule": [
+            {
+              "frame": 40,
+              "lines_en": [
+                "`You did well. I'll leave the rest to you...\""
+              ],
+              "lines_ko": [],
+              "timeline_id": "usa/data7/v04/007"
+            },
+            {
+              "frame": 170,
+              "lines_en": [
+                "Your wounds aren't fatal.",
+                "Take care of yourself."
+              ],
+              "lines_ko": [],
+              "timeline_id": "usa/data7/v04/008"
+            },
+            {
+              "frame": 350,
+              "lines_en": [],
+              "lines_ko": null
+            }
+          ]
+        },
+        {
+          "group": 5,
+          "cmp_ptr_runtime": "0x8014C07C",
+          "slot_word": 7,
+          "length_frames": 180,
+          "schedule": [
+            {
+              "frame": 30,
+              "lines_en": [
+                "This is tearing us apart."
+              ],
+              "lines_ko": [],
+              "timeline_id": "usa/data7/v04/009"
+            },
+            {
+              "frame": 90,
+              "lines_en": [
+                "Nothing will be solved",
+                "if I keep running away like this."
+              ],
+              "lines_ko": [],
+              "timeline_id": "usa/data7/v04/010"
+            },
+            {
+              "frame": 180,
+              "lines_en": [],
+              "lines_ko": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "path": "DATA7/V05.DAT",
+      "jp_size": 399612,
+      "jp_header_words": [
+        "0x13",
+        "0x54",
+        "0x84",
+        "0x6D0"
+      ],
+      "usa_record_count_field": 7,
+      "csv_rows": 18,
+      "csv_joined": 18,
+      "groups": [
+        {
+          "group": 0,
+          "cmp_ptr_runtime": "0x8014C054",
+          "slot_word": 7,
+          "length_frames": 300,
+          "schedule": [
+            {
+              "frame": 30,
+              "lines_en": [
+                "Who sent you? Answer me!"
+              ],
+              "lines_ko": [],
+              "timeline_id": "usa/data7/v05/000"
+            },
+            {
+              "frame": 120,
+              "lines_en": [
+                "`...Hanzaki...\""
+              ],
+              "lines_ko": [],
+              "timeline_id": "usa/data7/v05/001"
+            },
+            {
+              "frame": 150,
+              "lines_en": [
+                "Hanzaki?",
+                "I thought he was behind all this..."
+              ],
+              "lines_ko": [],
+              "timeline_id": "usa/data7/v05/002"
+            },
+            {
+              "frame": 270,
+              "lines_en": [],
+              "lines_ko": null
+            }
+          ]
+        },
+        {
+          "group": 1,
+          "cmp_ptr_runtime": "0x8014C05C",
+          "slot_word": 7,
+          "length_frames": 300,
+          "schedule": [
+            {
+              "frame": 30,
+              "lines_en": [
+                "Who sent you?"
+              ],
+              "lines_ko": [],
+              "timeline_id": "usa/data7/v05/003"
+            },
+            {
+              "frame": 100,
+              "lines_en": [
+                "`...Hanzaki...\""
+              ],
+              "lines_ko": [],
+              "timeline_id": "usa/data7/v05/004"
+            },
+            {
+              "frame": 210,
+              "lines_en": [
+                "So Hanzaki's also being controlled..."
+              ],
+              "lines_ko": [],
+              "timeline_id": "usa/data7/v05/005"
+            },
+            {
+              "frame": 300,
+              "lines_en": [],
+              "lines_ko": null
+            }
+          ]
+        },
+        {
+          "group": 2,
+          "cmp_ptr_runtime": "0x8014C064",
+          "slot_word": 7,
+          "length_frames": 300,
+          "schedule": [
+            {
+              "frame": 20,
+              "lines_en": [
+                "Never seen you before..."
+              ],
+              "lines_ko": [],
+              "timeline_id": "usa/data7/v05/006"
+            },
+            {
+              "frame": 105,
+              "lines_en": [
+                "`...Hanzaki...\""
+              ],
+              "lines_ko": [],
+              "timeline_id": "usa/data7/v05/007"
+            },
+            {
+              "frame": 160,
+              "lines_en": [
+                "Hanzaki ordered this?"
+              ],
+              "lines_ko": [],
+              "timeline_id": "usa/data7/v05/008"
+            },
+            {
+              "frame": 215,
+              "lines_en": [
+                "..I thought so."
+              ],
+              "lines_ko": [],
+              "timeline_id": "usa/data7/v05/009"
+            },
+            {
+              "frame": 300,
+              "lines_en": [],
+              "lines_ko": null
+            }
+          ]
+        },
+        {
+          "group": 3,
+          "cmp_ptr_runtime": "0x8014C06C",
+          "slot_word": 7,
+          "length_frames": 300,
+          "schedule": [
+            {
+              "frame": 30,
+              "lines_en": [
+                "Who sent you?"
+              ],
+              "lines_ko": [],
+              "timeline_id": "usa/data7/v05/010"
+            },
+            {
+              "frame": 110,
+              "lines_en": [
+                "`...Hanzaki...\""
+              ],
+              "lines_ko": [],
+              "timeline_id": "usa/data7/v05/011"
+            },
+            {
+              "frame": 160,
+              "lines_en": [
+                "Hanzaki? The Dojo Master?"
+              ],
+              "lines_ko": [],
+              "timeline_id": "usa/data7/v05/012"
+            },
+            {
+              "frame": 300,
+              "lines_en": [],
+              "lines_ko": null
+            }
+          ]
+        },
+        {
+          "group": 4,
+          "cmp_ptr_runtime": "0x8014C074",
+          "slot_word": 7,
+          "length_frames": 300,
+          "schedule": [
+            {
+              "frame": 20,
+              "lines_en": [
+                "Who sent you?"
+              ],
+              "lines_ko": [],
+              "timeline_id": "usa/data7/v05/013"
+            },
+            {
+              "frame": 100,
+              "lines_en": [
+                "`...Hanzaki...\""
+              ],
+              "lines_ko": [],
+              "timeline_id": "usa/data7/v05/014"
+            },
+            {
+              "frame": 155,
+              "lines_en": [
+                "Hanzaki?",
+                "So he finally shows his true colors..."
+              ],
+              "lines_ko": [],
+              "timeline_id": "usa/data7/v05/015"
+            },
+            {
+              "frame": 300,
+              "lines_en": [],
+              "lines_ko": null
+            }
+          ]
+        },
+        {
+          "group": 5,
+          "cmp_ptr_runtime": "0x8014C07C",
+          "slot_word": 7,
+          "length_frames": 300,
+          "schedule": [
+            {
+              "frame": 20,
+              "lines_en": [
+                "An outside assassin..."
+              ],
+              "lines_ko": [],
+              "timeline_id": "usa/data7/v05/016"
+            },
+            {
+              "frame": 150,
+              "lines_en": [
+                "He must have hired you.",
+                "Pretty cowardly, using a gun...!"
+              ],
+              "lines_ko": [],
+              "timeline_id": "usa/data7/v05/017"
+            },
+            {
+              "frame": 300,
+              "lines_en": [],
+              "lines_ko": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "path": "DATA7/V06.DAT",
+      "jp_size": 142744,
+      "jp_header_words": [
+        "0x13",
+        "0x54",
+        "0x84",
+        "0x480"
+      ],
+      "usa_record_count_field": 7,
+      "csv_rows": 6,
+      "csv_joined": 6,
+      "groups": [
+        {
+          "group": 0,
+          "cmp_ptr_runtime": "0x8014C054",
+          "slot_word": 7,
+          "length_frames": 180,
+          "schedule": [
+            {
+              "frame": 90,
+              "lines_en": [
+                "Thanks for the practice..."
+              ],
+              "lines_ko": [],
+              "timeline_id": "usa/data7/v06/000"
+            },
+            {
+              "frame": 180,
+              "lines_en": [],
+              "lines_ko": null
+            }
+          ]
+        },
+        {
+          "group": 1,
+          "cmp_ptr_runtime": "0x8014C05C",
+          "slot_word": 6,
+          "length_frames": 180,
+          "schedule": [
+            {
+              "frame": 60,
+              "lines_en": [
+                "He was strong...",
+                "not in the same league as the others."
+              ],
+              "lines_ko": [],
+              "timeline_id": "usa/data7/v06/001"
+            },
+            {
+              "frame": 180,
+              "lines_en": [],
+              "lines_ko": null
+            }
+          ]
+        },
+        {
+          "group": 2,
+          "cmp_ptr_runtime": "0x8014C064",
+          "slot_word": 6,
+          "length_frames": 180,
+          "schedule": [
+            {
+              "frame": 27,
+              "lines_en": [
+                "Humph!",
+                "You're not cut out for this kind of work."
+              ],
+              "lines_ko": [],
+              "timeline_id": "usa/data7/v06/002"
+            },
+            {
+              "frame": 180,
+              "lines_en": [],
+              "lines_ko": null
+            }
+          ]
+        },
+        {
+          "group": 3,
+          "cmp_ptr_runtime": "0x8014C06C",
+          "slot_word": 6,
+          "length_frames": 180,
+          "schedule": [
+            {
+              "frame": 70,
+              "lines_en": [
+                "You're not so tough!"
+              ],
+              "lines_ko": [],
+              "timeline_id": "usa/data7/v06/003"
+            },
+            {
+              "frame": 180,
+              "lines_en": [],
+              "lines_ko": null
+            }
+          ]
+        },
+        {
+          "group": 4,
+          "cmp_ptr_runtime": "0x8014C074",
+          "slot_word": 6,
+          "length_frames": 180,
+          "schedule": [
+            {
+              "frame": 60,
+              "lines_en": [
+                "How many more are there?"
+              ],
+              "lines_ko": [],
+              "timeline_id": "usa/data7/v06/004"
+            },
+            {
+              "frame": 180,
+              "lines_en": [],
+              "lines_ko": null
+            }
+          ]
+        },
+        {
+          "group": 5,
+          "cmp_ptr_runtime": "0x8014C07C",
+          "slot_word": 6,
+          "length_frames": 180,
+          "schedule": [
+            {
+              "frame": 90,
+              "lines_en": [
+                "What a waste of time!"
+              ],
+              "lines_ko": [],
+              "timeline_id": "usa/data7/v06/005"
+            },
+            {
+              "frame": 180,
+              "lines_en": [],
+              "lines_ko": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "path": "DATA7/V07.DAT",
+      "jp_size": 200964,
+      "jp_header_words": [
+        "0x13",
+        "0x54",
+        "0x84",
+        "0x3E0"
+      ],
+      "usa_record_count_field": 7,
+      "csv_rows": 6,
+      "csv_joined": 6,
+      "groups": [
+        {
+          "group": 0,
+          "cmp_ptr_runtime": "0x8014C054",
+          "slot_word": 7,
+          "length_frames": 180,
+          "schedule": [
+            {
+              "frame": 80,
+              "lines_en": [
+                "What a waste."
+              ],
+              "lines_ko": [],
+              "timeline_id": "usa/data7/v07/000"
+            },
+            {
+              "frame": 180,
+              "lines_en": [],
+              "lines_ko": null
+            }
+          ]
+        },
+        {
+          "group": 1,
+          "cmp_ptr_runtime": "0x8014C05C",
+          "slot_word": 6,
+          "length_frames": 180,
+          "schedule": [
+            {
+              "frame": 30,
+              "lines_en": [
+                "If you're here,",
+                "then that means he's nearby..."
+              ],
+              "lines_ko": [],
+              "timeline_id": "usa/data7/v07/001"
+            },
+            {
+              "frame": 180,
+              "lines_en": [],
+              "lines_ko": null
+            }
+          ]
+        },
+        {
+          "group": 2,
+          "cmp_ptr_runtime": "0x8014C064",
+          "slot_word": 6,
+          "length_frames": 180,
+          "schedule": [
+            {
+              "frame": 90,
+              "lines_en": [
+                "I can't stand this anymore."
+              ],
+              "lines_ko": [],
+              "timeline_id": "usa/data7/v07/002"
+            },
+            {
+              "frame": 180,
+              "lines_en": [],
+              "lines_ko": null
+            }
+          ]
+        },
+        {
+          "group": 3,
+          "cmp_ptr_runtime": "0x8014C06C",
+          "slot_word": 7,
+          "length_frames": 180,
+          "schedule": [
+            {
+              "frame": 45,
+              "lines_en": [
+                "Now all that's left is to kill Hanzaki",
+                "with my own two hands...!"
+              ],
+              "lines_ko": [],
+              "timeline_id": "usa/data7/v07/003"
+            },
+            {
+              "frame": 180,
+              "lines_en": [],
+              "lines_ko": null
+            }
+          ]
+        },
+        {
+          "group": 4,
+          "cmp_ptr_runtime": "0x8014C074",
+          "slot_word": 7,
+          "length_frames": 180,
+          "schedule": [
+            {
+              "frame": 30,
+              "lines_en": [
+                "I'm sorry...I couldn't hold back."
+              ],
+              "lines_ko": [],
+              "timeline_id": "usa/data7/v07/004"
+            },
+            {
+              "frame": 180,
+              "lines_en": [],
+              "lines_ko": null
+            }
+          ]
+        },
+        {
+          "group": 5,
+          "cmp_ptr_runtime": "0x8014C07C",
+          "slot_word": 7,
+          "length_frames": 180,
+          "schedule": [
+            {
+              "frame": 60,
+              "lines_en": [
+                "I have no time for this!"
+              ],
+              "lines_ko": [],
+              "timeline_id": "usa/data7/v07/005"
+            },
+            {
+              "frame": 180,
+              "lines_en": [],
+              "lines_ko": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "path": "DATA7/V08.DAT",
+      "jp_size": 207624,
+      "jp_header_words": [
+        "0x13",
+        "0x54",
+        "0x84",
+        "0x5AC"
+      ],
+      "usa_record_count_field": 7,
+      "csv_rows": 9,
+      "csv_joined": 9,
+      "groups": [
+        {
+          "group": 0,
+          "cmp_ptr_runtime": "0x8014C054",
+          "slot_word": 6,
+          "length_frames": 250,
+          "schedule": [
+            {
+              "frame": 30,
+              "lines_en": [
+                "Why did you order Black Lotus to massacre",
+                "my people!?"
+              ],
+              "lines_ko": [],
+              "timeline_id": "usa/data7/v08/000"
+            },
+            {
+              "frame": 130,
+              "lines_en": [
+                "That was..."
+              ],
+              "lines_ko": [],
+              "timeline_id": "usa/data7/v08/001"
+            },
+            {
+              "frame": 180,
+              "lines_en": [
+                "my hometown!"
+              ],
+              "lines_ko": [],
+              "timeline_id": "usa/data7/v08/002"
+            },
+            {
+              "frame": 250,
+              "lines_en": [],
+              "lines_ko": null
+            }
+          ]
+        },
+        {
+          "group": 1,
+          "cmp_ptr_runtime": "0x8014C05C",
+          "slot_word": 7,
+          "length_frames": 180,
+          "schedule": [
+            {
+              "frame": 30,
+              "lines_en": [
+                "He must have been controlled by someone else..."
+              ],
+              "lines_ko": [],
+              "timeline_id": "usa/data7/v08/003"
+            },
+            {
+              "frame": 180,
+              "lines_en": [],
+              "lines_ko": null
+            }
+          ]
+        },
+        {
+          "group": 2,
+          "cmp_ptr_runtime": "0x8014C064",
+          "slot_word": 7,
+          "length_frames": 180,
+          "schedule": [
+            {
+              "frame": 20,
+              "lines_en": [
+                "This is the end, both for Kage and myself."
+              ],
+              "lines_ko": [],
+              "timeline_id": "usa/data7/v08/004"
+            },
+            {
+              "frame": 180,
+              "lines_en": [],
+              "lines_ko": null
+            }
+          ]
+        },
+        {
+          "group": 3,
+          "cmp_ptr_runtime": "0x8014C06C",
+          "slot_word": 6,
+          "length_frames": 210,
+          "schedule": [
+            {
+              "frame": 30,
+              "lines_en": [
+                "I did it! I finally beat him!"
+              ],
+              "lines_ko": [],
+              "timeline_id": "usa/data7/v08/005"
+            },
+            {
+              "frame": 150,
+              "lines_en": [],
+              "lines_ko": null
+            }
+          ]
+        },
+        {
+          "group": 4,
+          "cmp_ptr_runtime": "0x8014C074",
+          "slot_word": 6,
+          "length_frames": 210,
+          "schedule": [
+            {
+              "frame": 30,
+              "lines_en": [
+                "Utsusemi...I did what you wanted."
+              ],
+              "lines_ko": [],
+              "timeline_id": "usa/data7/v08/006"
+            },
+            {
+              "frame": 210,
+              "lines_en": [],
+              "lines_ko": null
+            }
+          ]
+        },
+        {
+          "group": 5,
+          "cmp_ptr_runtime": "0x8014C07C",
+          "slot_word": 7,
+          "length_frames": 230,
+          "schedule": [
+            {
+              "frame": 30,
+              "lines_en": [
+                "With that last cut, I've defied you."
+              ],
+              "lines_ko": [],
+              "timeline_id": "usa/data7/v08/007"
+            },
+            {
+              "frame": 150,
+              "lines_en": [
+                "You were a good friend..."
+              ],
+              "lines_ko": [],
+              "timeline_id": "usa/data7/v08/008"
+            },
+            {
+              "frame": 230,
+              "lines_en": [],
+              "lines_ko": null
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

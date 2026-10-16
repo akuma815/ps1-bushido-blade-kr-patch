@@ -1,0 +1,3976 @@
+{
+  "discs": {
+    "japan": {
+      "path": "original\\Bushido Blade (Japan).bin",
+      "size": 510021792,
+      "sha256": "7d89b9254c5001ad7fc4f0c2fc3cda9600417d075292c34d3b60aa3b600dba96",
+      "file_count": 349,
+      "executable": "SLPM_860.20",
+      "executable_sha256": "0164189a870ba87495a3c0010adb85535ae5a798bbd0dd276b88bf24ecc3ceda",
+      "exe": {
+        "pc": "0x80070A1C",
+        "load_address": "0x80010000",
+        "text_size": 602112
+      }
+    },
+    "usa": {
+      "path": "original\\Bushido Blade (USA).bin",
+      "size": 582258768,
+      "sha256": "c5cba1e3e8bc68f15e32492907ac37add7f8e8d3e10ddb36742a729ce1a970bf",
+      "file_count": 351,
+      "executable": "SCUS_941.80",
+      "executable_sha256": "3db8eb15607e5f67a5efbf52143e57515bbfbfc3976e1ca6ef9150e67094e264",
+      "exe": {
+        "pc": "0x8006F004",
+        "load_address": "0x80010000",
+        "text_size": 593920
+      }
+    }
+  },
+  "filesystem_comparison": {
+    "common_files": 334,
+    "byte_identical_common_files": 306,
+    "changed_common_files": [
+      "DATA2/S20.DAT",
+      "DATA3/O00.DAT",
+      "DATA3/O02.DAT",
+      "DATA3/O04.DAT",
+      "DATA3/O05.DAT",
+      "DATA3/O06.DAT",
+      "DATA3/O07.DAT",
+      "DATA3/O08.DAT",
+      "DATA3/O09.DAT",
+      "DATA3/O10.DAT",
+      "DATA3/O11.DAT",
+      "DATA3/O12.DAT",
+      "DATA3/O13.DAT",
+      "DATA3/O14.DAT",
+      "DATA3/O15.DAT",
+      "DATA3/O18.DAT",
+      "DATA3/O19.DAT",
+      "DATA7/V00.DAT",
+      "DATA7/V01.DAT",
+      "DATA7/V02.DAT",
+      "DATA7/V03.DAT",
+      "DATA7/V04.DAT",
+      "DATA7/V05.DAT",
+      "DATA7/V06.DAT",
+      "DATA7/V07.DAT",
+      "DATA7/V08.DAT",
+      "SYSTEM.CNF",
+      "XA/OP1.XAI"
+    ],
+    "japan_only": [
+      "DUMMY.DAT",
+      "SLPM_860.20",
+      "STR/DEMO.STR",
+      "STR/E_HOT.STR",
+      "STR/E_KAN.STR",
+      "STR/E_LOT.STR",
+      "STR/E_MIK.STR",
+      "STR/E_TAT.STR",
+      "STR/E_UTS.STR",
+      "STR/R_HOT.STR",
+      "STR/R_KAN.STR",
+      "STR/R_LOT.STR",
+      "STR/R_MIK.STR",
+      "STR/R_TAT.STR",
+      "STR/R_UTS.STR"
+    ],
+    "usa_only": [
+      "BIN1/SCEAP.TIM",
+      "DATA3/O20.DAT",
+      "DUMMY2.DAT",
+      "SCUS_941.80",
+      "STR16/DEM.STR",
+      "STR16/E_H.STR",
+      "STR16/E_K.STR",
+      "STR16/E_L.STR",
+      "STR16/E_M.STR",
+      "STR16/E_T.STR",
+      "STR16/E_U.STR",
+      "STR16/R_H.STR",
+      "STR16/R_K.STR",
+      "STR16/R_L.STR",
+      "STR16/R_M.STR",
+      "STR16/R_T.STR",
+      "STR16/R_U.STR"
+    ]
+  },
+  "official_text_hits": {
+    "DATA3/O05.DAT": [
+      {
+        "text": "Meikyokan",
+        "offset": 522702
+      },
+      {
+        "text": "secret group",
+        "offset": 522724
+      },
+      {
+        "text": "assassins",
+        "offset": 522740
+      }
+    ],
+    "DATA3/O14.DAT": [
+      {
+        "text": "Meikyokan",
+        "offset": 65979
+      }
+    ],
+    "DATA3/O20.DAT": [
+      {
+        "text": "Meikyokan",
+        "offset": 3751
+      }
+    ],
+    "DATA7/V00.DAT": [
+      {
+        "text": "For the first time",
+        "offset": 221124
+      },
+      {
+        "text": "I've taken a life",
+        "offset": 221155
+      }
+    ],
+    "DATA7/V04.DAT": [
+      {
+        "text": "Meikyokan",
+        "offset": 355554
+      }
+    ],
+    "SCUS_941.80": [
+      {
+        "text": "TATSUMI",
+        "offset": 5874
+      },
+      {
+        "text": "clean fight",
+        "offset": 6867
+      }
+    ]
+  },
+  "official_subtitle_records": {
+    "DATA3/O05.DAT": [
+      {
+        "offset": 522252,
+        "end_code_before": null,
+        "start_frame": 1,
+        "line_count": 1,
+        "text": "Kage massacred everyone in my hometown...",
+        "lines": [
+          "Kage massacred everyone in my hometown..."
+        ],
+        "full_text": "Kage massacred everyone in my hometown...",
+        "end_frame": null,
+        "duration_frames": null,
+        "end_mode": "scene_or_group_change"
+      },
+      {
+        "offset": 522300,
+        "end_code_before": null,
+        "start_frame": 270,
+        "line_count": 1,
+        "text": "Don't mess with a Ryukyu warrior!",
+        "lines": [
+          "Don't mess with a Ryukyu warrior!"
+        ],
+        "full_text": "Don't mess with a Ryukyu warrior!",
+        "end_frame": 450,
+        "duration_frames": 180,
+        "end_mode": "zero_line_token"
+      },
+      {
+        "offset": 522340,
+        "end_code_before": "04500",
+        "start_frame": 1,
+        "line_count": 1,
+        "text": "I hear the weeping of departed souls...",
+        "lines": [
+          "I hear the weeping of departed souls..."
+        ],
+        "full_text": "I hear the weeping of departed souls...",
+        "end_frame": null,
+        "duration_frames": null,
+        "end_mode": "scene_or_group_change"
+      },
+      {
+        "offset": 522391,
+        "end_code_before": null,
+        "start_frame": 165,
+        "line_count": 2,
+        "text": "I can't just leave them like that...",
+        "lines": [
+          "I can't just leave them like that...",
+          "Someone must stop it..."
+        ],
+        "full_text": "I can't just leave them like that...\nSomeone must stop it...",
+        "end_frame": 345,
+        "duration_frames": 180,
+        "end_mode": "zero_line_token"
+      },
+      {
+        "offset": 522458,
+        "end_code_before": "03450",
+        "start_frame": 1,
+        "line_count": 2,
+        "text": "Since ancient times, Bushido has had",
+        "lines": [
+          "Since ancient times, Bushido has had",
+          "an absolute code of \"loyalty\"."
+        ],
+        "full_text": "Since ancient times, Bushido has had\nan absolute code of \"loyalty\".",
+        "end_frame": null,
+        "duration_frames": null,
+        "end_mode": "scene_or_group_change"
+      },
+      {
+        "offset": 522537,
+        "end_code_before": null,
+        "start_frame": 180,
+        "line_count": 2,
+        "text": "But if your master deviates from that code,",
+        "lines": [
+          "But if your master deviates from that code,",
+          " what should you do?"
+        ],
+        "full_text": "But if your master deviates from that code,\n what should you do?",
+        "end_frame": null,
+        "duration_frames": null,
+        "end_mode": "scene_or_group_change"
+      },
+      {
+        "offset": 522608,
+        "end_code_before": null,
+        "start_frame": 420,
+        "line_count": 1,
+        "text": "Is giving up \"loyalty\", also one way of Bushido?",
+        "lines": [
+          "Is giving up \"loyalty\", also one way of Bushido?"
+        ],
+        "full_text": "Is giving up \"loyalty\", also one way of Bushido?",
+        "end_frame": null,
+        "duration_frames": null,
+        "end_mode": "scene_or_group_change"
+      },
+      {
+        "offset": 522663,
+        "end_code_before": null,
+        "start_frame": 570,
+        "line_count": 1,
+        "text": "Ready!",
+        "lines": [
+          "Ready!"
+        ],
+        "full_text": "Ready!",
+        "end_frame": 750,
+        "duration_frames": 180,
+        "end_mode": "zero_line_token"
+      },
+      {
+        "offset": 522676,
+        "end_code_before": "07500",
+        "start_frame": 1,
+        "line_count": 2,
+        "text": "I can't believe Meikyokan is",
+        "lines": [
+          "I can't believe Meikyokan is",
+          "really a secret group of assassins!"
+        ],
+        "full_text": "I can't believe Meikyokan is\nreally a secret group of assassins!",
+        "end_frame": null,
+        "duration_frames": null,
+        "end_mode": "scene_or_group_change"
+      },
+      {
+        "offset": 522752,
+        "end_code_before": null,
+        "start_frame": 150,
+        "line_count": 2,
+        "text": "And now that I know their secret,",
+        "lines": [
+          "And now that I know their secret,",
+          "they'll come after me."
+        ],
+        "full_text": "And now that I know their secret,\nthey'll come after me.",
+        "end_frame": null,
+        "duration_frames": null,
+        "end_mode": "scene_or_group_change"
+      },
+      {
+        "offset": 522815,
+        "end_code_before": null,
+        "start_frame": 270,
+        "line_count": 1,
+        "text": "What am I going to do!?",
+        "lines": [
+          "What am I going to do!?"
+        ],
+        "full_text": "What am I going to do!?",
+        "end_frame": 450,
+        "duration_frames": 180,
+        "end_mode": "zero_line_token"
+      },
+      {
+        "offset": 522845,
+        "end_code_before": "04500",
+        "start_frame": 1,
+        "line_count": 1,
+        "text": "I know what Utsusemi will do.",
+        "lines": [
+          "I know what Utsusemi will do."
+        ],
+        "full_text": "I know what Utsusemi will do.",
+        "end_frame": null,
+        "duration_frames": null,
+        "end_mode": "scene_or_group_change"
+      },
+      {
+        "offset": 522886,
+        "end_code_before": null,
+        "start_frame": 120,
+        "line_count": 2,
+        "text": "However, if he fights Utsusemi,",
+        "lines": [
+          "However, if he fights Utsusemi,",
+          "at best they'll kill each other."
+        ],
+        "full_text": "However, if he fights Utsusemi,\nat best they'll kill each other.",
+        "end_frame": null,
+        "duration_frames": null,
+        "end_mode": "scene_or_group_change"
+      },
+      {
+        "offset": 522957,
+        "end_code_before": null,
+        "start_frame": 300,
+        "line_count": 1,
+        "text": "I can't let that happen.",
+        "lines": [
+          "I can't let that happen."
+        ],
+        "full_text": "I can't let that happen.",
+        "end_frame": 450,
+        "duration_frames": 150,
+        "end_mode": "zero_line_token"
+      },
+      {
+        "offset": 522988,
+        "end_code_before": "04500",
+        "start_frame": 1,
+        "line_count": 1,
+        "text": "So it was for this venomous cursed blade, Yugiri...",
+        "lines": [
+          "So it was for this venomous cursed blade, Yugiri..."
+        ],
+        "full_text": "So it was for this venomous cursed blade, Yugiri...",
+        "end_frame": null,
+        "duration_frames": null,
+        "end_mode": "scene_or_group_change"
+      },
+      {
+        "offset": 523051,
+        "end_code_before": null,
+        "start_frame": 195,
+        "line_count": 2,
+        "text": "If I do nothing,",
+        "lines": [
+          "If I do nothing,",
+          "it's as if I'm waiting for him to kill me."
+        ],
+        "full_text": "If I do nothing,\nit's as if I'm waiting for him to kill me.",
+        "end_frame": null,
+        "duration_frames": null,
+        "end_mode": "scene_or_group_change"
+      },
+      {
+        "offset": 523117,
+        "end_code_before": null,
+        "start_frame": 330,
+        "line_count": 1,
+        "text": "Should I go after him...or not?",
+        "lines": [
+          "Should I go after him...or not?"
+        ],
+        "full_text": "Should I go after him...or not?",
+        "end_frame": null,
+        "duration_frames": null,
+        "end_mode": "scene_or_group_change"
+      }
+    ],
+    "DATA3/O14.DAT": [
+      {
+        "offset": 62792,
+        "end_code_before": null,
+        "start_frame": 60,
+        "line_count": 1,
+        "text": "Yugiri, the cursed sword...",
+        "lines": [
+          "Yugiri, the cursed sword..."
+        ],
+        "full_text": "Yugiri, the cursed sword...",
+        "end_frame": null,
+        "duration_frames": null,
+        "end_mode": "scene_or_group_change"
+      },
+      {
+        "offset": 62834,
+        "end_code_before": null,
+        "start_frame": 240,
+        "line_count": 1,
+        "text": "So this is what freaked him out...huh?",
+        "lines": [
+          "So this is what freaked him out...huh?"
+        ],
+        "full_text": "So this is what freaked him out...huh?",
+        "end_frame": null,
+        "duration_frames": null,
+        "end_mode": "scene_or_group_change"
+      },
+      {
+        "offset": 62879,
+        "end_code_before": null,
+        "start_frame": 360,
+        "line_count": 2,
+        "text": "Still alive? Hey!? Why did you order",
+        "lines": [
+          "Still alive? Hey!? Why did you order",
+          "Black Lotus to massacre my people? Why!?"
+        ],
+        "full_text": "Still alive? Hey!? Why did you order\nBlack Lotus to massacre my people? Why!?",
+        "end_frame": null,
+        "duration_frames": null,
+        "end_mode": "scene_or_group_change"
+      },
+      {
+        "offset": 62963,
+        "end_code_before": null,
+        "start_frame": 651,
+        "line_count": 1,
+        "text": "`I'll never tell...you...\"",
+        "lines": [
+          "`I'll never tell...you...\""
+        ],
+        "full_text": "`I'll never tell...you...\"",
+        "end_frame": null,
+        "duration_frames": null,
+        "end_mode": "scene_or_group_change"
+      },
+      {
+        "offset": 63004,
+        "end_code_before": null,
+        "start_frame": 840,
+        "line_count": 1,
+        "text": "Hey! Dojo Master!",
+        "lines": [
+          "Hey! Dojo Master!"
+        ],
+        "full_text": "Hey! Dojo Master!",
+        "end_frame": null,
+        "duration_frames": null,
+        "end_mode": "scene_or_group_change"
+      },
+      {
+        "offset": 63036,
+        "end_code_before": null,
+        "start_frame": 1020,
+        "line_count": 2,
+        "text": "Why!? Godammit!",
+        "lines": [
+          "Why!? Godammit!",
+          "Why did this have to happen!?"
+        ],
+        "full_text": "Why!? Godammit!\nWhy did this have to happen!?",
+        "end_frame": null,
+        "duration_frames": null,
+        "end_mode": "scene_or_group_change"
+      },
+      {
+        "offset": 63088,
+        "end_code_before": null,
+        "start_frame": 1185,
+        "line_count": 1,
+        "text": "`Your sword's soul is not empty......\"",
+        "lines": [
+          "`Your sword's soul is not empty......\""
+        ],
+        "full_text": "`Your sword's soul is not empty......\"",
+        "end_frame": null,
+        "duration_frames": null,
+        "end_mode": "scene_or_group_change"
+      },
+      {
+        "offset": 63133,
+        "end_code_before": null,
+        "start_frame": 1350,
+        "line_count": 2,
+        "text": "That's what Utsusemi said...",
+        "lines": [
+          "That's what Utsusemi said...",
+          "I feel drained."
+        ],
+        "full_text": "That's what Utsusemi said...\nI feel drained.",
+        "end_frame": null,
+        "duration_frames": null,
+        "end_mode": "scene_or_group_change"
+      },
+      {
+        "offset": 63192,
+        "end_code_before": null,
+        "start_frame": 1680,
+        "line_count": 2,
+        "text": "The sky...so blue.",
+        "lines": [
+          "The sky...so blue.",
+          "Just like back in Ryukyu..."
+        ],
+        "full_text": "The sky...so blue.\nJust like back in Ryukyu...",
+        "end_frame": null,
+        "duration_frames": null,
+        "end_mode": "scene_or_group_change"
+      },
+      {
+        "offset": 63245,
+        "end_code_before": null,
+        "start_frame": 1950,
+        "line_count": 2,
+        "text": "The only thing missing are",
+        "lines": [
+          "The only thing missing are",
+          "Ryukyu purple butterflies."
+        ],
+        "full_text": "The only thing missing are\nRyukyu purple butterflies.",
+        "end_frame": 2055,
+        "duration_frames": 105,
+        "end_mode": "zero_line_token"
+      },
+      {
+        "offset": 63305,
+        "end_code_before": "20550",
+        "start_frame": 90,
+        "line_count": 1,
+        "text": "`Eyaaah...\"",
+        "lines": [
+          "`Eyaaah...\""
+        ],
+        "full_text": "`Eyaaah...\"",
+        "end_frame": null,
+        "duration_frames": null,
+        "end_mode": "scene_or_group_change"
+      },
+      {
+        "offset": 63336,
+        "end_code_before": null,
+        "start_frame": 210,
+        "line_count": 1,
+        "text": "You OK?",
+        "lines": [
+          "You OK?"
+        ],
+        "full_text": "You OK?",
+        "end_frame": null,
+        "duration_frames": null,
+        "end_mode": "scene_or_group_change"
+      },
+      {
+        "offset": 63358,
+        "end_code_before": null,
+        "start_frame": 330,
+        "line_count": 1,
+        "text": "`Yes, I...who are you?\"",
+        "lines": [
+          "`Yes, I...who are you?\""
+        ],
+        "full_text": "`Yes, I...who are you?\"",
+        "end_frame": null,
+        "duration_frames": null,
+        "end_mode": "scene_or_group_change"
+      },
+      {
+        "offset": 63388,
+        "end_code_before": null,
+        "start_frame": 420,
+        "line_count": 2,
+        "text": "Don't worry about me.",
+        "lines": [
+          "Don't worry about me.",
+          "`But...\""
+        ],
+        "full_text": "Don't worry about me.\n`But...\"",
+        "end_frame": null,
+        "duration_frames": null,
+        "end_mode": "scene_or_group_change"
+      },
+      {
+        "offset": 63425,
+        "end_code_before": null,
+        "start_frame": 540,
+        "line_count": 1,
+        "text": "We live in two totally different worlds.",
+        "lines": [
+          "We live in two totally different worlds."
+        ],
+        "full_text": "We live in two totally different worlds.",
+        "end_frame": null,
+        "duration_frames": null,
+        "end_mode": "scene_or_group_change"
+      },
+      {
+        "offset": 63472,
+        "end_code_before": null,
+        "start_frame": 660,
+        "line_count": 1,
+        "text": "`Wait, I....\"",
+        "lines": [
+          "`Wait, I....\""
+        ],
+        "full_text": "`Wait, I....\"",
+        "end_frame": null,
+        "duration_frames": null,
+        "end_mode": "scene_or_group_change"
+      },
+      {
+        "offset": 63500,
+        "end_code_before": null,
+        "start_frame": 810,
+        "line_count": 1,
+        "text": "Sayonara, baby...",
+        "lines": [
+          "Sayonara, baby..."
+        ],
+        "full_text": "Sayonara, baby...",
+        "end_frame": 1200,
+        "duration_frames": 390,
+        "end_mode": "zero_line_token"
+      },
+      {
+        "offset": 63524,
+        "end_code_before": "12000",
+        "start_frame": 108,
+        "line_count": 2,
+        "text": "Yugiri, the cursed sword...",
+        "lines": [
+          "Yugiri, the cursed sword...",
+          "but it's not the sword's fault."
+        ],
+        "full_text": "Yugiri, the cursed sword...\nbut it's not the sword's fault.",
+        "end_frame": null,
+        "duration_frames": null,
+        "end_mode": "scene_or_group_change"
+      },
+      {
+        "offset": 63603,
+        "end_code_before": null,
+        "start_frame": 330,
+        "line_count": 1,
+        "text": "`So...you knew...all along...?\"",
+        "lines": [
+          "`So...you knew...all along...?\""
+        ],
+        "full_text": "`So...you knew...all along...?\"",
+        "end_frame": null,
+        "duration_frames": null,
+        "end_mode": "scene_or_group_change"
+      },
+      {
+        "offset": 63649,
+        "end_code_before": null,
+        "start_frame": 930,
+        "line_count": 1,
+        "text": "Master Kannagisai, I was careless.",
+        "lines": [
+          "Master Kannagisai, I was careless."
+        ],
+        "full_text": "Master Kannagisai, I was careless.",
+        "end_frame": null,
+        "duration_frames": null,
+        "end_mode": "scene_or_group_change"
+      },
+      {
+        "offset": 63690,
+        "end_code_before": null,
+        "start_frame": 1080,
+        "line_count": 1,
+        "text": "I had no idea there was someone else behind him...",
+        "lines": [
+          "I had no idea there was someone else behind him..."
+        ],
+        "full_text": "I had no idea there was someone else behind him...",
+        "end_frame": null,
+        "duration_frames": null,
+        "end_mode": "scene_or_group_change"
+      },
+      {
+        "offset": 63747,
+        "end_code_before": null,
+        "start_frame": 1179,
+        "line_count": 2,
+        "text": "But unless we do something about it,",
+        "lines": [
+          "But unless we do something about it,",
+          "Tatara shrine will be destroyed."
+        ],
+        "full_text": "But unless we do something about it,\nTatara shrine will be destroyed.",
+        "end_frame": null,
+        "duration_frames": null,
+        "end_mode": "scene_or_group_change"
+      },
+      {
+        "offset": 63823,
+        "end_code_before": null,
+        "start_frame": 1320,
+        "line_count": 2,
+        "text": "I'll rebuild Kage, and take revenge",
+        "lines": [
+          "I'll rebuild Kage, and take revenge",
+          "on our enemies...I swear it!"
+        ],
+        "full_text": "I'll rebuild Kage, and take revenge\non our enemies...I swear it!",
+        "end_frame": null,
+        "duration_frames": null,
+        "end_mode": "scene_or_group_change"
+      },
+      {
+        "offset": 63902,
+        "end_code_before": null,
+        "start_frame": 1650,
+        "line_count": 2,
+        "text": "He was here just now...",
+        "lines": [
+          "He was here just now...",
+          "I'm sure I saw him!"
+        ],
+        "full_text": "He was here just now...\nI'm sure I saw him!",
+        "end_frame": 2100,
+        "duration_frames": 450,
+        "end_mode": "zero_line_token"
+      },
+      {
+        "offset": 63960,
+        "end_code_before": "21000",
+        "start_frame": 330,
+        "line_count": 1,
+        "text": "`Mikado, are you leaving?\"",
+        "lines": [
+          "`Mikado, are you leaving?\""
+        ],
+        "full_text": "`Mikado, are you leaving?\"",
+        "end_frame": null,
+        "duration_frames": null,
+        "end_mode": "scene_or_group_change"
+      },
+      {
+        "offset": 63998,
+        "end_code_before": null,
+        "start_frame": 450,
+        "line_count": 1,
+        "text": "`But you're coming back, right?\"",
+        "lines": [
+          "`But you're coming back, right?\""
+        ],
+        "full_text": "`But you're coming back, right?\"",
+        "end_frame": null,
+        "duration_frames": null,
+        "end_mode": "scene_or_group_change"
+      },
+      {
+        "offset": 64045,
+        "end_code_before": null,
+        "start_frame": 690,
+        "line_count": 2,
+        "text": "Don't worry...",
+        "lines": [
+          "Don't worry...",
+          "It's not as if I'm going off to die..."
+        ],
+        "full_text": "Don't worry...\nIt's not as if I'm going off to die...",
+        "end_frame": null,
+        "duration_frames": null,
+        "end_mode": "scene_or_group_change"
+      },
+      {
+        "offset": 64113,
+        "end_code_before": null,
+        "start_frame": 990,
+        "line_count": 1,
+        "text": "My fate's not yet decided.",
+        "lines": [
+          "My fate's not yet decided."
+        ],
+        "full_text": "My fate's not yet decided.",
+        "end_frame": 1200,
+        "duration_frames": 210,
+        "end_mode": "zero_line_token"
+      },
+      {
+        "offset": 64146,
+        "end_code_before": "12000",
+        "start_frame": 120,
+        "line_count": 1,
+        "text": "It's over...",
+        "lines": [
+          "It's over..."
+        ],
+        "full_text": "It's over...",
+        "end_frame": null,
+        "duration_frames": null,
+        "end_mode": "scene_or_group_change"
+      },
+      {
+        "offset": 64178,
+        "end_code_before": null,
+        "start_frame": 195,
+        "line_count": 1,
+        "text": "Kage...my Bushido...everything.",
+        "lines": [
+          "Kage...my Bushido...everything."
+        ],
+        "full_text": "Kage...my Bushido...everything.",
+        "end_frame": null,
+        "duration_frames": null,
+        "end_mode": "scene_or_group_change"
+      },
+      {
+        "offset": 64224,
+        "end_code_before": null,
+        "start_frame": 630,
+        "line_count": 2,
+        "text": "I, Black Lotus, have lived the Samurai code",
+        "lines": [
+          "I, Black Lotus, have lived the Samurai code",
+          "for 10 years."
+        ],
+        "full_text": "I, Black Lotus, have lived the Samurai code\nfor 10 years.",
+        "end_frame": null,
+        "duration_frames": null,
+        "end_mode": "scene_or_group_change"
+      },
+      {
+        "offset": 64288,
+        "end_code_before": null,
+        "start_frame": 810,
+        "line_count": 2,
+        "text": "I never expected things to end this way.",
+        "lines": [
+          "I never expected things to end this way.",
+          "But, this is my fate."
+        ],
+        "full_text": "I never expected things to end this way.\nBut, this is my fate.",
+        "end_frame": null,
+        "duration_frames": null,
+        "end_mode": "scene_or_group_change"
+      },
+      {
+        "offset": 64357,
+        "end_code_before": null,
+        "start_frame": 1050,
+        "line_count": 2,
+        "text": "I lived for Bushido...and now...",
+        "lines": [
+          "I lived for Bushido...and now...",
+          "I'll die for it!"
+        ],
+        "full_text": "I lived for Bushido...and now...\nI'll die for it!",
+        "end_frame": 1200,
+        "duration_frames": 150,
+        "end_mode": "zero_line_token"
+      },
+      {
+        "offset": 64421,
+        "end_code_before": "12000",
+        "start_frame": 150,
+        "line_count": 1,
+        "text": "What a waste...killing yourself like that.",
+        "lines": [
+          "What a waste...killing yourself like that."
+        ],
+        "full_text": "What a waste...killing yourself like that.",
+        "end_frame": null,
+        "duration_frames": null,
+        "end_mode": "scene_or_group_change"
+      },
+      {
+        "offset": 64475,
+        "end_code_before": null,
+        "start_frame": 330,
+        "line_count": 1,
+        "text": "Always posing even till the end.",
+        "lines": [
+          "Always posing even till the end."
+        ],
+        "full_text": "Always posing even till the end.",
+        "end_frame": null,
+        "duration_frames": null,
+        "end_mode": "scene_or_group_change"
+      },
+      {
+        "offset": 64522,
+        "end_code_before": null,
+        "start_frame": 570,
+        "line_count": 1,
+        "text": "And I was a fool for waiting for you so long.",
+        "lines": [
+          "And I was a fool for waiting for you so long."
+        ],
+        "full_text": "And I was a fool for waiting for you so long.",
+        "end_frame": null,
+        "duration_frames": null,
+        "end_mode": "scene_or_group_change"
+      },
+      {
+        "offset": 64582,
+        "end_code_before": null,
+        "start_frame": 840,
+        "line_count": 1,
+        "text": "I loved you, James...",
+        "lines": [
+          "I loved you, James..."
+        ],
+        "full_text": "I loved you, James...",
+        "end_frame": 1500,
+        "duration_frames": 660,
+        "end_mode": "zero_line_token"
+      },
+      {
+        "offset": 64618,
+        "end_code_before": "15000",
+        "start_frame": 15,
+        "line_count": 2,
+        "text": "I won...",
+        "lines": [
+          "I won...",
+          "I even beat the Dojo Master..."
+        ],
+        "full_text": "I won...\nI even beat the Dojo Master...",
+        "end_frame": null,
+        "duration_frames": null,
+        "end_mode": "scene_or_group_change"
+      },
+      {
+        "offset": 64669,
+        "end_code_before": null,
+        "start_frame": 180,
+        "line_count": 2,
+        "text": "I'm so much stronger now, it feels like years",
+        "lines": [
+          "I'm so much stronger now, it feels like years",
+          "have passed since my first kill."
+        ],
+        "full_text": "I'm so much stronger now, it feels like years\nhave passed since my first kill.",
+        "end_frame": null,
+        "duration_frames": null,
+        "end_mode": "scene_or_group_change"
+      },
+      {
+        "offset": 64762,
+        "end_code_before": null,
+        "start_frame": 480,
+        "line_count": 1,
+        "text": "Swordsmanship isn't brute force...",
+        "lines": [
+          "Swordsmanship isn't brute force..."
+        ],
+        "full_text": "Swordsmanship isn't brute force...",
+        "end_frame": null,
+        "duration_frames": null,
+        "end_mode": "scene_or_group_change"
+      },
+      {
+        "offset": 64803,
+        "end_code_before": null,
+        "start_frame": 600,
+        "line_count": 1,
+        "text": "It's timing.",
+        "lines": [
+          "It's timing."
+        ],
+        "full_text": "It's timing.",
+        "end_frame": null,
+        "duration_frames": null,
+        "end_mode": "scene_or_group_change"
+      },
+      {
+        "offset": 64830,
+        "end_code_before": null,
+        "start_frame": 810,
+        "line_count": 2,
+        "text": "I think I'm finally beginning to understand",
+        "lines": [
+          "I think I'm finally beginning to understand",
+          "what I've been taught so many times."
+        ],
+        "full_text": "I think I'm finally beginning to understand\nwhat I've been taught so many times.",
+        "end_frame": null,
+        "duration_frames": null,
+        "end_mode": "scene_or_group_change"
+      },
+      {
+        "offset": 64925,
+        "end_code_before": null,
+        "start_frame": 1260,
+        "line_count": 1,
+        "text": "I'm strong...and getting stronger...",
+        "lines": [
+          "I'm strong...and getting stronger..."
+        ],
+        "full_text": "I'm strong...and getting stronger...",
+        "end_frame": null,
+        "duration_frames": null,
+        "end_mode": "scene_or_group_change"
+      },
+      {
+        "offset": 64976,
+        "end_code_before": null,
+        "start_frame": 1530,
+        "line_count": 2,
+        "text": "Sorry...",
+        "lines": [
+          "Sorry...",
+          "At first, I was only trying to stay alive."
+        ],
+        "full_text": "Sorry...\nAt first, I was only trying to stay alive.",
+        "end_frame": null,
+        "duration_frames": null,
+        "end_mode": "scene_or_group_change"
+      },
+      {
+        "offset": 65034,
+        "end_code_before": null,
+        "start_frame": 1710,
+        "line_count": 2,
+        "text": "But now, because of you,",
+        "lines": [
+          "But now, because of you,",
+          "I know how addictive murder is."
+        ],
+        "full_text": "But now, because of you,\nI know how addictive murder is.",
+        "end_frame": 1860,
+        "duration_frames": 150,
+        "end_mode": "zero_line_token"
+      },
+      {
+        "offset": 65097,
+        "end_code_before": "18600",
+        "start_frame": 0,
+        "line_count": 1,
+        "text": "One year later...",
+        "lines": [
+          "One year later..."
+        ],
+        "full_text": "One year later...",
+        "end_frame": null,
+        "duration_frames": null,
+        "end_mode": "scene_or_group_change"
+      },
+      {
+        "offset": 65134,
+        "end_code_before": null,
+        "start_frame": 125,
+        "line_count": 1,
+        "text": "`Get out!\"",
+        "lines": [
+          "`Get out!\""
+        ],
+        "full_text": "`Get out!\"",
+        "end_frame": null,
+        "duration_frames": null,
+        "end_mode": "scene_or_group_change"
+      },
+      {
+        "offset": 65159,
+        "end_code_before": null,
+        "start_frame": 255,
+        "line_count": 2,
+        "text": "`I don't have time for any of",
+        "lines": [
+          "`I don't have time for any of",
+          "your childish jokes, boy!\""
+        ],
+        "full_text": "`I don't have time for any of\nyour childish jokes, boy!\"",
+        "end_frame": null,
+        "duration_frames": null,
+        "end_mode": "scene_or_group_change"
+      },
+      {
+        "offset": 65230,
+        "end_code_before": null,
+        "start_frame": 510,
+        "line_count": 2,
+        "text": "This isn't a joke...",
+        "lines": [
+          "This isn't a joke...",
+          "it's about getting stronger...that's all."
+        ],
+        "full_text": "This isn't a joke...\nit's about getting stronger...that's all.",
+        "end_frame": null,
+        "duration_frames": null,
+        "end_mode": "scene_or_group_change"
+      },
+      {
+        "offset": 65307,
+        "end_code_before": null,
+        "start_frame": 810,
+        "line_count": 1,
+        "text": "Don't take it personal.",
+        "lines": [
+          "Don't take it personal."
+        ],
+        "full_text": "Don't take it personal.",
+        "end_frame": 900,
+        "duration_frames": 90,
+        "end_mode": "zero_line_token"
+      },
+      {
+        "offset": 65337,
+        "end_code_before": "09000",
+        "start_frame": 45,
+        "line_count": 2,
+        "text": "`Certainly even a killing machine",
+        "lines": [
+          "`Certainly even a killing machine",
+          "like you...must have had doubts?\""
+        ],
+        "full_text": "`Certainly even a killing machine\nlike you...must have had doubts?\"",
+        "end_frame": null,
+        "duration_frames": null,
+        "end_mode": "scene_or_group_change"
+      },
+      {
+        "offset": 65416,
+        "end_code_before": null,
+        "start_frame": 390,
+        "line_count": 1,
+        "text": "`I under...estimated...you.\"",
+        "lines": [
+          "`I under...estimated...you.\""
+        ],
+        "full_text": "`I under...estimated...you.\"",
+        "end_frame": null,
+        "duration_frames": null,
+        "end_mode": "scene_or_group_change"
+      },
+      {
+        "offset": 65459,
+        "end_code_before": null,
+        "start_frame": 540,
+        "line_count": 1,
+        "text": "...Killing machine...",
+        "lines": [
+          "...Killing machine..."
+        ],
+        "full_text": "...Killing machine...",
+        "end_frame": null,
+        "duration_frames": null,
+        "end_mode": "scene_or_group_change"
+      },
+      {
+        "offset": 65487,
+        "end_code_before": null,
+        "start_frame": 630,
+        "line_count": 2,
+        "text": "Now with Kage gone,",
+        "lines": [
+          "Now with Kage gone,",
+          "there's no need for someone like me."
+        ],
+        "full_text": "Now with Kage gone,\nthere's no need for someone like me.",
+        "end_frame": null,
+        "duration_frames": null,
+        "end_mode": "scene_or_group_change"
+      },
+      {
+        "offset": 65558,
+        "end_code_before": null,
+        "start_frame": 1080,
+        "line_count": 1,
+        "text": "Utsusemi...I did what you wanted.",
+        "lines": [
+          "Utsusemi...I did what you wanted."
+        ],
+        "full_text": "Utsusemi...I did what you wanted.",
+        "end_frame": null,
+        "duration_frames": null,
+        "end_mode": "scene_or_group_change"
+      },
+      {
+        "offset": 65606,
+        "end_code_before": null,
+        "start_frame": 1350,
+        "line_count": 1,
+        "text": "Now I have nowhere to go...",
+        "lines": [
+          "Now I have nowhere to go..."
+        ],
+        "full_text": "Now I have nowhere to go...",
+        "end_frame": null,
+        "duration_frames": null,
+        "end_mode": "scene_or_group_change"
+      },
+      {
+        "offset": 65648,
+        "end_code_before": null,
+        "start_frame": 1620,
+        "line_count": 1,
+        "text": "I'm alone again.",
+        "lines": [
+          "I'm alone again."
+        ],
+        "full_text": "I'm alone again.",
+        "end_frame": 1920,
+        "duration_frames": 300,
+        "end_mode": "zero_line_token"
+      },
+      {
+        "offset": 65679,
+        "end_code_before": "19200",
+        "start_frame": 555,
+        "line_count": 2,
+        "text": "No matter how difficult the way may be...",
+        "lines": [
+          "No matter how difficult the way may be...",
+          ""
+        ],
+        "full_text": "No matter how difficult the way may be...\n",
+        "end_frame": null,
+        "duration_frames": null,
+        "end_mode": "scene_or_group_change"
+      },
+      {
+        "offset": 65740,
+        "end_code_before": null,
+        "start_frame": 840,
+        "line_count": 1,
+        "text": "This is the only way I know.",
+        "lines": [
+          "This is the only way I know."
+        ],
+        "full_text": "This is the only way I know.",
+        "end_frame": 1080,
+        "duration_frames": 240,
+        "end_mode": "zero_line_token"
+      },
+      {
+        "offset": 65775,
+        "end_code_before": "10800",
+        "start_frame": 15,
+        "line_count": 2,
+        "text": "Yugiri, the cursed sword...",
+        "lines": [
+          "Yugiri, the cursed sword...",
+          "Hanzaki, is this what made you go crazy?"
+        ],
+        "full_text": "Yugiri, the cursed sword...\nHanzaki, is this what made you go crazy?",
+        "end_frame": null,
+        "duration_frames": null,
+        "end_mode": "scene_or_group_change"
+      },
+      {
+        "offset": 65855,
+        "end_code_before": null,
+        "start_frame": 330,
+        "line_count": 1,
+        "text": "It's...all over now...",
+        "lines": [
+          "It's...all over now..."
+        ],
+        "full_text": "It's...all over now...",
+        "end_frame": null,
+        "duration_frames": null,
+        "end_mode": "scene_or_group_change"
+      },
+      {
+        "offset": 65892,
+        "end_code_before": null,
+        "start_frame": 495,
+        "line_count": 1,
+        "text": "`It's not over...\"",
+        "lines": [
+          "`It's not over...\""
+        ],
+        "full_text": "`It's not over...\"",
+        "end_frame": null,
+        "duration_frames": null,
+        "end_mode": "scene_or_group_change"
+      },
+      {
+        "offset": 65925,
+        "end_code_before": null,
+        "start_frame": 630,
+        "line_count": 1,
+        "text": "So you're still alive?",
+        "lines": [
+          "So you're still alive?"
+        ],
+        "full_text": "So you're still alive?",
+        "end_frame": null,
+        "duration_frames": null,
+        "end_mode": "scene_or_group_change"
+      },
+      {
+        "offset": 65962,
+        "end_code_before": null,
+        "start_frame": 750,
+        "line_count": 2,
+        "text": "`Kage...and Meikyokan have survived",
+        "lines": [
+          "`Kage...and Meikyokan have survived",
+          "for 500 years...\""
+        ],
+        "full_text": "`Kage...and Meikyokan have survived\nfor 500 years...\"",
+        "end_frame": null,
+        "duration_frames": null,
+        "end_mode": "scene_or_group_change"
+      },
+      {
+        "offset": 66022,
+        "end_code_before": null,
+        "start_frame": 1050,
+        "line_count": 1,
+        "text": "`Nothing...can end so eas...i...ly...\"",
+        "lines": [
+          "`Nothing...can end so eas...i...ly...\""
+        ],
+        "full_text": "`Nothing...can end so eas...i...ly...\"",
+        "end_frame": null,
+        "duration_frames": null,
+        "end_mode": "scene_or_group_change"
+      },
+      {
+        "offset": 66075,
+        "end_code_before": null,
+        "start_frame": 1350,
+        "line_count": 1,
+        "text": "What do you mean?",
+        "lines": [
+          "What do you mean?"
+        ],
+        "full_text": "What do you mean?",
+        "end_frame": null,
+        "duration_frames": null,
+        "end_mode": "scene_or_group_change"
+      },
+      {
+        "offset": 66107,
+        "end_code_before": null,
+        "start_frame": 1455,
+        "line_count": 1,
+        "text": "Dead...",
+        "lines": [
+          "Dead..."
+        ],
+        "full_text": "Dead...",
+        "end_frame": null,
+        "duration_frames": null,
+        "end_mode": "scene_or_group_change"
+      },
+      {
+        "offset": 66121,
+        "end_code_before": null,
+        "start_frame": 1560,
+        "line_count": 2,
+        "text": "Kage existed...for 500 years...?",
+        "lines": [
+          "Kage existed...for 500 years...?",
+          "If that's true..."
+        ],
+        "full_text": "Kage existed...for 500 years...?\nIf that's true...",
+        "end_frame": null,
+        "duration_frames": null,
+        "end_mode": "scene_or_group_change"
+      },
+      {
+        "offset": 66178,
+        "end_code_before": null,
+        "start_frame": 1800,
+        "line_count": 1,
+        "text": "then the real enemy is still out there.",
+        "lines": [
+          "then the real enemy is still out there."
+        ],
+        "full_text": "then the real enemy is still out there.",
+        "end_frame": 1950,
+        "duration_frames": 150,
+        "end_mode": "zero_line_token"
+      },
+      {
+        "offset": 66224,
+        "end_code_before": "19500",
+        "start_frame": 270,
+        "line_count": 1,
+        "text": "Ahhh...",
+        "lines": [
+          "Ahhh..."
+        ],
+        "full_text": "Ahhh...",
+        "end_frame": null,
+        "duration_frames": null,
+        "end_mode": "scene_or_group_change"
+      },
+      {
+        "offset": 66243,
+        "end_code_before": null,
+        "start_frame": 360,
+        "line_count": 2,
+        "text": "Heh, he's improved.",
+        "lines": [
+          "Heh, he's improved.",
+          "Still seems a little too hot-headed though."
+        ],
+        "full_text": "Heh, he's improved.\nStill seems a little too hot-headed though.",
+        "end_frame": null,
+        "duration_frames": null,
+        "end_mode": "scene_or_group_change"
+      },
+      {
+        "offset": 66313,
+        "end_code_before": null,
+        "start_frame": 645,
+        "line_count": 2,
+        "text": "Rushing his techniques like that",
+        "lines": [
+          "Rushing his techniques like that",
+          "is a sign of his youth..."
+        ],
+        "full_text": "Rushing his techniques like that\nis a sign of his youth...",
+        "end_frame": null,
+        "duration_frames": null,
+        "end_mode": "scene_or_group_change"
+      },
+      {
+        "offset": 66386,
+        "end_code_before": null,
+        "start_frame": 1110,
+        "line_count": 1,
+        "text": "Just like his old man...",
+        "lines": [
+          "Just like his old man..."
+        ],
+        "full_text": "Just like his old man...",
+        "end_frame": null,
+        "duration_frames": null,
+        "end_mode": "scene_or_group_change"
+      }
+    ],
+    "DATA3/O20.DAT": [
+      {
+        "offset": 564,
+        "end_code_before": null,
+        "start_frame": 60,
+        "line_count": 1,
+        "text": "Yugiri, the cursed sword...",
+        "lines": [
+          "Yugiri, the cursed sword..."
+        ],
+        "full_text": "Yugiri, the cursed sword...",
+        "end_frame": null,
+        "duration_frames": null,
+        "end_mode": "scene_or_group_change"
+      },
+      {
+        "offset": 606,
+        "end_code_before": null,
+        "start_frame": 240,
+        "line_count": 1,
+        "text": "So this is what freaked him out...huh?",
+        "lines": [
+          "So this is what freaked him out...huh?"
+        ],
+        "full_text": "So this is what freaked him out...huh?",
+        "end_frame": null,
+        "duration_frames": null,
+        "end_mode": "scene_or_group_change"
+      },
+      {
+        "offset": 651,
+        "end_code_before": null,
+        "start_frame": 360,
+        "line_count": 2,
+        "text": "Still alive? Hey!? Why did you order",
+        "lines": [
+          "Still alive? Hey!? Why did you order",
+          "Black Lotus to massacre my people? Why!?"
+        ],
+        "full_text": "Still alive? Hey!? Why did you order\nBlack Lotus to massacre my people? Why!?",
+        "end_frame": null,
+        "duration_frames": null,
+        "end_mode": "scene_or_group_change"
+      },
+      {
+        "offset": 735,
+        "end_code_before": null,
+        "start_frame": 651,
+        "line_count": 1,
+        "text": "`I'll never tell...you...\"",
+        "lines": [
+          "`I'll never tell...you...\""
+        ],
+        "full_text": "`I'll never tell...you...\"",
+        "end_frame": null,
+        "duration_frames": null,
+        "end_mode": "scene_or_group_change"
+      },
+      {
+        "offset": 776,
+        "end_code_before": null,
+        "start_frame": 840,
+        "line_count": 1,
+        "text": "Hey! Dojo Master!",
+        "lines": [
+          "Hey! Dojo Master!"
+        ],
+        "full_text": "Hey! Dojo Master!",
+        "end_frame": null,
+        "duration_frames": null,
+        "end_mode": "scene_or_group_change"
+      },
+      {
+        "offset": 808,
+        "end_code_before": null,
+        "start_frame": 1020,
+        "line_count": 2,
+        "text": "Why!? Godammit!",
+        "lines": [
+          "Why!? Godammit!",
+          "Why did this have to happen!?"
+        ],
+        "full_text": "Why!? Godammit!\nWhy did this have to happen!?",
+        "end_frame": null,
+        "duration_frames": null,
+        "end_mode": "scene_or_group_change"
+      },
+      {
+        "offset": 860,
+        "end_code_before": null,
+        "start_frame": 1185,
+        "line_count": 1,
+        "text": "`Your sword's soul is not empty......\"",
+        "lines": [
+          "`Your sword's soul is not empty......\""
+        ],
+        "full_text": "`Your sword's soul is not empty......\"",
+        "end_frame": null,
+        "duration_frames": null,
+        "end_mode": "scene_or_group_change"
+      },
+      {
+        "offset": 905,
+        "end_code_before": null,
+        "start_frame": 1350,
+        "line_count": 2,
+        "text": "That's what Utsusemi said...",
+        "lines": [
+          "That's what Utsusemi said...",
+          "I feel drained."
+        ],
+        "full_text": "That's what Utsusemi said...\nI feel drained.",
+        "end_frame": null,
+        "duration_frames": null,
+        "end_mode": "scene_or_group_change"
+      },
+      {
+        "offset": 964,
+        "end_code_before": null,
+        "start_frame": 1680,
+        "line_count": 2,
+        "text": "The sky...so blue.",
+        "lines": [
+          "The sky...so blue.",
+          "Just like back in Ryukyu..."
+        ],
+        "full_text": "The sky...so blue.\nJust like back in Ryukyu...",
+        "end_frame": null,
+        "duration_frames": null,
+        "end_mode": "scene_or_group_change"
+      },
+      {
+        "offset": 1017,
+        "end_code_before": null,
+        "start_frame": 1950,
+        "line_count": 2,
+        "text": "The only thing missing are",
+        "lines": [
+          "The only thing missing are",
+          "Ryukyu purple butterflies."
+        ],
+        "full_text": "The only thing missing are\nRyukyu purple butterflies.",
+        "end_frame": 2055,
+        "duration_frames": 105,
+        "end_mode": "zero_line_token"
+      },
+      {
+        "offset": 1077,
+        "end_code_before": "20550",
+        "start_frame": 90,
+        "line_count": 1,
+        "text": "`Eyaaah...\"",
+        "lines": [
+          "`Eyaaah...\""
+        ],
+        "full_text": "`Eyaaah...\"",
+        "end_frame": null,
+        "duration_frames": null,
+        "end_mode": "scene_or_group_change"
+      },
+      {
+        "offset": 1108,
+        "end_code_before": null,
+        "start_frame": 210,
+        "line_count": 1,
+        "text": "You OK?",
+        "lines": [
+          "You OK?"
+        ],
+        "full_text": "You OK?",
+        "end_frame": null,
+        "duration_frames": null,
+        "end_mode": "scene_or_group_change"
+      },
+      {
+        "offset": 1130,
+        "end_code_before": null,
+        "start_frame": 330,
+        "line_count": 1,
+        "text": "`Yes, I...who are you?\"",
+        "lines": [
+          "`Yes, I...who are you?\""
+        ],
+        "full_text": "`Yes, I...who are you?\"",
+        "end_frame": null,
+        "duration_frames": null,
+        "end_mode": "scene_or_group_change"
+      },
+      {
+        "offset": 1160,
+        "end_code_before": null,
+        "start_frame": 420,
+        "line_count": 2,
+        "text": "Don't worry about me.",
+        "lines": [
+          "Don't worry about me.",
+          "`But...\""
+        ],
+        "full_text": "Don't worry about me.\n`But...\"",
+        "end_frame": null,
+        "duration_frames": null,
+        "end_mode": "scene_or_group_change"
+      },
+      {
+        "offset": 1197,
+        "end_code_before": null,
+        "start_frame": 540,
+        "line_count": 1,
+        "text": "We live in two totally different worlds.",
+        "lines": [
+          "We live in two totally different worlds."
+        ],
+        "full_text": "We live in two totally different worlds.",
+        "end_frame": null,
+        "duration_frames": null,
+        "end_mode": "scene_or_group_change"
+      },
+      {
+        "offset": 1244,
+        "end_code_before": null,
+        "start_frame": 660,
+        "line_count": 1,
+        "text": "`Wait, I....\"",
+        "lines": [
+          "`Wait, I....\""
+        ],
+        "full_text": "`Wait, I....\"",
+        "end_frame": null,
+        "duration_frames": null,
+        "end_mode": "scene_or_group_change"
+      },
+      {
+        "offset": 1272,
+        "end_code_before": null,
+        "start_frame": 810,
+        "line_count": 1,
+        "text": "Sayonara, baby...",
+        "lines": [
+          "Sayonara, baby..."
+        ],
+        "full_text": "Sayonara, baby...",
+        "end_frame": 1200,
+        "duration_frames": 390,
+        "end_mode": "zero_line_token"
+      },
+      {
+        "offset": 1296,
+        "end_code_before": "12000",
+        "start_frame": 108,
+        "line_count": 2,
+        "text": "Yugiri, the cursed sword...",
+        "lines": [
+          "Yugiri, the cursed sword...",
+          "but it's not the sword's fault."
+        ],
+        "full_text": "Yugiri, the cursed sword...\nbut it's not the sword's fault.",
+        "end_frame": null,
+        "duration_frames": null,
+        "end_mode": "scene_or_group_change"
+      },
+      {
+        "offset": 1375,
+        "end_code_before": null,
+        "start_frame": 330,
+        "line_count": 1,
+        "text": "`So...you knew...all along...?\"",
+        "lines": [
+          "`So...you knew...all along...?\""
+        ],
+        "full_text": "`So...you knew...all along...?\"",
+        "end_frame": null,
+        "duration_frames": null,
+        "end_mode": "scene_or_group_change"
+      },
+      {
+        "offset": 1421,
+        "end_code_before": null,
+        "start_frame": 930,
+        "line_count": 1,
+        "text": "Master Kannagisai, I was careless.",
+        "lines": [
+          "Master Kannagisai, I was careless."
+        ],
+        "full_text": "Master Kannagisai, I was careless.",
+        "end_frame": null,
+        "duration_frames": null,
+        "end_mode": "scene_or_group_change"
+      },
+      {
+        "offset": 1462,
+        "end_code_before": null,
+        "start_frame": 1080,
+        "line_count": 1,
+        "text": "I had no idea there was someone else behind him...",
+        "lines": [
+          "I had no idea there was someone else behind him..."
+        ],
+        "full_text": "I had no idea there was someone else behind him...",
+        "end_frame": null,
+        "duration_frames": null,
+        "end_mode": "scene_or_group_change"
+      },
+      {
+        "offset": 1519,
+        "end_code_before": null,
+        "start_frame": 1179,
+        "line_count": 2,
+        "text": "But unless we do something about it,",
+        "lines": [
+          "But unless we do something about it,",
+          "Tatara shrine will be destroyed."
+        ],
+        "full_text": "But unless we do something about it,\nTatara shrine will be destroyed.",
+        "end_frame": null,
+        "duration_frames": null,
+        "end_mode": "scene_or_group_change"
+      },
+      {
+        "offset": 1595,
+        "end_code_before": null,
+        "start_frame": 1320,
+        "line_count": 2,
+        "text": "I'll rebuild Kage, and take revenge",
+        "lines": [
+          "I'll rebuild Kage, and take revenge",
+          "on our enemies...I swear it!"
+        ],
+        "full_text": "I'll rebuild Kage, and take revenge\non our enemies...I swear it!",
+        "end_frame": null,
+        "duration_frames": null,
+        "end_mode": "scene_or_group_change"
+      },
+      {
+        "offset": 1674,
+        "end_code_before": null,
+        "start_frame": 1650,
+        "line_count": 2,
+        "text": "He was here just now...",
+        "lines": [
+          "He was here just now...",
+          "I'm sure I saw him!"
+        ],
+        "full_text": "He was here just now...\nI'm sure I saw him!",
+        "end_frame": 2100,
+        "duration_frames": 450,
+        "end_mode": "zero_line_token"
+      },
+      {
+        "offset": 1732,
+        "end_code_before": "21000",
+        "start_frame": 330,
+        "line_count": 1,
+        "text": "`Mikado, are you leaving?\"",
+        "lines": [
+          "`Mikado, are you leaving?\""
+        ],
+        "full_text": "`Mikado, are you leaving?\"",
+        "end_frame": null,
+        "duration_frames": null,
+        "end_mode": "scene_or_group_change"
+      },
+      {
+        "offset": 1770,
+        "end_code_before": null,
+        "start_frame": 450,
+        "line_count": 1,
+        "text": "`But you're coming back, right?\"",
+        "lines": [
+          "`But you're coming back, right?\""
+        ],
+        "full_text": "`But you're coming back, right?\"",
+        "end_frame": null,
+        "duration_frames": null,
+        "end_mode": "scene_or_group_change"
+      },
+      {
+        "offset": 1817,
+        "end_code_before": null,
+        "start_frame": 690,
+        "line_count": 2,
+        "text": "Don't worry...",
+        "lines": [
+          "Don't worry...",
+          "It's not as if I'm going off to die..."
+        ],
+        "full_text": "Don't worry...\nIt's not as if I'm going off to die...",
+        "end_frame": null,
+        "duration_frames": null,
+        "end_mode": "scene_or_group_change"
+      },
+      {
+        "offset": 1885,
+        "end_code_before": null,
+        "start_frame": 990,
+        "line_count": 1,
+        "text": "My fate's not yet decided.",
+        "lines": [
+          "My fate's not yet decided."
+        ],
+        "full_text": "My fate's not yet decided.",
+        "end_frame": 1200,
+        "duration_frames": 210,
+        "end_mode": "zero_line_token"
+      },
+      {
+        "offset": 1918,
+        "end_code_before": "12000",
+        "start_frame": 120,
+        "line_count": 1,
+        "text": "It's over...",
+        "lines": [
+          "It's over..."
+        ],
+        "full_text": "It's over...",
+        "end_frame": null,
+        "duration_frames": null,
+        "end_mode": "scene_or_group_change"
+      },
+      {
+        "offset": 1950,
+        "end_code_before": null,
+        "start_frame": 195,
+        "line_count": 1,
+        "text": "Kage...my Bushido...everything.",
+        "lines": [
+          "Kage...my Bushido...everything."
+        ],
+        "full_text": "Kage...my Bushido...everything.",
+        "end_frame": null,
+        "duration_frames": null,
+        "end_mode": "scene_or_group_change"
+      },
+      {
+        "offset": 1996,
+        "end_code_before": null,
+        "start_frame": 630,
+        "line_count": 2,
+        "text": "I, Black Lotus, have lived the Samurai code",
+        "lines": [
+          "I, Black Lotus, have lived the Samurai code",
+          "for 10 years."
+        ],
+        "full_text": "I, Black Lotus, have lived the Samurai code\nfor 10 years.",
+        "end_frame": null,
+        "duration_frames": null,
+        "end_mode": "scene_or_group_change"
+      },
+      {
+        "offset": 2060,
+        "end_code_before": null,
+        "start_frame": 810,
+        "line_count": 2,
+        "text": "I never expected things to end this way.",
+        "lines": [
+          "I never expected things to end this way.",
+          "But, this is my fate."
+        ],
+        "full_text": "I never expected things to end this way.\nBut, this is my fate.",
+        "end_frame": null,
+        "duration_frames": null,
+        "end_mode": "scene_or_group_change"
+      },
+      {
+        "offset": 2129,
+        "end_code_before": null,
+        "start_frame": 1050,
+        "line_count": 2,
+        "text": "I lived for Bushido...and now...",
+        "lines": [
+          "I lived for Bushido...and now...",
+          "I'll die for it!"
+        ],
+        "full_text": "I lived for Bushido...and now...\nI'll die for it!",
+        "end_frame": 1200,
+        "duration_frames": 150,
+        "end_mode": "zero_line_token"
+      },
+      {
+        "offset": 2193,
+        "end_code_before": "12000",
+        "start_frame": 150,
+        "line_count": 1,
+        "text": "What a waste...killing yourself like that.",
+        "lines": [
+          "What a waste...killing yourself like that."
+        ],
+        "full_text": "What a waste...killing yourself like that.",
+        "end_frame": null,
+        "duration_frames": null,
+        "end_mode": "scene_or_group_change"
+      },
+      {
+        "offset": 2247,
+        "end_code_before": null,
+        "start_frame": 330,
+        "line_count": 1,
+        "text": "Always posing even till the end.",
+        "lines": [
+          "Always posing even till the end."
+        ],
+        "full_text": "Always posing even till the end.",
+        "end_frame": null,
+        "duration_frames": null,
+        "end_mode": "scene_or_group_change"
+      },
+      {
+        "offset": 2294,
+        "end_code_before": null,
+        "start_frame": 570,
+        "line_count": 1,
+        "text": "And I was a fool for waiting for you so long.",
+        "lines": [
+          "And I was a fool for waiting for you so long."
+        ],
+        "full_text": "And I was a fool for waiting for you so long.",
+        "end_frame": null,
+        "duration_frames": null,
+        "end_mode": "scene_or_group_change"
+      },
+      {
+        "offset": 2354,
+        "end_code_before": null,
+        "start_frame": 840,
+        "line_count": 1,
+        "text": "I loved you, James...",
+        "lines": [
+          "I loved you, James..."
+        ],
+        "full_text": "I loved you, James...",
+        "end_frame": 1500,
+        "duration_frames": 660,
+        "end_mode": "zero_line_token"
+      },
+      {
+        "offset": 2390,
+        "end_code_before": "15000",
+        "start_frame": 15,
+        "line_count": 2,
+        "text": "I won...",
+        "lines": [
+          "I won...",
+          "I even beat the Dojo Master..."
+        ],
+        "full_text": "I won...\nI even beat the Dojo Master...",
+        "end_frame": null,
+        "duration_frames": null,
+        "end_mode": "scene_or_group_change"
+      },
+      {
+        "offset": 2441,
+        "end_code_before": null,
+        "start_frame": 180,
+        "line_count": 2,
+        "text": "I'm so much stronger now, it feels like years",
+        "lines": [
+          "I'm so much stronger now, it feels like years",
+          "have passed since my first kill."
+        ],
+        "full_text": "I'm so much stronger now, it feels like years\nhave passed since my first kill.",
+        "end_frame": null,
+        "duration_frames": null,
+        "end_mode": "scene_or_group_change"
+      },
+      {
+        "offset": 2534,
+        "end_code_before": null,
+        "start_frame": 480,
+        "line_count": 1,
+        "text": "Swordsmanship isn't brute force...",
+        "lines": [
+          "Swordsmanship isn't brute force..."
+        ],
+        "full_text": "Swordsmanship isn't brute force...",
+        "end_frame": null,
+        "duration_frames": null,
+        "end_mode": "scene_or_group_change"
+      },
+      {
+        "offset": 2575,
+        "end_code_before": null,
+        "start_frame": 600,
+        "line_count": 1,
+        "text": "It's timing.",
+        "lines": [
+          "It's timing."
+        ],
+        "full_text": "It's timing.",
+        "end_frame": null,
+        "duration_frames": null,
+        "end_mode": "scene_or_group_change"
+      },
+      {
+        "offset": 2602,
+        "end_code_before": null,
+        "start_frame": 810,
+        "line_count": 2,
+        "text": "I think I'm finally beginning to understand",
+        "lines": [
+          "I think I'm finally beginning to understand",
+          "what I've been taught so many times."
+        ],
+        "full_text": "I think I'm finally beginning to understand\nwhat I've been taught so many times.",
+        "end_frame": null,
+        "duration_frames": null,
+        "end_mode": "scene_or_group_change"
+      },
+      {
+        "offset": 2697,
+        "end_code_before": null,
+        "start_frame": 1260,
+        "line_count": 1,
+        "text": "I'm strong...and getting stronger...",
+        "lines": [
+          "I'm strong...and getting stronger..."
+        ],
+        "full_text": "I'm strong...and getting stronger...",
+        "end_frame": null,
+        "duration_frames": null,
+        "end_mode": "scene_or_group_change"
+      },
+      {
+        "offset": 2748,
+        "end_code_before": null,
+        "start_frame": 1530,
+        "line_count": 2,
+        "text": "Sorry...",
+        "lines": [
+          "Sorry...",
+          "At first, I was only trying to stay alive."
+        ],
+        "full_text": "Sorry...\nAt first, I was only trying to stay alive.",
+        "end_frame": null,
+        "duration_frames": null,
+        "end_mode": "scene_or_group_change"
+      },
+      {
+        "offset": 2806,
+        "end_code_before": null,
+        "start_frame": 1710,
+        "line_count": 2,
+        "text": "But now, because of you,",
+        "lines": [
+          "But now, because of you,",
+          "I know how addictive murder is."
+        ],
+        "full_text": "But now, because of you,\nI know how addictive murder is.",
+        "end_frame": 1860,
+        "duration_frames": 150,
+        "end_mode": "zero_line_token"
+      },
+      {
+        "offset": 2869,
+        "end_code_before": "18600",
+        "start_frame": 0,
+        "line_count": 1,
+        "text": "One year later...",
+        "lines": [
+          "One year later..."
+        ],
+        "full_text": "One year later...",
+        "end_frame": null,
+        "duration_frames": null,
+        "end_mode": "scene_or_group_change"
+      },
+      {
+        "offset": 2906,
+        "end_code_before": null,
+        "start_frame": 125,
+        "line_count": 1,
+        "text": "`Get out!\"",
+        "lines": [
+          "`Get out!\""
+        ],
+        "full_text": "`Get out!\"",
+        "end_frame": null,
+        "duration_frames": null,
+        "end_mode": "scene_or_group_change"
+      },
+      {
+        "offset": 2931,
+        "end_code_before": null,
+        "start_frame": 255,
+        "line_count": 2,
+        "text": "`I don't have time for any of",
+        "lines": [
+          "`I don't have time for any of",
+          "your childish jokes, boy!\""
+        ],
+        "full_text": "`I don't have time for any of\nyour childish jokes, boy!\"",
+        "end_frame": null,
+        "duration_frames": null,
+        "end_mode": "scene_or_group_change"
+      },
+      {
+        "offset": 3002,
+        "end_code_before": null,
+        "start_frame": 510,
+        "line_count": 2,
+        "text": "This isn't a joke...",
+        "lines": [
+          "This isn't a joke...",
+          "it's about getting stronger...that's all."
+        ],
+        "full_text": "This isn't a joke...\nit's about getting stronger...that's all.",
+        "end_frame": null,
+        "duration_frames": null,
+        "end_mode": "scene_or_group_change"
+      },
+      {
+        "offset": 3079,
+        "end_code_before": null,
+        "start_frame": 810,
+        "line_count": 1,
+        "text": "Don't take it personal.",
+        "lines": [
+          "Don't take it personal."
+        ],
+        "full_text": "Don't take it personal.",
+        "end_frame": 900,
+        "duration_frames": 90,
+        "end_mode": "zero_line_token"
+      },
+      {
+        "offset": 3109,
+        "end_code_before": "09000",
+        "start_frame": 45,
+        "line_count": 2,
+        "text": "`Certainly even a killing machine",
+        "lines": [
+          "`Certainly even a killing machine",
+          "like you...must have had doubts?\""
+        ],
+        "full_text": "`Certainly even a killing machine\nlike you...must have had doubts?\"",
+        "end_frame": null,
+        "duration_frames": null,
+        "end_mode": "scene_or_group_change"
+      },
+      {
+        "offset": 3188,
+        "end_code_before": null,
+        "start_frame": 390,
+        "line_count": 1,
+        "text": "`I under...estimated...you.\"",
+        "lines": [
+          "`I under...estimated...you.\""
+        ],
+        "full_text": "`I under...estimated...you.\"",
+        "end_frame": null,
+        "duration_frames": null,
+        "end_mode": "scene_or_group_change"
+      },
+      {
+        "offset": 3231,
+        "end_code_before": null,
+        "start_frame": 540,
+        "line_count": 1,
+        "text": "...Killing machine...",
+        "lines": [
+          "...Killing machine..."
+        ],
+        "full_text": "...Killing machine...",
+        "end_frame": null,
+        "duration_frames": null,
+        "end_mode": "scene_or_group_change"
+      },
+      {
+        "offset": 3259,
+        "end_code_before": null,
+        "start_frame": 630,
+        "line_count": 2,
+        "text": "Now with Kage gone,",
+        "lines": [
+          "Now with Kage gone,",
+          "there's no need for someone like me."
+        ],
+        "full_text": "Now with Kage gone,\nthere's no need for someone like me.",
+        "end_frame": null,
+        "duration_frames": null,
+        "end_mode": "scene_or_group_change"
+      },
+      {
+        "offset": 3330,
+        "end_code_before": null,
+        "start_frame": 1080,
+        "line_count": 1,
+        "text": "Utsusemi...I did what you wanted.",
+        "lines": [
+          "Utsusemi...I did what you wanted."
+        ],
+        "full_text": "Utsusemi...I did what you wanted.",
+        "end_frame": null,
+        "duration_frames": null,
+        "end_mode": "scene_or_group_change"
+      },
+      {
+        "offset": 3378,
+        "end_code_before": null,
+        "start_frame": 1350,
+        "line_count": 1,
+        "text": "Now I have nowhere to go...",
+        "lines": [
+          "Now I have nowhere to go..."
+        ],
+        "full_text": "Now I have nowhere to go...",
+        "end_frame": null,
+        "duration_frames": null,
+        "end_mode": "scene_or_group_change"
+      },
+      {
+        "offset": 3420,
+        "end_code_before": null,
+        "start_frame": 1620,
+        "line_count": 1,
+        "text": "I'm alone again.",
+        "lines": [
+          "I'm alone again."
+        ],
+        "full_text": "I'm alone again.",
+        "end_frame": 1920,
+        "duration_frames": 300,
+        "end_mode": "zero_line_token"
+      },
+      {
+        "offset": 3451,
+        "end_code_before": "19200",
+        "start_frame": 555,
+        "line_count": 2,
+        "text": "No matter how difficult the way may be...",
+        "lines": [
+          "No matter how difficult the way may be...",
+          ""
+        ],
+        "full_text": "No matter how difficult the way may be...\n",
+        "end_frame": null,
+        "duration_frames": null,
+        "end_mode": "scene_or_group_change"
+      },
+      {
+        "offset": 3512,
+        "end_code_before": null,
+        "start_frame": 840,
+        "line_count": 1,
+        "text": "This is the only way I know.",
+        "lines": [
+          "This is the only way I know."
+        ],
+        "full_text": "This is the only way I know.",
+        "end_frame": 1080,
+        "duration_frames": 240,
+        "end_mode": "zero_line_token"
+      },
+      {
+        "offset": 3547,
+        "end_code_before": "10800",
+        "start_frame": 15,
+        "line_count": 2,
+        "text": "Yugiri, the cursed sword...",
+        "lines": [
+          "Yugiri, the cursed sword...",
+          "Hanzaki, is this what made you go crazy?"
+        ],
+        "full_text": "Yugiri, the cursed sword...\nHanzaki, is this what made you go crazy?",
+        "end_frame": null,
+        "duration_frames": null,
+        "end_mode": "scene_or_group_change"
+      },
+      {
+        "offset": 3627,
+        "end_code_before": null,
+        "start_frame": 330,
+        "line_count": 1,
+        "text": "It's...all over now...",
+        "lines": [
+          "It's...all over now..."
+        ],
+        "full_text": "It's...all over now...",
+        "end_frame": null,
+        "duration_frames": null,
+        "end_mode": "scene_or_group_change"
+      },
+      {
+        "offset": 3664,
+        "end_code_before": null,
+        "start_frame": 495,
+        "line_count": 1,
+        "text": "`It's not over...\"",
+        "lines": [
+          "`It's not over...\""
+        ],
+        "full_text": "`It's not over...\"",
+        "end_frame": null,
+        "duration_frames": null,
+        "end_mode": "scene_or_group_change"
+      },
+      {
+        "offset": 3697,
+        "end_code_before": null,
+        "start_frame": 630,
+        "line_count": 1,
+        "text": "So you're still alive?",
+        "lines": [
+          "So you're still alive?"
+        ],
+        "full_text": "So you're still alive?",
+        "end_frame": null,
+        "duration_frames": null,
+        "end_mode": "scene_or_group_change"
+      },
+      {
+        "offset": 3734,
+        "end_code_before": null,
+        "start_frame": 750,
+        "line_count": 2,
+        "text": "`Kage...and Meikyokan have survived",
+        "lines": [
+          "`Kage...and Meikyokan have survived",
+          "for 500 years...\""
+        ],
+        "full_text": "`Kage...and Meikyokan have survived\nfor 500 years...\"",
+        "end_frame": null,
+        "duration_frames": null,
+        "end_mode": "scene_or_group_change"
+      },
+      {
+        "offset": 3794,
+        "end_code_before": null,
+        "start_frame": 1050,
+        "line_count": 1,
+        "text": "`Nothing...can end so eas...i...ly...\"",
+        "lines": [
+          "`Nothing...can end so eas...i...ly...\""
+        ],
+        "full_text": "`Nothing...can end so eas...i...ly...\"",
+        "end_frame": null,
+        "duration_frames": null,
+        "end_mode": "scene_or_group_change"
+      },
+      {
+        "offset": 3847,
+        "end_code_before": null,
+        "start_frame": 1350,
+        "line_count": 1,
+        "text": "What do you mean?",
+        "lines": [
+          "What do you mean?"
+        ],
+        "full_text": "What do you mean?",
+        "end_frame": null,
+        "duration_frames": null,
+        "end_mode": "scene_or_group_change"
+      },
+      {
+        "offset": 3879,
+        "end_code_before": null,
+        "start_frame": 1455,
+        "line_count": 1,
+        "text": "Dead...",
+        "lines": [
+          "Dead..."
+        ],
+        "full_text": "Dead...",
+        "end_frame": null,
+        "duration_frames": null,
+        "end_mode": "scene_or_group_change"
+      },
+      {
+        "offset": 3893,
+        "end_code_before": null,
+        "start_frame": 1560,
+        "line_count": 2,
+        "text": "Kage existed...for 500 years...?",
+        "lines": [
+          "Kage existed...for 500 years...?",
+          "If that's true..."
+        ],
+        "full_text": "Kage existed...for 500 years...?\nIf that's true...",
+        "end_frame": null,
+        "duration_frames": null,
+        "end_mode": "scene_or_group_change"
+      },
+      {
+        "offset": 3950,
+        "end_code_before": null,
+        "start_frame": 1800,
+        "line_count": 1,
+        "text": "then the real enemy is still out there.",
+        "lines": [
+          "then the real enemy is still out there."
+        ],
+        "full_text": "then the real enemy is still out there.",
+        "end_frame": 1950,
+        "duration_frames": 150,
+        "end_mode": "zero_line_token"
+      },
+      {
+        "offset": 3996,
+        "end_code_before": "19500",
+        "start_frame": 270,
+        "line_count": 1,
+        "text": "Ahhh...",
+        "lines": [
+          "Ahhh..."
+        ],
+        "full_text": "Ahhh...",
+        "end_frame": null,
+        "duration_frames": null,
+        "end_mode": "scene_or_group_change"
+      },
+      {
+        "offset": 4015,
+        "end_code_before": null,
+        "start_frame": 360,
+        "line_count": 2,
+        "text": "Heh, he's improved.",
+        "lines": [
+          "Heh, he's improved.",
+          "Still seems a little too hot-headed though."
+        ],
+        "full_text": "Heh, he's improved.\nStill seems a little too hot-headed though.",
+        "end_frame": null,
+        "duration_frames": null,
+        "end_mode": "scene_or_group_change"
+      },
+      {
+        "offset": 4085,
+        "end_code_before": null,
+        "start_frame": 645,
+        "line_count": 2,
+        "text": "Rushing his techniques like that",
+        "lines": [
+          "Rushing his techniques like that",
+          "is a sign of his youth..."
+        ],
+        "full_text": "Rushing his techniques like that\nis a sign of his youth...",
+        "end_frame": null,
+        "duration_frames": null,
+        "end_mode": "scene_or_group_change"
+      },
+      {
+        "offset": 4158,
+        "end_code_before": null,
+        "start_frame": 1110,
+        "line_count": 1,
+        "text": "Just like his old man...",
+        "lines": [
+          "Just like his old man..."
+        ],
+        "full_text": "Just like his old man...",
+        "end_frame": null,
+        "duration_frames": null,
+        "end_mode": "scene_or_group_change"
+      }
+    ],
+    "DATA7/V00.DAT": [
+      {
+        "offset": 220992,
+        "end_code_before": null,
+        "start_frame": 30,
+        "line_count": 1,
+        "text": "Nothing personal, babushka.",
+        "lines": [
+          "Nothing personal, babushka."
+        ],
+        "full_text": "Nothing personal, babushka.",
+        "end_frame": 180,
+        "duration_frames": 150,
+        "end_mode": "zero_line_token"
+      },
+      {
+        "offset": 221026,
+        "end_code_before": "01800",
+        "start_frame": 84,
+        "line_count": 1,
+        "text": "Why would Kannuki want to kill me...?",
+        "lines": [
+          "Why would Kannuki want to kill me...?"
+        ],
+        "full_text": "Why would Kannuki want to kill me...?",
+        "end_frame": 180,
+        "duration_frames": 96,
+        "end_mode": "zero_line_token"
+      },
+      {
+        "offset": 221075,
+        "end_code_before": "01800",
+        "start_frame": 60,
+        "line_count": 1,
+        "text": "I don't want to kill women.",
+        "lines": [
+          "I don't want to kill women."
+        ],
+        "full_text": "I don't want to kill women.",
+        "end_frame": 180,
+        "duration_frames": 120,
+        "end_mode": "zero_line_token"
+      },
+      {
+        "offset": 221114,
+        "end_code_before": "01800",
+        "start_frame": 60,
+        "line_count": 2,
+        "text": "For the first time in my life,",
+        "lines": [
+          "For the first time in my life,",
+          "I've taken a life."
+        ],
+        "full_text": "For the first time in my life,\nI've taken a life.",
+        "end_frame": 180,
+        "duration_frames": 120,
+        "end_mode": "zero_line_token"
+      },
+      {
+        "offset": 221175,
+        "end_code_before": "01800",
+        "start_frame": 30,
+        "line_count": 1,
+        "text": "Mikado...",
+        "lines": [
+          "Mikado..."
+        ],
+        "full_text": "Mikado...",
+        "end_frame": null,
+        "duration_frames": null,
+        "end_mode": "scene_or_group_change"
+      },
+      {
+        "offset": 221196,
+        "end_code_before": null,
+        "start_frame": 120,
+        "line_count": 1,
+        "text": "I'm sorry...",
+        "lines": [
+          "I'm sorry..."
+        ],
+        "full_text": "I'm sorry...",
+        "end_frame": 180,
+        "duration_frames": 60,
+        "end_mode": "zero_line_token"
+      },
+      {
+        "offset": 221215,
+        "end_code_before": "01800",
+        "start_frame": 50,
+        "line_count": 2,
+        "text": "You are not even in Kage,",
+        "lines": [
+          "You are not even in Kage,",
+          "why were you after me?"
+        ],
+        "full_text": "You are not even in Kage,\nwhy were you after me?",
+        "end_frame": null,
+        "duration_frames": null,
+        "end_mode": "scene_or_group_change"
+      }
+    ],
+    "DATA7/V01.DAT": [
+      {
+        "offset": 201372,
+        "end_code_before": null,
+        "start_frame": 80,
+        "line_count": 1,
+        "text": "Looks like you got a little too old, Pops.",
+        "lines": [
+          "Looks like you got a little too old, Pops."
+        ],
+        "full_text": "Looks like you got a little too old, Pops.",
+        "end_frame": 180,
+        "duration_frames": 100,
+        "end_mode": "zero_line_token"
+      },
+      {
+        "offset": 201421,
+        "end_code_before": "01800",
+        "start_frame": 40,
+        "line_count": 1,
+        "text": "Is the Dojo Master controlling everyone?",
+        "lines": [
+          "Is the Dojo Master controlling everyone?"
+        ],
+        "full_text": "Is the Dojo Master controlling everyone?",
+        "end_frame": 180,
+        "duration_frames": 140,
+        "end_mode": "zero_line_token"
+      },
+      {
+        "offset": 201473,
+        "end_code_before": "01800",
+        "start_frame": 30,
+        "line_count": 1,
+        "text": "Why did you try to kill me?",
+        "lines": [
+          "Why did you try to kill me?"
+        ],
+        "full_text": "Why did you try to kill me?",
+        "end_frame": 180,
+        "duration_frames": 150,
+        "end_mode": "zero_line_token"
+      },
+      {
+        "offset": 201512,
+        "end_code_before": "01800",
+        "start_frame": 50,
+        "line_count": 1,
+        "text": "I never thought I would ever have to kill you.",
+        "lines": [
+          "I never thought I would ever have to kill you."
+        ],
+        "full_text": "I never thought I would ever have to kill you.",
+        "end_frame": 180,
+        "duration_frames": 130,
+        "end_mode": "zero_line_token"
+      },
+      {
+        "offset": 201570,
+        "end_code_before": "01800",
+        "start_frame": 30,
+        "line_count": 1,
+        "text": "I must see how far I can make it...",
+        "lines": [
+          "I must see how far I can make it..."
+        ],
+        "full_text": "I must see how far I can make it...",
+        "end_frame": 180,
+        "duration_frames": 150,
+        "end_mode": "zero_line_token"
+      },
+      {
+        "offset": 201617,
+        "end_code_before": "01800",
+        "start_frame": 50,
+        "line_count": 2,
+        "text": "Still so young...",
+        "lines": [
+          "Still so young...",
+          "don't throw your life away for nothing."
+        ],
+        "full_text": "Still so young...\ndon't throw your life away for nothing.",
+        "end_frame": null,
+        "duration_frames": null,
+        "end_mode": "scene_or_group_change"
+      }
+    ],
+    "DATA7/V02.DAT": [
+      {
+        "offset": 295256,
+        "end_code_before": null,
+        "start_frame": 11,
+        "line_count": 2,
+        "text": "Bastard!",
+        "lines": [
+          "Bastard!",
+          "You massacred a whole Ryukyu village?"
+        ],
+        "full_text": "Bastard!\nYou massacred a whole Ryukyu village?",
+        "end_frame": null,
+        "duration_frames": null,
+        "end_mode": "scene_or_group_change"
+      },
+      {
+        "offset": 295321,
+        "end_code_before": null,
+        "start_frame": 210,
+        "line_count": 1,
+        "text": "What a fool I was...",
+        "lines": [
+          "What a fool I was..."
+        ],
+        "full_text": "What a fool I was...",
+        "end_frame": 300,
+        "duration_frames": 90,
+        "end_mode": "zero_line_token"
+      },
+      {
+        "offset": 295348,
+        "end_code_before": "03000",
+        "start_frame": 40,
+        "line_count": 1,
+        "text": "Rest in peace...Black Lotus...",
+        "lines": [
+          "Rest in peace...Black Lotus..."
+        ],
+        "full_text": "Rest in peace...Black Lotus...",
+        "end_frame": 180,
+        "duration_frames": 140,
+        "end_mode": "zero_line_token"
+      },
+      {
+        "offset": 295390,
+        "end_code_before": "01800",
+        "start_frame": 15,
+        "line_count": 2,
+        "text": "Master Utsusemi!",
+        "lines": [
+          "Master Utsusemi!",
+          "`It's all right. This must be fate.\""
+        ],
+        "full_text": "Master Utsusemi!\n`It's all right. This must be fate.\"",
+        "end_frame": null,
+        "duration_frames": null,
+        "end_mode": "scene_or_group_change"
+      },
+      {
+        "offset": 295455,
+        "end_code_before": null,
+        "start_frame": 150,
+        "line_count": 2,
+        "text": "Master Utsusemi!",
+        "lines": [
+          "Master Utsusemi!",
+          "I deeply respected you."
+        ],
+        "full_text": "Master Utsusemi!\nI deeply respected you.",
+        "end_frame": 350,
+        "duration_frames": 200,
+        "end_mode": "zero_line_token"
+      },
+      {
+        "offset": 295502,
+        "end_code_before": "03500",
+        "start_frame": 40,
+        "line_count": 1,
+        "text": "I can't believe I beat you.",
+        "lines": [
+          "I can't believe I beat you."
+        ],
+        "full_text": "I can't believe I beat you.",
+        "end_frame": 180,
+        "duration_frames": 140,
+        "end_mode": "zero_line_token"
+      },
+      {
+        "offset": 295541,
+        "end_code_before": "01800",
+        "start_frame": 30,
+        "line_count": 2,
+        "text": "All I wanted was to kill the Dojo Master",
+        "lines": [
+          "All I wanted was to kill the Dojo Master",
+          "for Utsusemi..."
+        ],
+        "full_text": "All I wanted was to kill the Dojo Master\nfor Utsusemi...",
+        "end_frame": 180,
+        "duration_frames": 150,
+        "end_mode": "zero_line_token"
+      },
+      {
+        "offset": 295609,
+        "end_code_before": "01800",
+        "start_frame": 40,
+        "line_count": 2,
+        "text": "I'm sorry.",
+        "lines": [
+          "I'm sorry.",
+          "I didn't mean for you to get involved."
+        ],
+        "full_text": "I'm sorry.\nI didn't mean for you to get involved.",
+        "end_frame": null,
+        "duration_frames": null,
+        "end_mode": "scene_or_group_change"
+      }
+    ],
+    "DATA7/V03.DAT": [
+      {
+        "offset": 181800,
+        "end_code_before": null,
+        "start_frame": 30,
+        "line_count": 1,
+        "text": "I know it's not your fault.",
+        "lines": [
+          "I know it's not your fault."
+        ],
+        "full_text": "I know it's not your fault.",
+        "end_frame": 180,
+        "duration_frames": 150,
+        "end_mode": "zero_line_token"
+      },
+      {
+        "offset": 181834,
+        "end_code_before": "01800",
+        "start_frame": 60,
+        "line_count": 1,
+        "text": "You were involved with Kage?",
+        "lines": [
+          "You were involved with Kage?"
+        ],
+        "full_text": "You were involved with Kage?",
+        "end_frame": 180,
+        "duration_frames": 120,
+        "end_mode": "zero_line_token"
+      },
+      {
+        "offset": 181874,
+        "end_code_before": "01800",
+        "start_frame": 40,
+        "line_count": 1,
+        "text": "I don't care who comes against me.",
+        "lines": [
+          "I don't care who comes against me."
+        ],
+        "full_text": "I don't care who comes against me.",
+        "end_frame": 180,
+        "duration_frames": 140,
+        "end_mode": "zero_line_token"
+      },
+      {
+        "offset": 181920,
+        "end_code_before": "01800",
+        "start_frame": 50,
+        "line_count": 1,
+        "text": "There's no way I'm going to die.",
+        "lines": [
+          "There's no way I'm going to die."
+        ],
+        "full_text": "There's no way I'm going to die.",
+        "end_frame": 180,
+        "duration_frames": 130,
+        "end_mode": "zero_line_token"
+      },
+      {
+        "offset": 181964,
+        "end_code_before": "01800",
+        "start_frame": 30,
+        "line_count": 1,
+        "text": "I don't want to kill...",
+        "lines": [
+          "I don't want to kill..."
+        ],
+        "full_text": "I don't want to kill...",
+        "end_frame": 180,
+        "duration_frames": 150,
+        "end_mode": "zero_line_token"
+      },
+      {
+        "offset": 181999,
+        "end_code_before": "01800",
+        "start_frame": 50,
+        "line_count": 2,
+        "text": "Humph!",
+        "lines": [
+          "Humph!",
+          "You're years away from beating me."
+        ],
+        "full_text": "Humph!\nYou're years away from beating me.",
+        "end_frame": null,
+        "duration_frames": null,
+        "end_mode": "scene_or_group_change"
+      }
+    ],
+    "DATA7/V04.DAT": [
+      {
+        "offset": 355528,
+        "end_code_before": null,
+        "start_frame": 40,
+        "line_count": 2,
+        "text": "Why did we ever join Meikyokan",
+        "lines": [
+          "Why did we ever join Meikyokan",
+          "in the first place?"
+        ],
+        "full_text": "Why did we ever join Meikyokan\nin the first place?",
+        "end_frame": 180,
+        "duration_frames": 140,
+        "end_mode": "zero_line_token"
+      },
+      {
+        "offset": 355585,
+        "end_code_before": "01800",
+        "start_frame": 30,
+        "line_count": 2,
+        "text": "I didn't want to kill you.",
+        "lines": [
+          "I didn't want to kill you.",
+          "It was the Dojo Master's orders, wasn't it?"
+        ],
+        "full_text": "I didn't want to kill you.\nIt was the Dojo Master's orders, wasn't it?",
+        "end_frame": null,
+        "duration_frames": null,
+        "end_mode": "scene_or_group_change"
+      },
+      {
+        "offset": 355682,
+        "end_code_before": null,
+        "start_frame": 240,
+        "line_count": 2,
+        "text": "I never should have tried to escape.",
+        "lines": [
+          "I never should have tried to escape.",
+          "We're all just killing each other..."
+        ],
+        "full_text": "I never should have tried to escape.\nWe're all just killing each other...",
+        "end_frame": 400,
+        "duration_frames": 160,
+        "end_mode": "zero_line_token"
+      },
+      {
+        "offset": 355762,
+        "end_code_before": "04000",
+        "start_frame": 10,
+        "line_count": 2,
+        "text": "I've broken the code...have no `loyalty\".",
+        "lines": [
+          "I've broken the code...have no `loyalty\".",
+          "What have I got to fear? Ha ha ha..."
+        ],
+        "full_text": "I've broken the code...have no `loyalty\".\nWhat have I got to fear? Ha ha ha...",
+        "end_frame": 180,
+        "duration_frames": 170,
+        "end_mode": "zero_line_token"
+      },
+      {
+        "offset": 355852,
+        "end_code_before": "01800",
+        "start_frame": 20,
+        "line_count": 1,
+        "text": "Should I have turned and run away?",
+        "lines": [
+          "Should I have turned and run away?"
+        ],
+        "full_text": "Should I have turned and run away?",
+        "end_frame": null,
+        "duration_frames": null,
+        "end_mode": "scene_or_group_change"
+      },
+      {
+        "offset": 355898,
+        "end_code_before": null,
+        "start_frame": 150,
+        "line_count": 1,
+        "text": "`Make your decision, then stand by it.\"",
+        "lines": [
+          "`Make your decision, then stand by it.\""
+        ],
+        "full_text": "`Make your decision, then stand by it.\"",
+        "end_frame": null,
+        "duration_frames": null,
+        "end_mode": "scene_or_group_change"
+      },
+      {
+        "offset": 355944,
+        "end_code_before": null,
+        "start_frame": 310,
+        "line_count": 1,
+        "text": "Then, I'll never run away again.",
+        "lines": [
+          "Then, I'll never run away again."
+        ],
+        "full_text": "Then, I'll never run away again.",
+        "end_frame": 400,
+        "duration_frames": 90,
+        "end_mode": "zero_line_token"
+      },
+      {
+        "offset": 355983,
+        "end_code_before": "04000",
+        "start_frame": 40,
+        "line_count": 1,
+        "text": "`You did well. I'll leave the rest to you...\"",
+        "lines": [
+          "`You did well. I'll leave the rest to you...\""
+        ],
+        "full_text": "`You did well. I'll leave the rest to you...\"",
+        "end_frame": null,
+        "duration_frames": null,
+        "end_mode": "scene_or_group_change"
+      },
+      {
+        "offset": 356040,
+        "end_code_before": null,
+        "start_frame": 170,
+        "line_count": 2,
+        "text": "Your wounds aren't fatal.",
+        "lines": [
+          "Your wounds aren't fatal.",
+          "Take care of yourself."
+        ],
+        "full_text": "Your wounds aren't fatal.\nTake care of yourself.",
+        "end_frame": 350,
+        "duration_frames": 180,
+        "end_mode": "zero_line_token"
+      },
+      {
+        "offset": 356095,
+        "end_code_before": "03500",
+        "start_frame": 30,
+        "line_count": 1,
+        "text": "This is tearing us apart.",
+        "lines": [
+          "This is tearing us apart."
+        ],
+        "full_text": "This is tearing us apart.",
+        "end_frame": null,
+        "duration_frames": null,
+        "end_mode": "scene_or_group_change"
+      },
+      {
+        "offset": 356132,
+        "end_code_before": null,
+        "start_frame": 90,
+        "line_count": 2,
+        "text": "Nothing will be solved",
+        "lines": [
+          "Nothing will be solved",
+          "if I keep running away like this."
+        ],
+        "full_text": "Nothing will be solved\nif I keep running away like this.",
+        "end_frame": null,
+        "duration_frames": null,
+        "end_mode": "scene_or_group_change"
+      }
+    ],
+    "DATA7/V05.DAT": [
+      {
+        "offset": 399752,
+        "end_code_before": null,
+        "start_frame": 30,
+        "line_count": 1,
+        "text": "Who sent you? Answer me!",
+        "lines": [
+          "Who sent you? Answer me!"
+        ],
+        "full_text": "Who sent you? Answer me!",
+        "end_frame": null,
+        "duration_frames": null,
+        "end_mode": "scene_or_group_change"
+      },
+      {
+        "offset": 399783,
+        "end_code_before": null,
+        "start_frame": 120,
+        "line_count": 1,
+        "text": "`...Hanzaki...\"",
+        "lines": [
+          "`...Hanzaki...\""
+        ],
+        "full_text": "`...Hanzaki...\"",
+        "end_frame": null,
+        "duration_frames": null,
+        "end_mode": "scene_or_group_change"
+      },
+      {
+        "offset": 399805,
+        "end_code_before": null,
+        "start_frame": 150,
+        "line_count": 2,
+        "text": "Hanzaki?",
+        "lines": [
+          "Hanzaki?",
+          "I thought he was behind all this..."
+        ],
+        "full_text": "Hanzaki?\nI thought he was behind all this...",
+        "end_frame": 270,
+        "duration_frames": 120,
+        "end_mode": "zero_line_token"
+      },
+      {
+        "offset": 399856,
+        "end_code_before": "02700",
+        "start_frame": 30,
+        "line_count": 1,
+        "text": "Who sent you?",
+        "lines": [
+          "Who sent you?"
+        ],
+        "full_text": "Who sent you?",
+        "end_frame": null,
+        "duration_frames": null,
+        "end_mode": "scene_or_group_change"
+      },
+      {
+        "offset": 399881,
+        "end_code_before": null,
+        "start_frame": 100,
+        "line_count": 1,
+        "text": "`...Hanzaki...\"",
+        "lines": [
+          "`...Hanzaki...\""
+        ],
+        "full_text": "`...Hanzaki...\"",
+        "end_frame": null,
+        "duration_frames": null,
+        "end_mode": "scene_or_group_change"
+      },
+      {
+        "offset": 399903,
+        "end_code_before": null,
+        "start_frame": 210,
+        "line_count": 1,
+        "text": "So Hanzaki's also being controlled...",
+        "lines": [
+          "So Hanzaki's also being controlled..."
+        ],
+        "full_text": "So Hanzaki's also being controlled...",
+        "end_frame": 300,
+        "duration_frames": 90,
+        "end_mode": "zero_line_token"
+      },
+      {
+        "offset": 399947,
+        "end_code_before": "03000",
+        "start_frame": 20,
+        "line_count": 1,
+        "text": "Never seen you before...",
+        "lines": [
+          "Never seen you before..."
+        ],
+        "full_text": "Never seen you before...",
+        "end_frame": null,
+        "duration_frames": null,
+        "end_mode": "scene_or_group_change"
+      },
+      {
+        "offset": 399983,
+        "end_code_before": null,
+        "start_frame": 105,
+        "line_count": 1,
+        "text": "`...Hanzaki...\"",
+        "lines": [
+          "`...Hanzaki...\""
+        ],
+        "full_text": "`...Hanzaki...\"",
+        "end_frame": null,
+        "duration_frames": null,
+        "end_mode": "scene_or_group_change"
+      },
+      {
+        "offset": 400005,
+        "end_code_before": null,
+        "start_frame": 160,
+        "line_count": 1,
+        "text": "Hanzaki ordered this?",
+        "lines": [
+          "Hanzaki ordered this?"
+        ],
+        "full_text": "Hanzaki ordered this?",
+        "end_frame": null,
+        "duration_frames": null,
+        "end_mode": "scene_or_group_change"
+      },
+      {
+        "offset": 400033,
+        "end_code_before": null,
+        "start_frame": 215,
+        "line_count": 1,
+        "text": "..I thought so.",
+        "lines": [
+          "..I thought so."
+        ],
+        "full_text": "..I thought so.",
+        "end_frame": 300,
+        "duration_frames": 85,
+        "end_mode": "zero_line_token"
+      },
+      {
+        "offset": 400055,
+        "end_code_before": "03000",
+        "start_frame": 30,
+        "line_count": 1,
+        "text": "Who sent you?",
+        "lines": [
+          "Who sent you?"
+        ],
+        "full_text": "Who sent you?",
+        "end_frame": null,
+        "duration_frames": null,
+        "end_mode": "scene_or_group_change"
+      },
+      {
+        "offset": 400080,
+        "end_code_before": null,
+        "start_frame": 110,
+        "line_count": 1,
+        "text": "`...Hanzaki...\"",
+        "lines": [
+          "`...Hanzaki...\""
+        ],
+        "full_text": "`...Hanzaki...\"",
+        "end_frame": null,
+        "duration_frames": null,
+        "end_mode": "scene_or_group_change"
+      },
+      {
+        "offset": 400102,
+        "end_code_before": null,
+        "start_frame": 160,
+        "line_count": 1,
+        "text": "Hanzaki? The Dojo Master?",
+        "lines": [
+          "Hanzaki? The Dojo Master?"
+        ],
+        "full_text": "Hanzaki? The Dojo Master?",
+        "end_frame": 300,
+        "duration_frames": 140,
+        "end_mode": "zero_line_token"
+      },
+      {
+        "offset": 400134,
+        "end_code_before": "03000",
+        "start_frame": 20,
+        "line_count": 1,
+        "text": "Who sent you?",
+        "lines": [
+          "Who sent you?"
+        ],
+        "full_text": "Who sent you?",
+        "end_frame": null,
+        "duration_frames": null,
+        "end_mode": "scene_or_group_change"
+      },
+      {
+        "offset": 400159,
+        "end_code_before": null,
+        "start_frame": 100,
+        "line_count": 1,
+        "text": "`...Hanzaki...\"",
+        "lines": [
+          "`...Hanzaki...\""
+        ],
+        "full_text": "`...Hanzaki...\"",
+        "end_frame": null,
+        "duration_frames": null,
+        "end_mode": "scene_or_group_change"
+      },
+      {
+        "offset": 400181,
+        "end_code_before": null,
+        "start_frame": 155,
+        "line_count": 2,
+        "text": "Hanzaki?",
+        "lines": [
+          "Hanzaki?",
+          "So he finally shows his true colors..."
+        ],
+        "full_text": "Hanzaki?\nSo he finally shows his true colors...",
+        "end_frame": 300,
+        "duration_frames": 145,
+        "end_mode": "zero_line_token"
+      },
+      {
+        "offset": 400235,
+        "end_code_before": "03000",
+        "start_frame": 20,
+        "line_count": 1,
+        "text": "An outside assassin...",
+        "lines": [
+          "An outside assassin..."
+        ],
+        "full_text": "An outside assassin...",
+        "end_frame": null,
+        "duration_frames": null,
+        "end_mode": "scene_or_group_change"
+      },
+      {
+        "offset": 400269,
+        "end_code_before": null,
+        "start_frame": 150,
+        "line_count": 2,
+        "text": "He must have hired you.",
+        "lines": [
+          "He must have hired you.",
+          "Pretty cowardly, using a gun...!"
+        ],
+        "full_text": "He must have hired you.\nPretty cowardly, using a gun...!",
+        "end_frame": null,
+        "duration_frames": null,
+        "end_mode": "scene_or_group_change"
+      }
+    ],
+    "DATA7/V06.DAT": [
+      {
+        "offset": 142836,
+        "end_code_before": null,
+        "start_frame": 90,
+        "line_count": 1,
+        "text": "Thanks for the practice...",
+        "lines": [
+          "Thanks for the practice..."
+        ],
+        "full_text": "Thanks for the practice...",
+        "end_frame": 180,
+        "duration_frames": 90,
+        "end_mode": "zero_line_token"
+      },
+      {
+        "offset": 142869,
+        "end_code_before": "01800",
+        "start_frame": 60,
+        "line_count": 2,
+        "text": "He was strong...",
+        "lines": [
+          "He was strong...",
+          "not in the same league as the others."
+        ],
+        "full_text": "He was strong...\nnot in the same league as the others.",
+        "end_frame": 180,
+        "duration_frames": 120,
+        "end_mode": "zero_line_token"
+      },
+      {
+        "offset": 142935,
+        "end_code_before": "01800",
+        "start_frame": 27,
+        "line_count": 2,
+        "text": "Humph!",
+        "lines": [
+          "Humph!",
+          "You're not cut out for this kind of work."
+        ],
+        "full_text": "Humph!\nYou're not cut out for this kind of work.",
+        "end_frame": 180,
+        "duration_frames": 153,
+        "end_mode": "zero_line_token"
+      },
+      {
+        "offset": 142995,
+        "end_code_before": "01800",
+        "start_frame": 70,
+        "line_count": 1,
+        "text": "You're not so tough!",
+        "lines": [
+          "You're not so tough!"
+        ],
+        "full_text": "You're not so tough!",
+        "end_frame": 180,
+        "duration_frames": 110,
+        "end_mode": "zero_line_token"
+      },
+      {
+        "offset": 143027,
+        "end_code_before": "01800",
+        "start_frame": 60,
+        "line_count": 1,
+        "text": "How many more are there?",
+        "lines": [
+          "How many more are there?"
+        ],
+        "full_text": "How many more are there?",
+        "end_frame": 180,
+        "duration_frames": 120,
+        "end_mode": "zero_line_token"
+      },
+      {
+        "offset": 143063,
+        "end_code_before": "01800",
+        "start_frame": 90,
+        "line_count": 1,
+        "text": "What a waste of time!",
+        "lines": [
+          "What a waste of time!"
+        ],
+        "full_text": "What a waste of time!",
+        "end_frame": null,
+        "duration_frames": null,
+        "end_mode": "scene_or_group_change"
+      }
+    ],
+    "DATA7/V07.DAT": [
+      {
+        "offset": 201056,
+        "end_code_before": null,
+        "start_frame": 80,
+        "line_count": 1,
+        "text": "What a waste.",
+        "lines": [
+          "What a waste."
+        ],
+        "full_text": "What a waste.",
+        "end_frame": 180,
+        "duration_frames": 100,
+        "end_mode": "zero_line_token"
+      },
+      {
+        "offset": 201076,
+        "end_code_before": "01800",
+        "start_frame": 30,
+        "line_count": 2,
+        "text": "If you're here,",
+        "lines": [
+          "If you're here,",
+          "then that means he's nearby..."
+        ],
+        "full_text": "If you're here,\nthen that means he's nearby...",
+        "end_frame": 180,
+        "duration_frames": 150,
+        "end_mode": "zero_line_token"
+      },
+      {
+        "offset": 201134,
+        "end_code_before": "01800",
+        "start_frame": 90,
+        "line_count": 1,
+        "text": "I can't stand this anymore.",
+        "lines": [
+          "I can't stand this anymore."
+        ],
+        "full_text": "I can't stand this anymore.",
+        "end_frame": 180,
+        "duration_frames": 90,
+        "end_mode": "zero_line_token"
+      },
+      {
+        "offset": 201173,
+        "end_code_before": "01800",
+        "start_frame": 45,
+        "line_count": 2,
+        "text": "Now all that's left is to kill Hanzaki",
+        "lines": [
+          "Now all that's left is to kill Hanzaki",
+          "with my own two hands...!"
+        ],
+        "full_text": "Now all that's left is to kill Hanzaki\nwith my own two hands...!",
+        "end_frame": 180,
+        "duration_frames": 135,
+        "end_mode": "zero_line_token"
+      },
+      {
+        "offset": 201249,
+        "end_code_before": "01800",
+        "start_frame": 30,
+        "line_count": 1,
+        "text": "I'm sorry...I couldn't hold back.",
+        "lines": [
+          "I'm sorry...I couldn't hold back."
+        ],
+        "full_text": "I'm sorry...I couldn't hold back.",
+        "end_frame": 180,
+        "duration_frames": 150,
+        "end_mode": "zero_line_token"
+      },
+      {
+        "offset": 201294,
+        "end_code_before": "01800",
+        "start_frame": 60,
+        "line_count": 1,
+        "text": "I have no time for this!",
+        "lines": [
+          "I have no time for this!"
+        ],
+        "full_text": "I have no time for this!",
+        "end_frame": null,
+        "duration_frames": null,
+        "end_mode": "scene_or_group_change"
+      }
+    ],
+    "DATA7/V08.DAT": [
+      {
+        "offset": 207728,
+        "end_code_before": null,
+        "start_frame": 30,
+        "line_count": 2,
+        "text": "Why did you order Black Lotus to massacre",
+        "lines": [
+          "Why did you order Black Lotus to massacre",
+          "my people!?"
+        ],
+        "full_text": "Why did you order Black Lotus to massacre\nmy people!?",
+        "end_frame": null,
+        "duration_frames": null,
+        "end_mode": "scene_or_group_change"
+      },
+      {
+        "offset": 207788,
+        "end_code_before": null,
+        "start_frame": 130,
+        "line_count": 1,
+        "text": "That was...",
+        "lines": [
+          "That was..."
+        ],
+        "full_text": "That was...",
+        "end_frame": null,
+        "duration_frames": null,
+        "end_mode": "scene_or_group_change"
+      },
+      {
+        "offset": 207806,
+        "end_code_before": null,
+        "start_frame": 180,
+        "line_count": 1,
+        "text": "my hometown!",
+        "lines": [
+          "my hometown!"
+        ],
+        "full_text": "my hometown!",
+        "end_frame": 250,
+        "duration_frames": 70,
+        "end_mode": "zero_line_token"
+      },
+      {
+        "offset": 207825,
+        "end_code_before": "02500",
+        "start_frame": 30,
+        "line_count": 1,
+        "text": "He must have been controlled by someone else...",
+        "lines": [
+          "He must have been controlled by someone else..."
+        ],
+        "full_text": "He must have been controlled by someone else...",
+        "end_frame": 180,
+        "duration_frames": 150,
+        "end_mode": "zero_line_token"
+      },
+      {
+        "offset": 207884,
+        "end_code_before": "01800",
+        "start_frame": 20,
+        "line_count": 1,
+        "text": "This is the end, both for Kage and myself.",
+        "lines": [
+          "This is the end, both for Kage and myself."
+        ],
+        "full_text": "This is the end, both for Kage and myself.",
+        "end_frame": 180,
+        "duration_frames": 160,
+        "end_mode": "zero_line_token"
+      },
+      {
+        "offset": 207938,
+        "end_code_before": "01800",
+        "start_frame": 30,
+        "line_count": 1,
+        "text": "I did it! I finally beat him!",
+        "lines": [
+          "I did it! I finally beat him!"
+        ],
+        "full_text": "I did it! I finally beat him!",
+        "end_frame": 150,
+        "duration_frames": 120,
+        "end_mode": "zero_line_token"
+      },
+      {
+        "offset": 207979,
+        "end_code_before": "01500",
+        "start_frame": 30,
+        "line_count": 1,
+        "text": "Utsusemi...I did what you wanted.",
+        "lines": [
+          "Utsusemi...I did what you wanted."
+        ],
+        "full_text": "Utsusemi...I did what you wanted.",
+        "end_frame": 210,
+        "duration_frames": 180,
+        "end_mode": "zero_line_token"
+      },
+      {
+        "offset": 208024,
+        "end_code_before": "02100",
+        "start_frame": 30,
+        "line_count": 1,
+        "text": "With that last cut, I've defied you.",
+        "lines": [
+          "With that last cut, I've defied you."
+        ],
+        "full_text": "With that last cut, I've defied you.",
+        "end_frame": null,
+        "duration_frames": null,
+        "end_mode": "scene_or_group_change"
+      },
+      {
+        "offset": 208072,
+        "end_code_before": null,
+        "start_frame": 150,
+        "line_count": 1,
+        "text": "You were a good friend...",
+        "lines": [
+          "You were a good friend..."
+        ],
+        "full_text": "You were a good friend...",
+        "end_frame": null,
+        "duration_frames": null,
+        "end_mode": "scene_or_group_change"
+      }
+    ],
+    "SCUS_941.80": [
+      {
+        "offset": 6812,
+        "end_code_before": null,
+        "start_frame": 45,
+        "line_count": 1,
+        "text": "`C'mon!\"",
+        "lines": [
+          "`C'mon!\""
+        ],
+        "full_text": "`C'mon!\"",
+        "end_frame": null,
+        "duration_frames": null,
+        "end_mode": "scene_or_group_change"
+      },
+      {
+        "offset": 6828,
+        "end_code_before": null,
+        "start_frame": 1,
+        "line_count": 1,
+        "text": "`OK! Ready!?\"",
+        "lines": [
+          "`OK! Ready!?\""
+        ],
+        "full_text": "`OK! Ready!?\"",
+        "end_frame": null,
+        "duration_frames": null,
+        "end_mode": "scene_or_group_change"
+      },
+      {
+        "offset": 6848,
+        "end_code_before": null,
+        "start_frame": 5,
+        "line_count": 1,
+        "text": "`Let's have a clean fight!\"",
+        "lines": [
+          "`Let's have a clean fight!\""
+        ],
+        "full_text": "`Let's have a clean fight!\"",
+        "end_frame": null,
+        "duration_frames": null,
+        "end_mode": "scene_or_group_change"
+      },
+      {
+        "offset": 6884,
+        "end_code_before": null,
+        "start_frame": 45,
+        "line_count": 1,
+        "text": "`This one's for real now.\"",
+        "lines": [
+          "`This one's for real now.\""
+        ],
+        "full_text": "`This one's for real now.\"",
+        "end_frame": null,
+        "duration_frames": null,
+        "end_mode": "scene_or_group_change"
+      },
+      {
+        "offset": 6932,
+        "end_code_before": null,
+        "start_frame": 30,
+        "line_count": 1,
+        "text": "`Prepare yourself!\"",
+        "lines": [
+          "`Prepare yourself!\""
+        ],
+        "full_text": "`Prepare yourself!\"",
+        "end_frame": null,
+        "duration_frames": null,
+        "end_mode": "scene_or_group_change"
+      },
+      {
+        "offset": 6960,
+        "end_code_before": null,
+        "start_frame": 60,
+        "line_count": 1,
+        "text": "`Die!\"",
+        "lines": [
+          "`Die!\""
+        ],
+        "full_text": "`Die!\"",
+        "end_frame": null,
+        "duration_frames": null,
+        "end_mode": "scene_or_group_change"
+      },
+      {
+        "offset": 6976,
+        "end_code_before": null,
+        "start_frame": 5,
+        "line_count": 1,
+        "text": "`I'll put you out of your misery!\"",
+        "lines": [
+          "`I'll put you out of your misery!\""
+        ],
+        "full_text": "`I'll put you out of your misery!\"",
+        "end_frame": null,
+        "duration_frames": null,
+        "end_mode": "scene_or_group_change"
+      },
+      {
+        "offset": 7020,
+        "end_code_before": null,
+        "start_frame": 5,
+        "line_count": 2,
+        "text": "`Well, well...who would've ever thought",
+        "lines": [
+          "`Well, well...who would've ever thought",
+          " you'd make it to me?\""
+        ],
+        "full_text": "`Well, well...who would've ever thought\n you'd make it to me?\"",
+        "end_frame": null,
+        "duration_frames": null,
+        "end_mode": "scene_or_group_change"
+      },
+      {
+        "offset": 7092,
+        "end_code_before": null,
+        "start_frame": 15,
+        "line_count": 1,
+        "text": "`You just don't know when to quit, do you?\"",
+        "lines": [
+          "`You just don't know when to quit, do you?\""
+        ],
+        "full_text": "`You just don't know when to quit, do you?\"",
+        "end_frame": null,
+        "duration_frames": null,
+        "end_mode": "scene_or_group_change"
+      },
+      {
+        "offset": 7144,
+        "end_code_before": null,
+        "start_frame": 240,
+        "line_count": 2,
+        "text": "`Do you think you're going to kill me",
+        "lines": [
+          "`Do you think you're going to kill me",
+          "with it?\""
+        ],
+        "full_text": "`Do you think you're going to kill me\nwith it?\"",
+        "end_frame": null,
+        "duration_frames": null,
+        "end_mode": "scene_or_group_change"
+      },
+      {
+        "offset": 7200,
+        "end_code_before": null,
+        "start_frame": 90,
+        "line_count": 2,
+        "text": "`Your sword is stained with the blood",
+        "lines": [
+          "`Your sword is stained with the blood",
+          "of your fallen comrades.\""
+        ],
+        "full_text": "`Your sword is stained with the blood\nof your fallen comrades.\"",
+        "end_frame": null,
+        "duration_frames": null,
+        "end_mode": "scene_or_group_change"
+      },
+      {
+        "offset": 7272,
+        "end_code_before": null,
+        "start_frame": 1,
+        "line_count": 1,
+        "text": "`Ha ha ha...\"",
+        "lines": [
+          "`Ha ha ha...\""
+        ],
+        "full_text": "`Ha ha ha...\"",
+        "end_frame": null,
+        "duration_frames": null,
+        "end_mode": "scene_or_group_change"
+      },
+      {
+        "offset": 7292,
+        "end_code_before": null,
+        "start_frame": 1,
+        "line_count": 1,
+        "text": "`Wanna try?",
+        "lines": [
+          "`Wanna try?"
+        ],
+        "full_text": "`Wanna try?",
+        "end_frame": null,
+        "duration_frames": null,
+        "end_mode": "scene_or_group_change"
+      },
+      {
+        "offset": 7332,
+        "end_code_before": null,
+        "start_frame": 5,
+        "line_count": 1,
+        "text": "Tsha! I guess that's that.",
+        "lines": [
+          "Tsha! I guess that's that."
+        ],
+        "full_text": "Tsha! I guess that's that.",
+        "end_frame": null,
+        "duration_frames": null,
+        "end_mode": "scene_or_group_change"
+      },
+      {
+        "offset": 7368,
+        "end_code_before": null,
+        "start_frame": 5,
+        "line_count": 1,
+        "text": "Go ahead, do what you will.",
+        "lines": [
+          "Go ahead, do what you will."
+        ],
+        "full_text": "Go ahead, do what you will.",
+        "end_frame": null,
+        "duration_frames": null,
+        "end_mode": "scene_or_group_change"
+      },
+      {
+        "offset": 7404,
+        "end_code_before": null,
+        "start_frame": 5,
+        "line_count": 1,
+        "text": "I've been defeated.",
+        "lines": [
+          "I've been defeated."
+        ],
+        "full_text": "I've been defeated.",
+        "end_frame": null,
+        "duration_frames": null,
+        "end_mode": "scene_or_group_change"
+      },
+      {
+        "offset": 7432,
+        "end_code_before": null,
+        "start_frame": 5,
+        "line_count": 1,
+        "text": "I'm in pain...hurry...finish me off.",
+        "lines": [
+          "I'm in pain...hurry...finish me off."
+        ],
+        "full_text": "I'm in pain...hurry...finish me off.",
+        "end_frame": null,
+        "duration_frames": null,
+        "end_mode": "scene_or_group_change"
+      },
+      {
+        "offset": 7476,
+        "end_code_before": null,
+        "start_frame": 5,
+        "line_count": 1,
+        "text": "So it's come to this...kill me...",
+        "lines": [
+          "So it's come to this...kill me..."
+        ],
+        "full_text": "So it's come to this...kill me...",
+        "end_frame": null,
+        "duration_frames": null,
+        "end_mode": "scene_or_group_change"
+      },
+      {
+        "offset": 7516,
+        "end_code_before": null,
+        "start_frame": 5,
+        "line_count": 1,
+        "text": "Now...kill me!",
+        "lines": [
+          "Now...kill me!"
+        ],
+        "full_text": "Now...kill me!",
+        "end_frame": null,
+        "duration_frames": null,
+        "end_mode": "scene_or_group_change"
+      }
+    ]
+  },
+  "o20_relationship": {
+    "o20_size": 4202,
+    "o20_offset_in_o14": 62228,
+    "o14_trailing_bytes_after_o20": 2
+  },
+  "usa_engine": {
+    "event_selector": "0x8003C4D8",
+    "table_selector": "0x8003C578",
+    "subtitle_update_draw": "0x8003C5A8",
+    "line_draw_wrapper": "0x8003C868",
+    "section_relocator": "0x8003C920",
+    "ascii_text_renderer": "0x80036EF4",
+    "character_name_pointer_table": "0x80080F18",
+    "character_names": [
+      "#X#Y#FRED SHADOW",
+      "#X#Y#FTATSUMI",
+      "#X#Y#FMIKADO",
+      "#X#Y#FBLACK LOTUS",
+      "#X#Y#FUTSUSEMI",
+      "#X#Y#FKANNUKI"
+    ],
+    "subtitle_group_pointer_table": "0x80086458",
+    "static_event_pointer_table": "0x80086518",
+    "state_frame": "gp+0x420",
+    "state_descriptor": "gp+0x424",
+    "state_enable": "gp+0x428",
+    "calls": {
+      "event_selector": [
+        "0x800390B4",
+        "0x800444AC",
+        "0x80047DF0",
+        "0x8004D94C"
+      ],
+      "table_selector": [
+        "0x800386B8",
+        "0x8003C4F4",
+        "0x8003C50C",
+        "0x8003C528"
+      ],
+      "subtitle_update_draw": [
+        "0x80038DA4",
+        "0x8003989C",
+        "0x80045700",
+        "0x80064B00"
+      ],
+      "line_draw_wrapper": [
+        "0x8003C7A8"
+      ],
+      "section_relocator": [
+        "0x80038508",
+        "0x80039044",
+        "0x8003A868",
+        "0x8003A978"
+      ],
+      "ascii_text_renderer": [
+        "0x8003294C",
+        "0x80032BB4",
+        "0x800376AC",
+        "0x80037738",
+        "0x80037780",
+        "0x800377A8",
+        "0x80037898",
+        "0x800378DC",
+        "0x800378F8",
+        "0x800379C8",
+        "0x80037A20",
+        "0x80037A70",
+        "0x80037A94",
+        "0x80037AF0",
+        "0x80037B3C",
+        "0x80037B74",
+        "0x8003C890",
+        "0x8003C8CC",
+        "0x8003C8FC"
+      ]
+    }
+  }
+}

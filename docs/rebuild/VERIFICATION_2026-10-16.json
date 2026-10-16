@@ -1,0 +1,38 @@
+{
+  "date": "2026-10-16",
+  "status": "PASS",
+  "regions": {
+    "USA": {
+      "status": "PASS",
+      "region": "USA",
+      "sourceSHA256": "c5cba1e3e8bc68f15e32492907ac37add7f8e8d3e10ddb36742a729ce1a970bf",
+      "finalSHA256": "323c1a47604310b98a37f3711a16379bda7014272a325f28d4023078078141e5",
+      "finalBytes": 586647600,
+      "publicInputsVerified": 229,
+      "subtitleFontSHA256": "e6318eb5a64ecedf33a6028079cef4c2c811d302b164c2d446e68ff652edcbc5",
+      "originalUnchanged": true,
+      "runtimeVerification": "not performed",
+      "downloadedReleaseApplyPS1": "PASS",
+      "generatedCUE": "PASS"
+    },
+    "JP": {
+      "status": "PASS",
+      "region": "JP",
+      "sourceSHA256": "7d89b9254c5001ad7fc4f0c2fc3cda9600417d075292c34d3b60aa3b600dba96",
+      "finalSHA256": "17f137839c0bcc27782a70599b7b1b1bebc8596a01391e2bf8ba8187e8b50ead",
+      "finalBytes": 512841840,
+      "publicInputsVerified": 229,
+      "subtitleFontSHA256": "e6318eb5a64ecedf33a6028079cef4c2c811d302b164c2d446e68ff652edcbc5",
+      "originalUnchanged": true,
+      "runtimeVerification": "not performed",
+      "downloadedReleaseApplyPS1": "PASS",
+      "generatedCUE": "PASS"
+    }
+  },
+  "releaseZipSHA256": "34a3e2bba4f810dcb6b7ee56439f6fbf216f2cde9439b782acfdda9581c9e6a1",
+  "releaseZipCRC": "PASS",
+  "wrongRegionRejected": true,
+  "wrongFontRejected": true,
+  "existingOutputRejected": true,
+  "runtime": "not newly performed"
+}

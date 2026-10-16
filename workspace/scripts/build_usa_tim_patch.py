@@ -26,8 +26,8 @@ from build_subtitle_poc import patch_logical_sector
 from build_subtitle_v37 import make_raw_sector
 
 ROOT = Path(__file__).resolve().parents[2]
-SCAN = ROOT / "work" / "analysis" / "usa_tim_scan.json"
-PREVIEW = ROOT / "work" / "analysis" / "usa_tim_preview"
+SCAN = ROOT / "inputs" / "analysis" / "usa_tim_scan.json"
+PREVIEW = ROOT / "inputs" / "usa_ending"
 
 
 def clut_rgb(value: int) -> tuple[int, int, int]:

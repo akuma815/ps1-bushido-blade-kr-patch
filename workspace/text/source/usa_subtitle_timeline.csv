@@ -1,0 +1,382 @@
+﻿timeline_id,scope,canonical,duplicate_of,source_path,record_index,file_offset_hex,usa_group,start_frame,end_frame,duration_frames,end_mode,line_count,english_text,voice_subtitle_ids,korean_translation,mapping_status,notes
+usa/data3/o05/000,story_cutscene,yes,,DATA3/O05.DAT,0,0x7F80C,,1,,,scene_or_group_change,1,Kage massacred everyone in my hometown...,,카게가 내 고향 사람들을 모두 학살했다…,unmapped,
+usa/data3/o05/001,story_cutscene,yes,,DATA3/O05.DAT,1,0x7F83C,,270,450,180,zero_line_token,1,Don't mess with a Ryukyu warrior!,,류큐 무사를 얕보지 마라!,unmapped,
+usa/data3/o05/002,story_cutscene,yes,,DATA3/O05.DAT,2,0x7F864,,1,,,scene_or_group_change,1,I hear the weeping of departed souls...,,죽은 이들의 통곡이 들려…,unmapped,
+usa/data3/o05/003,story_cutscene,yes,,DATA3/O05.DAT,3,0x7F897,,165,345,180,zero_line_token,2,"I can't just leave them like that...
+Someone must stop it...",,"이대로 내버려 둘 순 없어…
+누군가 막아야 해…",unmapped,
+usa/data3/o05/004,story_cutscene,yes,,DATA3/O05.DAT,4,0x7F8DA,,1,,,scene_or_group_change,2,"Since ancient times, Bushido has had
+an absolute code of ""loyalty"".",,무사도에는 예로부터 ‘충의’라는 절대적인 도리가 있소.,unmapped,
+usa/data3/o05/005,story_cutscene,yes,,DATA3/O05.DAT,5,0x7F929,,180,,,scene_or_group_change,2,"But if your master deviates from that code,
+ what should you do?",,허나 주군이 도를 벗어났을 때는 어찌해야 하는가?,unmapped,
+usa/data3/o05/006,story_cutscene,yes,,DATA3/O05.DAT,6,0x7F970,,420,,,scene_or_group_change,1,"Is giving up ""loyalty"", also one way of Bushido?",,충의를 버리는 것 또한 무사도인가…,unmapped,
+usa/data3/o05/007,story_cutscene,yes,,DATA3/O05.DAT,7,0x7F9A7,,570,750,180,zero_line_token,1,Ready!,,"가겠소!",unmapped,
+usa/data3/o05/008,story_cutscene,yes,,DATA3/O05.DAT,8,0x7F9B4,,1,,,scene_or_group_change,2,"I can't believe Meikyokan is
+really a secret group of assassins!",,명경관이 정말 암살 조직이었다니!,unmapped,
+usa/data3/o05/009,story_cutscene,yes,,DATA3/O05.DAT,9,0x7FA00,,150,,,scene_or_group_change,2,"And now that I know their secret,
+they'll come after me.",,"게다가 비밀을 알아 버렸으니, 이젠 날 쫓아오겠지.",unmapped,
+usa/data3/o05/010,story_cutscene,yes,,DATA3/O05.DAT,10,0x7FA3F,,270,450,180,zero_line_token,1,What am I going to do!?,,어쩌면 좋지!?,unmapped,
+usa/data3/o05/011,story_cutscene,yes,,DATA3/O05.DAT,11,0x7FA5D,,1,,,scene_or_group_change,1,I know what Utsusemi will do.,,우츠세미 님이 무엇을 하실지는 알고 있어요.,unmapped,
+usa/data3/o05/012,story_cutscene,yes,,DATA3/O05.DAT,12,0x7FA86,,120,,,scene_or_group_change,2,"However, if he fights Utsusemi,
+at best they'll kill each other.",,"하지만 두 분이 싸우면, 잘해 봐야 둘 다 죽고 말 거예요.",unmapped,
+usa/data3/o05/013,story_cutscene,yes,,DATA3/O05.DAT,13,0x7FACD,,300,450,150,zero_line_token,1,I can't let that happen.,,그렇게 둘 순 없어요.,unmapped,
+usa/data3/o05/014,story_cutscene,yes,,DATA3/O05.DAT,14,0x7FAEC,,1,,,scene_or_group_change,1,"So it was for this venomous cursed blade, Yugiri...",,"그래, 모든 것은 이 독기 서린 요도 ‘유기리’ 때문이었군…",unmapped,
+usa/data3/o05/015,story_cutscene,yes,,DATA3/O05.DAT,15,0x7FB2B,,195,,,scene_or_group_change,2,"If I do nothing,
+it's as if I'm waiting for him to kill me.",,가만히 있어 봐야 놈이 날 죽이러 오기만 기다리는 꼴이지.,unmapped,
+usa/data3/o05/016,story_cutscene,yes,,DATA3/O05.DAT,16,0x7FB6D,,330,,,scene_or_group_change,1,Should I go after him...or not?,,내가 먼저 놈을 쫓아가야 하나… 어쩌나…?,unmapped,
+usa/data3/o14/000,story_cutscene,yes,,DATA3/O14.DAT,0,0xF548,,60,,,scene_or_group_change,1,"Yugiri, the cursed sword...",,요도 유기리…,unmapped,
+usa/data3/o14/001,story_cutscene,yes,,DATA3/O14.DAT,1,0xF572,,240,,,scene_or_group_change,1,So this is what freaked him out...huh?,,이게 그 영감을 미치게 한 물건이로군…?,unmapped,
+usa/data3/o14/002,story_cutscene,yes,,DATA3/O14.DAT,2,0xF59F,,360,,,scene_or_group_change,2,"Still alive? Hey!? Why did you order
+Black Lotus to massacre my people? Why!?",,아직 살아 있나? 어이! 왜 블랙 로터스에게 내 일족을 몰살하라고 명령했지? 왜냐고!?,unmapped,
+usa/data3/o14/003,story_cutscene,yes,,DATA3/O14.DAT,3,0xF5F3,,651,,,scene_or_group_change,1,"`I'll never tell...you...""",,말해 줄 수… 없다…,unmapped,
+usa/data3/o14/004,story_cutscene,yes,,DATA3/O14.DAT,4,0xF61C,,840,,,scene_or_group_change,1,Hey! Dojo Master!,,이봐! 사범대!,unmapped,
+usa/data3/o14/005,story_cutscene,yes,,DATA3/O14.DAT,5,0xF63C,,1020,,,scene_or_group_change,2,"Why!? Godammit!
+Why did this have to happen!?",,"왜냐고! 젠장!
+대체 왜 이렇게 된 거야!?",unmapped,
+usa/data3/o14/006,story_cutscene,yes,,DATA3/O14.DAT,6,0xF670,,1185,,,scene_or_group_change,1,"`Your sword's soul is not empty......""",,네 검의 혼은 비어 있지 않다…,unmapped,
+usa/data3/o14/007,story_cutscene,yes,,DATA3/O14.DAT,7,0xF69D,,1350,,,scene_or_group_change,2,"That's what Utsusemi said...
+I feel drained.",,우츠세미 영감이 했던 말이지… 기운이 쭉 빠지는군.,unmapped,
+usa/data3/o14/008,story_cutscene,yes,,DATA3/O14.DAT,8,0xF6D8,,1680,,,scene_or_group_change,2,"The sky...so blue.
+Just like back in Ryukyu...",,하늘이… 참 푸르군. 류큐의 하늘처럼…,unmapped,
+usa/data3/o14/009,story_cutscene,yes,,DATA3/O14.DAT,9,0xF70D,,1950,2055,105,zero_line_token,2,"The only thing missing are
+Ryukyu purple butterflies.",,류큐의 보랏빛 나비가 없는 것만 빼면 말이지.,unmapped,
+usa/data3/o14/010,story_cutscene,yes,,DATA3/O14.DAT,10,0xF749,,90,,,scene_or_group_change,1,"`Eyaaah...""",,이야아앗…,unmapped,
+usa/data3/o14/011,story_cutscene,yes,,DATA3/O14.DAT,11,0xF768,,210,,,scene_or_group_change,1,You OK?,,괜찮아?,unmapped,
+usa/data3/o14/012,story_cutscene,yes,,DATA3/O14.DAT,12,0xF77E,,330,,,scene_or_group_change,1,"`Yes, I...who are you?""",,"네, 저는… 그런데 누구세요?",unmapped,
+usa/data3/o14/013,story_cutscene,yes,,DATA3/O14.DAT,13,0xF79C,,420,,,scene_or_group_change,2,"Don't worry about me.
+`But...""",,"난 신경 쓰지 마.
+하지만…",unmapped,
+usa/data3/o14/014,story_cutscene,yes,,DATA3/O14.DAT,14,0xF7C1,,540,,,scene_or_group_change,1,We live in two totally different worlds.,,우리가 사는 세상은 너무 다르거든.,unmapped,
+usa/data3/o14/015,story_cutscene,yes,,DATA3/O14.DAT,15,0xF7F0,,660,,,scene_or_group_change,1,"`Wait, I....""",,"잠깐만요, 저는…",unmapped,
+usa/data3/o14/016,story_cutscene,yes,,DATA3/O14.DAT,16,0xF80C,,810,1200,390,zero_line_token,1,"Sayonara, baby...",,"잘 있어, 아가씨…",unmapped,
+usa/data3/o14/017,story_cutscene,yes,,DATA3/O14.DAT,17,0xF824,,108,,,scene_or_group_change,2,"Yugiri, the cursed sword...
+but it's not the sword's fault.",,요도 유기리… 하지만 검에게 죄는 없어.,unmapped,
+usa/data3/o14/018,story_cutscene,yes,,DATA3/O14.DAT,18,0xF873,,330,,,scene_or_group_change,1,"`So...you knew...all along...?""",,그럼… 처음부터… 알고 있었나…?,unmapped,
+usa/data3/o14/019,story_cutscene,yes,,DATA3/O14.DAT,19,0xF8A1,,930,,,scene_or_group_change,1,"Master Kannagisai, I was careless.",,"칸나기사이 님, 제 불찰입니다.",unmapped,
+usa/data3/o14/020,story_cutscene,yes,,DATA3/O14.DAT,20,0xF8CA,,1080,,,scene_or_group_change,1,I had no idea there was someone else behind him...,,그자의 뒤에 또 다른 자가 있었을 줄은 몰랐습니다…,unmapped,
+usa/data3/o14/021,story_cutscene,yes,,DATA3/O14.DAT,21,0xF903,,1179,,,scene_or_group_change,2,"But unless we do something about it,
+Tatara shrine will be destroyed.",,하지만 손을 쓰지 않으면 타타라 신사가 파괴되고 말 겁니다.,unmapped,
+usa/data3/o14/022,story_cutscene,yes,,DATA3/O14.DAT,22,0xF94F,,1320,,,scene_or_group_change,2,"I'll rebuild Kage, and take revenge
+on our enemies...I swear it!",,"반드시 카게를 재건하고, 우리의 원수에게 복수하겠습니다!",unmapped,
+usa/data3/o14/023,story_cutscene,yes,,DATA3/O14.DAT,23,0xF99E,,1650,2100,450,zero_line_token,2,"He was here just now...
+I'm sure I saw him!",,분명 방금까지 여기 있었어… 틀림없이 봤는데!,unmapped,
+usa/data3/o14/024,story_cutscene,yes,,DATA3/O14.DAT,24,0xF9D8,,330,,,scene_or_group_change,1,"`Mikado, are you leaving?""",,"미카도 님, 떠나시는 건가요?",unmapped,
+usa/data3/o14/025,story_cutscene,yes,,DATA3/O14.DAT,25,0xF9FE,,450,,,scene_or_group_change,1,"`But you're coming back, right?""",,하지만 돌아오실 거죠?,unmapped,
+usa/data3/o14/026,story_cutscene,yes,,DATA3/O14.DAT,26,0xFA2D,,690,,,scene_or_group_change,2,"Don't worry...
+It's not as if I'm going off to die...",,걱정 마… 죽으러 가는 건 아니니까…,unmapped,
+usa/data3/o14/027,story_cutscene,yes,,DATA3/O14.DAT,27,0xFA71,,990,1200,210,zero_line_token,1,My fate's not yet decided.,,내 운명은 아직 정해지지 않았어.,unmapped,
+usa/data3/o14/028,story_cutscene,yes,,DATA3/O14.DAT,28,0xFA92,,120,,,scene_or_group_change,1,It's over...,,모두 끝났군…,unmapped,
+usa/data3/o14/029,story_cutscene,yes,,DATA3/O14.DAT,29,0xFAB2,,195,,,scene_or_group_change,1,Kage...my Bushido...everything.,,카게도… 나의 무사도도… 전부.,unmapped,
+usa/data3/o14/030,story_cutscene,yes,,DATA3/O14.DAT,30,0xFAE0,,630,,,scene_or_group_change,2,"I, Black Lotus, have lived the Samurai code
+for 10 years.",,"이 블랙 로터스, 십 년 동안 무사의 도리를 지키며 살아왔소.",unmapped,
+usa/data3/o14/031,story_cutscene,yes,,DATA3/O14.DAT,31,0xFB20,,810,,,scene_or_group_change,2,"I never expected things to end this way.
+But, this is my fate.",,이런 결말을 맞을 줄은 몰랐지만… 이것 또한 나의 운명이오.,unmapped,
+usa/data3/o14/032,story_cutscene,yes,,DATA3/O14.DAT,32,0xFB65,,1050,1200,150,zero_line_token,2,"I lived for Bushido...and now...
+I'll die for it!",,무사도를 위해 살아왔으니… 이제 무사도를 위해 죽겠소!,unmapped,
+usa/data3/o14/033,story_cutscene,yes,,DATA3/O14.DAT,33,0xFBA5,,150,,,scene_or_group_change,1,What a waste...killing yourself like that.,,그렇게 스스로 목숨을 끊다니… 어리석은 사람.,unmapped,
+usa/data3/o14/034,story_cutscene,yes,,DATA3/O14.DAT,34,0xFBDB,,330,,,scene_or_group_change,1,Always posing even till the end.,,마지막까지 폼만 잡는군.,unmapped,
+usa/data3/o14/035,story_cutscene,yes,,DATA3/O14.DAT,35,0xFC0A,,570,,,scene_or_group_change,1,And I was a fool for waiting for you so long.,,그런 당신을 이렇게 오래 기다린 나도 바보였어.,unmapped,
+usa/data3/o14/036,story_cutscene,yes,,DATA3/O14.DAT,36,0xFC46,,840,1500,660,zero_line_token,1,"I loved you, James...",,"사랑했어요, 제임스…",unmapped,
+usa/data3/o14/037,story_cutscene,yes,,DATA3/O14.DAT,37,0xFC6A,,15,,,scene_or_group_change,2,"I won...
+I even beat the Dojo Master...",,이겼어… 사범대까지 쓰러뜨렸어…,unmapped,
+usa/data3/o14/038,story_cutscene,yes,,DATA3/O14.DAT,38,0xFC9D,,180,,,scene_or_group_change,2,"I'm so much stronger now, it feels like years
+have passed since my first kill.",,"처음 사람을 벤 때로부터 몇 년이나 흐른 것처럼, 지금은 훨씬 강해졌어.",unmapped,
+usa/data3/o14/039,story_cutscene,yes,,DATA3/O14.DAT,39,0xFCFA,,480,,,scene_or_group_change,1,Swordsmanship isn't brute force...,,검술은 힘으로 밀어붙이는 게 아니야…,unmapped,
+usa/data3/o14/040,story_cutscene,yes,,DATA3/O14.DAT,40,0xFD23,,600,,,scene_or_group_change,1,It's timing.,,중요한 건 타이밍이지.,unmapped,
+usa/data3/o14/041,story_cutscene,yes,,DATA3/O14.DAT,41,0xFD3E,,810,,,scene_or_group_change,2,"I think I'm finally beginning to understand
+what I've been taught so many times.",,수없이 배웠던 가르침을 이제야 조금 알 것 같아.,unmapped,
+usa/data3/o14/042,story_cutscene,yes,,DATA3/O14.DAT,42,0xFD9D,,1260,,,scene_or_group_change,1,I'm strong...and getting stronger...,,난 강해… 지금도 더 강해지고 있어…,unmapped,
+usa/data3/o14/043,story_cutscene,yes,,DATA3/O14.DAT,43,0xFDD0,,1530,,,scene_or_group_change,2,"Sorry...
+At first, I was only trying to stay alive.",,미안해… 처음엔 그저 살아남으려 했을 뿐이었어.,unmapped,
+usa/data3/o14/044,story_cutscene,yes,,DATA3/O14.DAT,44,0xFE0A,,1710,1860,150,zero_line_token,2,"But now, because of you,
+I know how addictive murder is.",,하지만 네 덕분에 사람을 베는 쾌락을 알아 버렸어.,unmapped,
+usa/data3/o14/045,story_cutscene,yes,,DATA3/O14.DAT,45,0xFE49,,0,,,scene_or_group_change,1,One year later...,,1년 후…,unmapped,
+usa/data3/o14/046,story_cutscene,yes,,DATA3/O14.DAT,46,0xFE6E,,125,,,scene_or_group_change,1,"`Get out!""",,나가!,unmapped,
+usa/data3/o14/047,story_cutscene,yes,,DATA3/O14.DAT,47,0xFE87,,255,,,scene_or_group_change,2,"`I don't have time for any of
+your childish jokes, boy!""",,애송이 장난에 어울릴 시간은 없다!,unmapped,
+usa/data3/o14/048,story_cutscene,yes,,DATA3/O14.DAT,48,0xFECE,,510,,,scene_or_group_change,2,"This isn't a joke...
+it's about getting stronger...that's all.",,장난이 아냐… 더 강해지려는 것뿐이야.,unmapped,
+usa/data3/o14/049,story_cutscene,yes,,DATA3/O14.DAT,49,0xFF1B,,810,900,90,zero_line_token,1,Don't take it personal.,,개인적인 원한은 없어.,unmapped,
+usa/data3/o14/050,story_cutscene,yes,,DATA3/O14.DAT,50,0xFF39,,45,,,scene_or_group_change,2,"`Certainly even a killing machine
+like you...must have had doubts?""",,아무리 너 같은 살인귀라도… 의문을 품은 적쯤은 있겠지?,unmapped,
+usa/data3/o14/051,story_cutscene,yes,,DATA3/O14.DAT,51,0xFF88,,390,,,scene_or_group_change,1,"`I under...estimated...you.""",,내가… 널 얕봤군…,unmapped,
+usa/data3/o14/052,story_cutscene,yes,,DATA3/O14.DAT,52,0xFFB3,,540,,,scene_or_group_change,1,...Killing machine...,,…살인귀라…,unmapped,
+usa/data3/o14/053,story_cutscene,yes,,DATA3/O14.DAT,53,0xFFCF,,630,,,scene_or_group_change,2,"Now with Kage gone,
+there's no need for someone like me.",,"이제 카게는 사라졌으니, 나 같은 사람은 필요 없어.",unmapped,
+usa/data3/o14/054,story_cutscene,yes,,DATA3/O14.DAT,54,0x10016,,1080,,,scene_or_group_change,1,Utsusemi...I did what you wanted.,,"우츠세미 님, 이걸로 잘된 거죠?",unmapped,
+usa/data3/o14/055,story_cutscene,yes,,DATA3/O14.DAT,55,0x10046,,1350,,,scene_or_group_change,1,Now I have nowhere to go...,,이제 돌아갈 곳도 없어…,unmapped,
+usa/data3/o14/056,story_cutscene,yes,,DATA3/O14.DAT,56,0x10070,,1620,1920,300,zero_line_token,1,I'm alone again.,,또다시 혼자가 됐어.,unmapped,
+usa/data3/o14/057,story_cutscene,yes,,DATA3/O14.DAT,57,0x1008F,,555,,,scene_or_group_change,2,"No matter how difficult the way may be...
+",,아무리 험난한 길이라 해도…,unmapped,
+usa/data3/o14/058,story_cutscene,yes,,DATA3/O14.DAT,58,0x100CC,,840,1080,240,zero_line_token,1,This is the only way I know.,,내가 아는 길은 이것뿐이야.,unmapped,
+usa/data3/o14/059,story_cutscene,yes,,DATA3/O14.DAT,59,0x100EF,,15,,,scene_or_group_change,2,"Yugiri, the cursed sword...
+Hanzaki, is this what made you go crazy?",,"요도 유기리… 한자키, 이 검 때문에 미쳐 버린 게냐?",unmapped,
+usa/data3/o14/060,story_cutscene,yes,,DATA3/O14.DAT,60,0x1013F,,330,,,scene_or_group_change,1,It's...all over now...,,이제… 모두 끝났구나…,unmapped,
+usa/data3/o14/061,story_cutscene,yes,,DATA3/O14.DAT,61,0x10164,,495,,,scene_or_group_change,1,"`It's not over...""",,아직… 끝나지 않았다…,unmapped,
+usa/data3/o14/062,story_cutscene,yes,,DATA3/O14.DAT,62,0x10185,,630,,,scene_or_group_change,1,So you're still alive?,,아직 살아 있었나?,unmapped,
+usa/data3/o14/063,story_cutscene,yes,,DATA3/O14.DAT,63,0x101AA,,750,,,scene_or_group_change,2,"`Kage...and Meikyokan have survived
+for 500 years...""",,카게와 명경관은… 오백 년을 이어 왔다…,unmapped,
+usa/data3/o14/064,story_cutscene,yes,,DATA3/O14.DAT,64,0x101E6,,1050,,,scene_or_group_change,1,"`Nothing...can end so eas...i...ly...""",,이렇게 쉽게… 끝날 리… 없… 다…,unmapped,
+usa/data3/o14/065,story_cutscene,yes,,DATA3/O14.DAT,65,0x1021B,,1350,,,scene_or_group_change,1,What do you mean?,,무슨 뜻이냐?,unmapped,
+usa/data3/o14/066,story_cutscene,yes,,DATA3/O14.DAT,66,0x1023B,,1455,,,scene_or_group_change,1,Dead...,,죽었군…,unmapped,
+usa/data3/o14/067,story_cutscene,yes,,DATA3/O14.DAT,67,0x10249,,1560,,,scene_or_group_change,2,"Kage existed...for 500 years...?
+If that's true...",,카게가 오백 년이나 이어져 왔다고…? 그렇다면…,unmapped,
+usa/data3/o14/068,story_cutscene,yes,,DATA3/O14.DAT,68,0x10282,,1800,1950,150,zero_line_token,1,then the real enemy is still out there.,,진정한 적은 아직 남아 있다는 뜻이군.,unmapped,
+usa/data3/o14/069,story_cutscene,yes,,DATA3/O14.DAT,69,0x102B0,,270,,,scene_or_group_change,1,Ahhh...,,으아아…,unmapped,
+usa/data3/o14/070,story_cutscene,yes,,DATA3/O14.DAT,70,0x102C3,,360,,,scene_or_group_change,2,"Heh, he's improved.
+Still seems a little too hot-headed though.",,"후후, 제법 늘었군. 아직 조금 혈기가 앞서는 듯하지만.",unmapped,
+usa/data3/o14/071,story_cutscene,yes,,DATA3/O14.DAT,71,0x10309,,645,,,scene_or_group_change,2,"Rushing his techniques like that
+is a sign of his youth...",,저렇게 기술을 서두르는 건 젊다는 증거지…,unmapped,
+usa/data3/o14/072,story_cutscene,yes,,DATA3/O14.DAT,72,0x10352,,1110,,,scene_or_group_change,1,Just like his old man...,,제 아비를 꼭 닮았구나…,unmapped,
+usa/data3/o20/000,story_cutscene,no,DATA3/O14.DAT,DATA3/O20.DAT,0,0x234,,60,,,scene_or_group_change,1,"Yugiri, the cursed sword...",,요도 유기리…,unmapped,
+usa/data3/o20/001,story_cutscene,no,DATA3/O14.DAT,DATA3/O20.DAT,1,0x25E,,240,,,scene_or_group_change,1,So this is what freaked him out...huh?,,이게 그 영감을 미치게 한 물건이로군…?,unmapped,
+usa/data3/o20/002,story_cutscene,no,DATA3/O14.DAT,DATA3/O20.DAT,2,0x28B,,360,,,scene_or_group_change,2,"Still alive? Hey!? Why did you order
+Black Lotus to massacre my people? Why!?",,아직 살아 있나? 어이! 왜 블랙 로터스에게 내 일족을 몰살하라고 명령했지? 왜냐고!?,unmapped,
+usa/data3/o20/003,story_cutscene,no,DATA3/O14.DAT,DATA3/O20.DAT,3,0x2DF,,651,,,scene_or_group_change,1,"`I'll never tell...you...""",,말해 줄 수… 없다…,unmapped,
+usa/data3/o20/004,story_cutscene,no,DATA3/O14.DAT,DATA3/O20.DAT,4,0x308,,840,,,scene_or_group_change,1,Hey! Dojo Master!,,이봐! 사범대!,unmapped,
+usa/data3/o20/005,story_cutscene,no,DATA3/O14.DAT,DATA3/O20.DAT,5,0x328,,1020,,,scene_or_group_change,2,"Why!? Godammit!
+Why did this have to happen!?",,"왜냐고! 젠장!
+대체 왜 이렇게 된 거야!?",unmapped,
+usa/data3/o20/006,story_cutscene,no,DATA3/O14.DAT,DATA3/O20.DAT,6,0x35C,,1185,,,scene_or_group_change,1,"`Your sword's soul is not empty......""",,네 검의 혼은 비어 있지 않다…,unmapped,
+usa/data3/o20/007,story_cutscene,no,DATA3/O14.DAT,DATA3/O20.DAT,7,0x389,,1350,,,scene_or_group_change,2,"That's what Utsusemi said...
+I feel drained.",,우츠세미 영감이 했던 말이지… 기운이 쭉 빠지는군.,unmapped,
+usa/data3/o20/008,story_cutscene,no,DATA3/O14.DAT,DATA3/O20.DAT,8,0x3C4,,1680,,,scene_or_group_change,2,"The sky...so blue.
+Just like back in Ryukyu...",,하늘이… 참 푸르군. 류큐의 하늘처럼…,unmapped,
+usa/data3/o20/009,story_cutscene,no,DATA3/O14.DAT,DATA3/O20.DAT,9,0x3F9,,1950,2055,105,zero_line_token,2,"The only thing missing are
+Ryukyu purple butterflies.",,류큐의 보랏빛 나비가 없는 것만 빼면 말이지.,unmapped,
+usa/data3/o20/010,story_cutscene,no,DATA3/O14.DAT,DATA3/O20.DAT,10,0x435,,90,,,scene_or_group_change,1,"`Eyaaah...""",,이야아앗…,unmapped,
+usa/data3/o20/011,story_cutscene,no,DATA3/O14.DAT,DATA3/O20.DAT,11,0x454,,210,,,scene_or_group_change,1,You OK?,,괜찮아?,unmapped,
+usa/data3/o20/012,story_cutscene,no,DATA3/O14.DAT,DATA3/O20.DAT,12,0x46A,,330,,,scene_or_group_change,1,"`Yes, I...who are you?""",,"네, 저는… 그런데 누구세요?",unmapped,
+usa/data3/o20/013,story_cutscene,no,DATA3/O14.DAT,DATA3/O20.DAT,13,0x488,,420,,,scene_or_group_change,2,"Don't worry about me.
+`But...""",,"난 신경 쓰지 마.
+하지만…",unmapped,
+usa/data3/o20/014,story_cutscene,no,DATA3/O14.DAT,DATA3/O20.DAT,14,0x4AD,,540,,,scene_or_group_change,1,We live in two totally different worlds.,,우리가 사는 세상은 너무 다르거든.,unmapped,
+usa/data3/o20/015,story_cutscene,no,DATA3/O14.DAT,DATA3/O20.DAT,15,0x4DC,,660,,,scene_or_group_change,1,"`Wait, I....""",,"잠깐만요, 저는…",unmapped,
+usa/data3/o20/016,story_cutscene,no,DATA3/O14.DAT,DATA3/O20.DAT,16,0x4F8,,810,1200,390,zero_line_token,1,"Sayonara, baby...",,"잘 있어, 아가씨…",unmapped,
+usa/data3/o20/017,story_cutscene,no,DATA3/O14.DAT,DATA3/O20.DAT,17,0x510,,108,,,scene_or_group_change,2,"Yugiri, the cursed sword...
+but it's not the sword's fault.",,요도 유기리… 하지만 검에게 죄는 없어.,unmapped,
+usa/data3/o20/018,story_cutscene,no,DATA3/O14.DAT,DATA3/O20.DAT,18,0x55F,,330,,,scene_or_group_change,1,"`So...you knew...all along...?""",,그럼… 처음부터… 알고 있었나…?,unmapped,
+usa/data3/o20/019,story_cutscene,no,DATA3/O14.DAT,DATA3/O20.DAT,19,0x58D,,930,,,scene_or_group_change,1,"Master Kannagisai, I was careless.",,"칸나기사이 님, 제 불찰입니다.",unmapped,
+usa/data3/o20/020,story_cutscene,no,DATA3/O14.DAT,DATA3/O20.DAT,20,0x5B6,,1080,,,scene_or_group_change,1,I had no idea there was someone else behind him...,,그자의 뒤에 또 다른 자가 있었을 줄은 몰랐습니다…,unmapped,
+usa/data3/o20/021,story_cutscene,no,DATA3/O14.DAT,DATA3/O20.DAT,21,0x5EF,,1179,,,scene_or_group_change,2,"But unless we do something about it,
+Tatara shrine will be destroyed.",,하지만 손을 쓰지 않으면 타타라 신사가 파괴되고 말 겁니다.,unmapped,
+usa/data3/o20/022,story_cutscene,no,DATA3/O14.DAT,DATA3/O20.DAT,22,0x63B,,1320,,,scene_or_group_change,2,"I'll rebuild Kage, and take revenge
+on our enemies...I swear it!",,"반드시 카게를 재건하고, 우리의 원수에게 복수하겠습니다!",unmapped,
+usa/data3/o20/023,story_cutscene,no,DATA3/O14.DAT,DATA3/O20.DAT,23,0x68A,,1650,2100,450,zero_line_token,2,"He was here just now...
+I'm sure I saw him!",,분명 방금까지 여기 있었어… 틀림없이 봤는데!,unmapped,
+usa/data3/o20/024,story_cutscene,no,DATA3/O14.DAT,DATA3/O20.DAT,24,0x6C4,,330,,,scene_or_group_change,1,"`Mikado, are you leaving?""",,"미카도 님, 떠나시는 건가요?",unmapped,
+usa/data3/o20/025,story_cutscene,no,DATA3/O14.DAT,DATA3/O20.DAT,25,0x6EA,,450,,,scene_or_group_change,1,"`But you're coming back, right?""",,하지만 돌아오실 거죠?,unmapped,
+usa/data3/o20/026,story_cutscene,no,DATA3/O14.DAT,DATA3/O20.DAT,26,0x719,,690,,,scene_or_group_change,2,"Don't worry...
+It's not as if I'm going off to die...",,걱정 마… 죽으러 가는 건 아니니까…,unmapped,
+usa/data3/o20/027,story_cutscene,no,DATA3/O14.DAT,DATA3/O20.DAT,27,0x75D,,990,1200,210,zero_line_token,1,My fate's not yet decided.,,내 운명은 아직 정해지지 않았어.,unmapped,
+usa/data3/o20/028,story_cutscene,no,DATA3/O14.DAT,DATA3/O20.DAT,28,0x77E,,120,,,scene_or_group_change,1,It's over...,,모두 끝났군…,unmapped,
+usa/data3/o20/029,story_cutscene,no,DATA3/O14.DAT,DATA3/O20.DAT,29,0x79E,,195,,,scene_or_group_change,1,Kage...my Bushido...everything.,,카게도… 나의 무사도도… 전부.,unmapped,
+usa/data3/o20/030,story_cutscene,no,DATA3/O14.DAT,DATA3/O20.DAT,30,0x7CC,,630,,,scene_or_group_change,2,"I, Black Lotus, have lived the Samurai code
+for 10 years.",,"이 블랙 로터스, 십 년 동안 무사의 도리를 지키며 살아왔소.",unmapped,
+usa/data3/o20/031,story_cutscene,no,DATA3/O14.DAT,DATA3/O20.DAT,31,0x80C,,810,,,scene_or_group_change,2,"I never expected things to end this way.
+But, this is my fate.",,이런 결말을 맞을 줄은 몰랐지만… 이것 또한 나의 운명이오.,unmapped,
+usa/data3/o20/032,story_cutscene,no,DATA3/O14.DAT,DATA3/O20.DAT,32,0x851,,1050,1200,150,zero_line_token,2,"I lived for Bushido...and now...
+I'll die for it!",,무사도를 위해 살아왔으니… 이제 무사도를 위해 죽겠소!,unmapped,
+usa/data3/o20/033,story_cutscene,no,DATA3/O14.DAT,DATA3/O20.DAT,33,0x891,,150,,,scene_or_group_change,1,What a waste...killing yourself like that.,,그렇게 스스로 목숨을 끊다니… 어리석은 사람.,unmapped,
+usa/data3/o20/034,story_cutscene,no,DATA3/O14.DAT,DATA3/O20.DAT,34,0x8C7,,330,,,scene_or_group_change,1,Always posing even till the end.,,마지막까지 폼만 잡는군.,unmapped,
+usa/data3/o20/035,story_cutscene,no,DATA3/O14.DAT,DATA3/O20.DAT,35,0x8F6,,570,,,scene_or_group_change,1,And I was a fool for waiting for you so long.,,그런 당신을 이렇게 오래 기다린 나도 바보였어.,unmapped,
+usa/data3/o20/036,story_cutscene,no,DATA3/O14.DAT,DATA3/O20.DAT,36,0x932,,840,1500,660,zero_line_token,1,"I loved you, James...",,"사랑했어요, 제임스…",unmapped,
+usa/data3/o20/037,story_cutscene,no,DATA3/O14.DAT,DATA3/O20.DAT,37,0x956,,15,,,scene_or_group_change,2,"I won...
+I even beat the Dojo Master...",,이겼어… 사범대까지 쓰러뜨렸어…,unmapped,
+usa/data3/o20/038,story_cutscene,no,DATA3/O14.DAT,DATA3/O20.DAT,38,0x989,,180,,,scene_or_group_change,2,"I'm so much stronger now, it feels like years
+have passed since my first kill.",,"처음 사람을 벤 때로부터 몇 년이나 흐른 것처럼, 지금은 훨씬 강해졌어.",unmapped,
+usa/data3/o20/039,story_cutscene,no,DATA3/O14.DAT,DATA3/O20.DAT,39,0x9E6,,480,,,scene_or_group_change,1,Swordsmanship isn't brute force...,,검술은 힘으로 밀어붙이는 게 아니야…,unmapped,
+usa/data3/o20/040,story_cutscene,no,DATA3/O14.DAT,DATA3/O20.DAT,40,0xA0F,,600,,,scene_or_group_change,1,It's timing.,,중요한 건 타이밍이지.,unmapped,
+usa/data3/o20/041,story_cutscene,no,DATA3/O14.DAT,DATA3/O20.DAT,41,0xA2A,,810,,,scene_or_group_change,2,"I think I'm finally beginning to understand
+what I've been taught so many times.",,수없이 배웠던 가르침을 이제야 조금 알 것 같아.,unmapped,
+usa/data3/o20/042,story_cutscene,no,DATA3/O14.DAT,DATA3/O20.DAT,42,0xA89,,1260,,,scene_or_group_change,1,I'm strong...and getting stronger...,,난 강해… 지금도 더 강해지고 있어…,unmapped,
+usa/data3/o20/043,story_cutscene,no,DATA3/O14.DAT,DATA3/O20.DAT,43,0xABC,,1530,,,scene_or_group_change,2,"Sorry...
+At first, I was only trying to stay alive.",,미안해… 처음엔 그저 살아남으려 했을 뿐이었어.,unmapped,
+usa/data3/o20/044,story_cutscene,no,DATA3/O14.DAT,DATA3/O20.DAT,44,0xAF6,,1710,1860,150,zero_line_token,2,"But now, because of you,
+I know how addictive murder is.",,하지만 네 덕분에 사람을 베는 쾌락을 알아 버렸어.,unmapped,
+usa/data3/o20/045,story_cutscene,no,DATA3/O14.DAT,DATA3/O20.DAT,45,0xB35,,0,,,scene_or_group_change,1,One year later...,,1년 후…,unmapped,
+usa/data3/o20/046,story_cutscene,no,DATA3/O14.DAT,DATA3/O20.DAT,46,0xB5A,,125,,,scene_or_group_change,1,"`Get out!""",,나가!,unmapped,
+usa/data3/o20/047,story_cutscene,no,DATA3/O14.DAT,DATA3/O20.DAT,47,0xB73,,255,,,scene_or_group_change,2,"`I don't have time for any of
+your childish jokes, boy!""",,애송이 장난에 어울릴 시간은 없다!,unmapped,
+usa/data3/o20/048,story_cutscene,no,DATA3/O14.DAT,DATA3/O20.DAT,48,0xBBA,,510,,,scene_or_group_change,2,"This isn't a joke...
+it's about getting stronger...that's all.",,장난이 아냐… 더 강해지려는 것뿐이야.,unmapped,
+usa/data3/o20/049,story_cutscene,no,DATA3/O14.DAT,DATA3/O20.DAT,49,0xC07,,810,900,90,zero_line_token,1,Don't take it personal.,,개인적인 원한은 없어.,unmapped,
+usa/data3/o20/050,story_cutscene,no,DATA3/O14.DAT,DATA3/O20.DAT,50,0xC25,,45,,,scene_or_group_change,2,"`Certainly even a killing machine
+like you...must have had doubts?""",,아무리 너 같은 살인귀라도… 의문을 품은 적쯤은 있겠지?,unmapped,
+usa/data3/o20/051,story_cutscene,no,DATA3/O14.DAT,DATA3/O20.DAT,51,0xC74,,390,,,scene_or_group_change,1,"`I under...estimated...you.""",,내가… 널 얕봤군…,unmapped,
+usa/data3/o20/052,story_cutscene,no,DATA3/O14.DAT,DATA3/O20.DAT,52,0xC9F,,540,,,scene_or_group_change,1,...Killing machine...,,…살인귀라…,unmapped,
+usa/data3/o20/053,story_cutscene,no,DATA3/O14.DAT,DATA3/O20.DAT,53,0xCBB,,630,,,scene_or_group_change,2,"Now with Kage gone,
+there's no need for someone like me.",,"이제 카게는 사라졌으니, 나 같은 사람은 필요 없어.",unmapped,
+usa/data3/o20/054,story_cutscene,no,DATA3/O14.DAT,DATA3/O20.DAT,54,0xD02,,1080,,,scene_or_group_change,1,Utsusemi...I did what you wanted.,,"우츠세미 님, 이걸로 잘된 거죠?",unmapped,
+usa/data3/o20/055,story_cutscene,no,DATA3/O14.DAT,DATA3/O20.DAT,55,0xD32,,1350,,,scene_or_group_change,1,Now I have nowhere to go...,,이제 돌아갈 곳도 없어…,unmapped,
+usa/data3/o20/056,story_cutscene,no,DATA3/O14.DAT,DATA3/O20.DAT,56,0xD5C,,1620,1920,300,zero_line_token,1,I'm alone again.,,또다시 혼자가 됐어.,unmapped,
+usa/data3/o20/057,story_cutscene,no,DATA3/O14.DAT,DATA3/O20.DAT,57,0xD7B,,555,,,scene_or_group_change,2,"No matter how difficult the way may be...
+",,아무리 험난한 길이라 해도…,unmapped,
+usa/data3/o20/058,story_cutscene,no,DATA3/O14.DAT,DATA3/O20.DAT,58,0xDB8,,840,1080,240,zero_line_token,1,This is the only way I know.,,내가 아는 길은 이것뿐이야.,unmapped,
+usa/data3/o20/059,story_cutscene,no,DATA3/O14.DAT,DATA3/O20.DAT,59,0xDDB,,15,,,scene_or_group_change,2,"Yugiri, the cursed sword...
+Hanzaki, is this what made you go crazy?",,"요도 유기리… 한자키, 이 검 때문에 미쳐 버린 게냐?",unmapped,
+usa/data3/o20/060,story_cutscene,no,DATA3/O14.DAT,DATA3/O20.DAT,60,0xE2B,,330,,,scene_or_group_change,1,It's...all over now...,,이제… 모두 끝났구나…,unmapped,
+usa/data3/o20/061,story_cutscene,no,DATA3/O14.DAT,DATA3/O20.DAT,61,0xE50,,495,,,scene_or_group_change,1,"`It's not over...""",,아직… 끝나지 않았다…,unmapped,
+usa/data3/o20/062,story_cutscene,no,DATA3/O14.DAT,DATA3/O20.DAT,62,0xE71,,630,,,scene_or_group_change,1,So you're still alive?,,아직 살아 있었나?,unmapped,
+usa/data3/o20/063,story_cutscene,no,DATA3/O14.DAT,DATA3/O20.DAT,63,0xE96,,750,,,scene_or_group_change,2,"`Kage...and Meikyokan have survived
+for 500 years...""",,카게와 명경관은… 오백 년을 이어 왔다…,unmapped,
+usa/data3/o20/064,story_cutscene,no,DATA3/O14.DAT,DATA3/O20.DAT,64,0xED2,,1050,,,scene_or_group_change,1,"`Nothing...can end so eas...i...ly...""",,이렇게 쉽게… 끝날 리… 없… 다…,unmapped,
+usa/data3/o20/065,story_cutscene,no,DATA3/O14.DAT,DATA3/O20.DAT,65,0xF07,,1350,,,scene_or_group_change,1,What do you mean?,,무슨 뜻이냐?,unmapped,
+usa/data3/o20/066,story_cutscene,no,DATA3/O14.DAT,DATA3/O20.DAT,66,0xF27,,1455,,,scene_or_group_change,1,Dead...,,죽었군…,unmapped,
+usa/data3/o20/067,story_cutscene,no,DATA3/O14.DAT,DATA3/O20.DAT,67,0xF35,,1560,,,scene_or_group_change,2,"Kage existed...for 500 years...?
+If that's true...",,카게가 오백 년이나 이어져 왔다고…? 그렇다면…,unmapped,
+usa/data3/o20/068,story_cutscene,no,DATA3/O14.DAT,DATA3/O20.DAT,68,0xF6E,,1800,1950,150,zero_line_token,1,then the real enemy is still out there.,,진정한 적은 아직 남아 있다는 뜻이군.,unmapped,
+usa/data3/o20/069,story_cutscene,no,DATA3/O14.DAT,DATA3/O20.DAT,69,0xF9C,,270,,,scene_or_group_change,1,Ahhh...,,으아아…,unmapped,
+usa/data3/o20/070,story_cutscene,no,DATA3/O14.DAT,DATA3/O20.DAT,70,0xFAF,,360,,,scene_or_group_change,2,"Heh, he's improved.
+Still seems a little too hot-headed though.",,"후후, 제법 늘었군. 아직 조금 혈기가 앞서는 듯하지만.",unmapped,
+usa/data3/o20/071,story_cutscene,no,DATA3/O14.DAT,DATA3/O20.DAT,71,0xFF5,,645,,,scene_or_group_change,2,"Rushing his techniques like that
+is a sign of his youth...",,저렇게 기술을 서두르는 건 젊다는 증거지…,unmapped,
+usa/data3/o20/072,story_cutscene,no,DATA3/O14.DAT,DATA3/O20.DAT,72,0x103E,,1110,,,scene_or_group_change,1,Just like his old man...,,제 아비를 꼭 닮았구나…,unmapped,
+usa/data7/v00/000,story_battle,yes,,DATA7/V00.DAT,0,0x35F40,,30,180,150,zero_line_token,1,"Nothing personal, babushka.",,"악감정은 없어, 아줌마.",unmapped,
+usa/data7/v00/001,story_battle,yes,,DATA7/V00.DAT,1,0x35F62,,84,180,96,zero_line_token,1,Why would Kannuki want to kill me...?,,왜 칸누키가 나를 베려 하는 거지?,unmapped,
+usa/data7/v00/002,story_battle,yes,,DATA7/V00.DAT,2,0x35F93,,60,180,120,zero_line_token,1,I don't want to kill women.,,여인은 베고 싶지 않다.,unmapped,
+usa/data7/v00/003,story_battle,yes,,DATA7/V00.DAT,3,0x35FBA,3,60,180,120,zero_line_token,2,"For the first time in my life,
+I've taken a life.",voice/se4/tat3win/02/p00/t00/v01|voice/se4/tat3win/02/p00/t01/v02,"처음으로…
+사람을 베었어…",runtime_confirmed,"v15 runtime pass: V00 group 3, frames 60-179; the USA two-line record combines two Japanese voice entries."
+usa/data7/v00/004,story_battle,yes,,DATA7/V00.DAT,4,0x35FF7,,30,,,scene_or_group_change,1,Mikado...,,미카도!,unmapped,
+usa/data7/v00/005,story_battle,yes,,DATA7/V00.DAT,5,0x3600C,,120,180,60,zero_line_token,1,I'm sorry...,,미안해요…,unmapped,
+usa/data7/v00/006,story_battle,yes,,DATA7/V00.DAT,6,0x3601F,,50,,,scene_or_group_change,2,"You are not even in Kage,
+why were you after me?",,카게의 일원도 아닌 네가 어째서 쫓아온 게냐?,unmapped,
+usa/data7/v01/000,story_battle,yes,,DATA7/V01.DAT,0,0x3129C,,80,180,100,zero_line_token,1,"Looks like you got a little too old, Pops.",,"영감, 아무래도 나이를 너무 먹은 모양이군.",unmapped,
+usa/data7/v01/001,story_battle,yes,,DATA7/V01.DAT,1,0x312CD,,40,180,140,zero_line_token,1,Is the Dojo Master controlling everyone?,,모두 사범대에게 조종당하고 있어.,unmapped,
+usa/data7/v01/002,story_battle,yes,,DATA7/V01.DAT,2,0x31301,,30,180,150,zero_line_token,1,Why did you try to kill me?,,어찌하여 소생을 베러 온 것이오?,unmapped,
+usa/data7/v01/003,story_battle,yes,,DATA7/V01.DAT,3,0x31328,,50,180,130,zero_line_token,1,I never thought I would ever have to kill you.,,"미카도 씨를…
+베게 되다니…",unmapped,
+usa/data7/v01/004,story_battle,yes,,DATA7/V01.DAT,4,0x31362,,30,180,150,zero_line_token,1,I must see how far I can make it...,,내 기술이 어디까지 통할지…,unmapped,
+usa/data7/v01/005,story_battle,yes,,DATA7/V01.DAT,5,0x31391,,50,,,scene_or_group_change,2,"Still so young...
+don't throw your life away for nothing.",,아직 젊은데 목숨을 헛되이 버리지 마라.,unmapped,
+usa/data7/v02/000,story_battle,yes,,DATA7/V02.DAT,0,0x48158,,11,,,scene_or_group_change,2,"Bastard!
+You massacred a whole Ryukyu village?",,"너, 류큐에서 일족을 몰살했다는 게 사실이냐?",unmapped,
+usa/data7/v02/001,story_battle,yes,,DATA7/V02.DAT,1,0x48199,,210,300,90,zero_line_token,1,What a fool I was...,,난 완전히 어릿광대 꼴이었군.,unmapped,
+usa/data7/v02/002,story_battle,yes,,DATA7/V02.DAT,2,0x481B4,,40,180,140,zero_line_token,1,Rest in peace...Black Lotus...,,"블랙 로터스 씨…
+편히 쉬세요…",unmapped,
+usa/data7/v02/003,story_battle,yes,,DATA7/V02.DAT,3,0x481DE,,15,,,scene_or_group_change,2,"Master Utsusemi!
+`It's all right. This must be fate.""",,"우츠세미 공!
+좋다. 이 또한 운명이니라.",unmapped,
+usa/data7/v02/004,story_battle,yes,,DATA7/V02.DAT,4,0x4821F,,150,350,200,zero_line_token,2,"Master Utsusemi!
+I deeply respected you.",,"우츠세미 공!
+늘 존경해 왔소이다!",unmapped,
+usa/data7/v02/005,story_battle,yes,,DATA7/V02.DAT,5,0x4824E,,40,180,140,zero_line_token,1,I can't believe I beat you.,,"믿을 수 없어…
+내가…
+이기다니…",unmapped,
+usa/data7/v02/006,story_battle,yes,,DATA7/V02.DAT,6,0x48275,,30,180,150,zero_line_token,2,"All I wanted was to kill the Dojo Master
+for Utsusemi...",,"저는 그저…
+우츠세미 님을 대신해 사범대를 베려고…",unmapped,
+usa/data7/v02/007,story_battle,yes,,DATA7/V02.DAT,7,0x482B9,,40,,,scene_or_group_change,2,"I'm sorry.
+I didn't mean for you to get involved.",,"미안하구나…
+너까지 내 손으로 베고 말았구나…",unmapped,
+usa/data7/v03/000,story_battle,yes,,DATA7/V03.DAT,0,0x2C628,,30,180,150,zero_line_token,1,I know it's not your fault.,,네게 죄가 없다는 건 알고 있다.,unmapped,
+usa/data7/v03/001,story_battle,yes,,DATA7/V03.DAT,1,0x2C64A,,60,180,120,zero_line_token,1,You were involved with Kage?,,너도 카게에 들어와 있었다니…,unmapped,
+usa/data7/v03/002,story_battle,yes,,DATA7/V03.DAT,2,0x2C672,,40,180,140,zero_line_token,1,I don't care who comes against me.,,상대가 누구든 상관없다.,unmapped,
+usa/data7/v03/003,story_battle,yes,,DATA7/V03.DAT,3,0x2C6A0,,50,180,130,zero_line_token,1,There's no way I'm going to die.,,"반드시…
+살아남고 말겠어!",unmapped,
+usa/data7/v03/004,story_battle,yes,,DATA7/V03.DAT,4,0x2C6CC,,30,180,150,zero_line_token,1,I don't want to kill...,,내 뜻과는 상관없이 베고 말았어…,unmapped,
+usa/data7/v03/005,story_battle,yes,,DATA7/V03.DAT,5,0x2C6EF,,50,,,scene_or_group_change,2,"Humph!
+You're years away from beating me.",,"흥!
+나를 쓰러뜨리려면 십 년은 이르다!",unmapped,
+usa/data7/v04/000,story_battle,yes,,DATA7/V04.DAT,0,0x56CC8,,40,180,140,zero_line_token,2,"Why did we ever join Meikyokan
+in the first place?",,우린 대체 무엇을 위해 명경관에 들어온 걸까?,unmapped,
+usa/data7/v04/001,story_battle,yes,,DATA7/V04.DAT,1,0x56D01,,30,,,scene_or_group_change,2,"I didn't want to kill you.
+It was the Dojo Master's orders, wasn't it?",,"널 베고 싶지 않았어…
+사범대의 명령이니까요…",unmapped,
+usa/data7/v04/002,story_battle,yes,,DATA7/V04.DAT,2,0x56D62,,240,400,160,zero_line_token,2,"I never should have tried to escape.
+We're all just killing each other...",,"도망친 건 잘못이었어…
+동료끼리 서로 베다니…",unmapped,
+usa/data7/v04/003,story_battle,yes,,DATA7/V04.DAT,3,0x56DB2,,10,180,170,zero_line_token,2,"I've broken the code...have no `loyalty"".
+What have I got to fear? Ha ha ha...",,충의를 저버린 소생이 무엇을 두려워하겠소! 하하하하하…!,unmapped,
+usa/data7/v04/004,story_battle,yes,,DATA7/V04.DAT,4,0x56E0C,,20,,,scene_or_group_change,1,Should I have turned and run away?,,저는 도망치지 말고 맞서 싸웠어야 했을까요?,unmapped,
+usa/data7/v04/005,story_battle,yes,,DATA7/V04.DAT,5,0x56E3A,,150,,,scene_or_group_change,1,"`Make your decision, then stand by it.""",,"네가…
+선택한 길을… 믿어라…",unmapped,
+usa/data7/v04/006,story_battle,yes,,DATA7/V04.DAT,6,0x56E68,,310,400,90,zero_line_token,1,"Then, I'll never run away again.",,"이제…
+도망치지 않겠어요!",unmapped,
+usa/data7/v04/007,story_battle,yes,,DATA7/V04.DAT,7,0x56E8F,,40,,,scene_or_group_change,1,"`You did well. I'll leave the rest to you...""",,과연 훌륭하구나. 그 실력이라면 네게 맡기마.,unmapped,
+usa/data7/v04/008,story_battle,yes,,DATA7/V04.DAT,8,0x56EC8,,170,350,180,zero_line_token,2,"Your wounds aren't fatal.
+Take care of yourself.",,"급소는 피했습니다…
+부디 무사하시길…",unmapped,
+usa/data7/v04/009,story_battle,yes,,DATA7/V04.DAT,9,0x56EFF,,30,,,scene_or_group_change,1,This is tearing us apart.,,이래선 동족상잔이군.,unmapped,
+usa/data7/v04/010,story_battle,yes,,DATA7/V04.DAT,10,0x56F24,,90,,,scene_or_group_change,2,"Nothing will be solved
+if I keep running away like this.",,이대로 도망쳐 봐야 해결될 일이 없구나.,unmapped,
+usa/data7/v05/000,story_battle,yes,,DATA7/V05.DAT,0,0x61988,,30,,,scene_or_group_change,1,Who sent you? Answer me!,,말해! 누가 시켰지!?,unmapped,
+usa/data7/v05/001,story_battle,yes,,DATA7/V05.DAT,1,0x619A7,,120,,,scene_or_group_change,1,"`...Hanzaki...""",,…한자키…,unmapped,
+usa/data7/v05/002,story_battle,yes,,DATA7/V05.DAT,2,0x619BD,,150,270,120,zero_line_token,2,"Hanzaki?
+I thought he was behind all this...",,"한자키…!?
+역시 사범대의 사주였나!",unmapped,
+usa/data7/v05/003,story_battle,yes,,DATA7/V05.DAT,3,0x619F0,,30,,,scene_or_group_change,1,Who sent you?,,누가 시켜서 여기에 왔죠?,unmapped,
+usa/data7/v05/004,story_battle,yes,,DATA7/V05.DAT,4,0x61A09,,100,,,scene_or_group_change,1,"`...Hanzaki...""",,…한자키…,unmapped,
+usa/data7/v05/005,story_battle,yes,,DATA7/V05.DAT,5,0x61A1F,,210,300,90,zero_line_token,1,So Hanzaki's also being controlled...,,"한자키…?
+그도 조종당하고 있군…",unmapped,
+usa/data7/v05/006,story_battle,yes,,DATA7/V05.DAT,6,0x61A4B,,20,,,scene_or_group_change,1,Never seen you before...,,처음 보는 얼굴이군.,unmapped,
+usa/data7/v05/007,story_battle,yes,,DATA7/V05.DAT,7,0x61A6F,,105,,,scene_or_group_change,1,"`...Hanzaki...""",,…한자키…,unmapped,
+usa/data7/v05/008,story_battle,yes,,DATA7/V05.DAT,8,0x61A85,,160,,,scene_or_group_change,1,Hanzaki ordered this?,,한자키!?,unmapped,
+usa/data7/v05/009,story_battle,yes,,DATA7/V05.DAT,9,0x61AA1,,215,300,85,zero_line_token,1,..I thought so.,,역시 그의 명령이었나!,unmapped,
+usa/data7/v05/010,story_battle,yes,,DATA7/V05.DAT,10,0x61AB7,,30,,,scene_or_group_change,1,Who sent you?,,누가 시켰지?,unmapped,
+usa/data7/v05/011,story_battle,yes,,DATA7/V05.DAT,11,0x61AD0,,110,,,scene_or_group_change,1,"`...Hanzaki...""",,…한자키…,unmapped,
+usa/data7/v05/012,story_battle,yes,,DATA7/V05.DAT,12,0x61AE6,,160,300,140,zero_line_token,1,Hanzaki? The Dojo Master?,,"한자키…?
+혹시 사범대를 말하는 건가!?",unmapped,
+usa/data7/v05/013,story_battle,yes,,DATA7/V05.DAT,13,0x61B06,,20,,,scene_or_group_change,1,Who sent you?,,누가 시킨 거지!?,unmapped,
+usa/data7/v05/014,story_battle,yes,,DATA7/V05.DAT,14,0x61B1F,,100,,,scene_or_group_change,1,"`...Hanzaki...""",,…한자키…,unmapped,
+usa/data7/v05/015,story_battle,yes,,DATA7/V05.DAT,15,0x61B35,,155,300,145,zero_line_token,2,"Hanzaki?
+So he finally shows his true colors...",,"한자키…
+마침내 사범대가 본색을 드러냈군요!",unmapped,
+usa/data7/v05/016,story_battle,yes,,DATA7/V05.DAT,16,0x61B6B,,20,,,scene_or_group_change,1,An outside assassin...,,명경관 소속이 아닌 암살자라…,unmapped,
+usa/data7/v05/017,story_battle,yes,,DATA7/V05.DAT,17,0x61B8D,,150,,,scene_or_group_change,2,"He must have hired you.
+Pretty cowardly, using a gun...!",,"그 녀석의 사주인가!
+투척 무기라니, 비겁하군!",unmapped,
+usa/data7/v06/000,story_battle,yes,,DATA7/V06.DAT,0,0x22DF4,,90,180,90,zero_line_token,1,Thanks for the practice...,,그동안 신세 많이 졌다…,unmapped,
+usa/data7/v06/001,story_battle,yes,,DATA7/V06.DAT,1,0x22E15,,60,180,120,zero_line_token,2,"He was strong...
+not in the same league as the others.",,강해…! 역시 격이 달라…!,unmapped,
+usa/data7/v06/002,story_battle,yes,,DATA7/V06.DAT,2,0x22E57,,27,180,153,zero_line_token,2,"Humph!
+You're not cut out for this kind of work.",,"흥!
+상대가 안 되는군!",unmapped,
+usa/data7/v06/003,story_battle,yes,,DATA7/V06.DAT,3,0x22E93,,70,180,110,zero_line_token,1,You're not so tough!,,말만 거창했잖아!,unmapped,
+usa/data7/v06/004,story_battle,yes,,DATA7/V06.DAT,4,0x22EB3,,60,180,120,zero_line_token,1,How many more are there?,,앞으로 몇 명이나 더 나오는 거야!?,unmapped,
+usa/data7/v06/005,story_battle,yes,,DATA7/V06.DAT,5,0x22ED7,,90,,,scene_or_group_change,1,What a waste of time!,,시간 낭비로군!,unmapped,
+usa/data7/v07/000,story_battle,yes,,DATA7/V07.DAT,0,0x31160,,80,180,100,zero_line_token,1,What a waste.,,아깝군…,unmapped,
+usa/data7/v07/001,story_battle,yes,,DATA7/V07.DAT,1,0x31174,,30,180,150,zero_line_token,2,"If you're here,
+then that means he's nearby...",,"당신이 나왔다는 건…
+그가 근처에 있다는 뜻이군요.",unmapped,
+usa/data7/v07/002,story_battle,yes,,DATA7/V07.DAT,2,0x311AE,,90,180,90,zero_line_token,1,I can't stand this anymore.,,…마음이 편치 않군…!,unmapped,
+usa/data7/v07/003,story_battle,yes,,DATA7/V07.DAT,3,0x311D5,,45,180,135,zero_line_token,2,"Now all that's left is to kill Hanzaki
+with my own two hands...!",,"이제 남은 건…
+이 손으로 사범대를…!",unmapped,
+usa/data7/v07/004,story_battle,yes,,DATA7/V07.DAT,4,0x31221,,30,180,150,zero_line_token,1,I'm sorry...I couldn't hold back.,,"미안해요…
+힘 조절을 못 했어요…",unmapped,
+usa/data7/v07/005,story_battle,yes,,DATA7/V07.DAT,5,0x3124E,,60,,,scene_or_group_change,1,I have no time for this!,,너희를 상대하고 있을 시간이 없다!,unmapped,
+usa/data7/v08/000,story_battle,yes,,DATA7/V08.DAT,0,0x32B70,,30,,,scene_or_group_change,2,"Why did you order Black Lotus to massacre
+my people!?",,왜 블랙 로터스에게 일족을 몰살하라고 명령했지?,unmapped,
+usa/data7/v08/001,story_battle,yes,,DATA7/V08.DAT,1,0x32BAC,,130,,,scene_or_group_change,1,That was...,,내,unmapped,
+usa/data7/v08/002,story_battle,yes,,DATA7/V08.DAT,2,0x32BBE,,180,250,70,zero_line_token,1,my hometown!,,고향 마을에서 말이야!,unmapped,
+usa/data7/v08/003,story_battle,yes,,DATA7/V08.DAT,3,0x32BD1,,30,180,150,zero_line_token,1,He must have been controlled by someone else...,,사범대는 누군가에게 조종당하고 있었던 게 분명해.,unmapped,
+usa/data7/v08/004,story_battle,yes,,DATA7/V08.DAT,4,0x32C0C,,20,180,160,zero_line_token,1,"This is the end, both for Kage and myself.",,"이제 카게도…
+소생의 무사도도 끝났다.",unmapped,
+usa/data7/v08/005,story_battle,yes,,DATA7/V08.DAT,5,0x32C42,,30,150,120,zero_line_token,1,I did it! I finally beat him!,,이겼어! 드디어 사범대를 이겼어!,unmapped,
+usa/data7/v08/006,story_battle,yes,,DATA7/V08.DAT,6,0x32C6B,,30,210,180,zero_line_token,1,Utsusemi...I did what you wanted.,,"우츠세미 님, 이걸로 잘된 거죠?",unmapped,
+usa/data7/v08/007,story_battle,yes,,DATA7/V08.DAT,7,0x32C98,,30,,,scene_or_group_change,1,"With that last cut, I've defied you.",,방금 그 일격은 내 전별이다.,unmapped,
+usa/data7/v08/008,story_battle,yes,,DATA7/V08.DAT,8,0x32CC8,,150,,,scene_or_group_change,1,You were a good friend...,,넌 좋은 벗이었다.,unmapped,
+usa/scus-941.80/000,executable_ui,yes,,SCUS_941.80,0,0x1A9C,,45,,,scene_or_group_change,1,"`C'mon!""",,덤벼라!,unmapped,
+usa/scus-941.80/001,executable_ui,yes,,SCUS_941.80,1,0x1AAC,,1,,,scene_or_group_change,1,"`OK! Ready!?""",,좋아! 준비됐나?,unmapped,
+usa/scus-941.80/002,executable_ui,yes,,SCUS_941.80,2,0x1AC0,,5,,,scene_or_group_change,1,"`Let's have a clean fight!""",,정정당당히 겨루자!,unmapped,
+usa/scus-941.80/003,executable_ui,yes,,SCUS_941.80,3,0x1AE4,,45,,,scene_or_group_change,1,"`This one's for real now.""",,이번에는 진검승부다.,unmapped,
+usa/scus-941.80/004,executable_ui,yes,,SCUS_941.80,4,0x1B14,,30,,,scene_or_group_change,1,"`Prepare yourself!""",,각오해라!,unmapped,
+usa/scus-941.80/005,executable_ui,yes,,SCUS_941.80,5,0x1B30,,60,,,scene_or_group_change,1,"`Die!""",,죽어라!,unmapped,
+usa/scus-941.80/006,executable_ui,yes,,SCUS_941.80,6,0x1B40,,5,,,scene_or_group_change,1,"`I'll put you out of your misery!""",,고통 없이 끝내 주마!,unmapped,
+usa/scus-941.80/007,executable_ui,yes,,SCUS_941.80,7,0x1B6C,,5,,,scene_or_group_change,2,"`Well, well...who would've ever thought
+ you'd make it to me?""",,호오… 네가 여기까지 올 줄은 몰랐군.,unmapped,
+usa/scus-941.80/008,executable_ui,yes,,SCUS_941.80,8,0x1BB4,,15,,,scene_or_group_change,1,"`You just don't know when to quit, do you?""",,정말 포기할 줄 모르는 놈이군.,unmapped,
+usa/scus-941.80/009,executable_ui,yes,,SCUS_941.80,9,0x1BE8,,240,,,scene_or_group_change,2,"`Do you think you're going to kill me
+with it?""",,그걸로 날 죽일 수 있을 것 같으냐?,unmapped,
+usa/scus-941.80/010,executable_ui,yes,,SCUS_941.80,10,0x1C20,,90,,,scene_or_group_change,2,"`Your sword is stained with the blood
+of your fallen comrades.""",,네 검은 쓰러진 동료들의 피로 물들었다.,unmapped,
+usa/scus-941.80/011,executable_ui,yes,,SCUS_941.80,11,0x1C68,,1,,,scene_or_group_change,1,"`Ha ha ha...""",,하하하…,unmapped,
+usa/scus-941.80/012,executable_ui,yes,,SCUS_941.80,12,0x1C7C,,1,,,scene_or_group_change,1,`Wanna try?,,해보겠나?,unmapped,
+usa/scus-941.80/013,executable_ui,yes,,SCUS_941.80,13,0x1CA4,,5,,,scene_or_group_change,1,Tsha! I guess that's that.,,쳇! 결국 이렇게 됐군.,unmapped,
+usa/scus-941.80/014,executable_ui,yes,,SCUS_941.80,14,0x1CC8,,5,,,scene_or_group_change,1,"Go ahead, do what you will.",,"좋다, 마음대로 해라.",unmapped,
+usa/scus-941.80/015,executable_ui,yes,,SCUS_941.80,15,0x1CEC,,5,,,scene_or_group_change,1,I've been defeated.,,내가 졌다.,unmapped,
+usa/scus-941.80/016,executable_ui,yes,,SCUS_941.80,16,0x1D08,,5,,,scene_or_group_change,1,I'm in pain...hurry...finish me off.,,괴롭다… 어서… 끝내 다오.,unmapped,
+usa/scus-941.80/017,executable_ui,yes,,SCUS_941.80,17,0x1D34,,5,,,scene_or_group_change,1,So it's come to this...kill me...,,결국 이렇게 됐나… 날 죽여라…,unmapped,
+usa/scus-941.80/018,executable_ui,yes,,SCUS_941.80,18,0x1D5C,,5,,,scene_or_group_change,1,Now...kill me!,,자… 날 죽여라!,unmapped,

@@ -116,7 +116,7 @@ EXT_STUB_SIZE = 0x80             # boot copy stub reserved bytes
 
 ROOT = Path(__file__).resolve().parents[2]
 CSV_PATH = ROOT / "workspace" / "text" / "source" / "usa_subtitle_timeline.csv"
-COMPARISON = ROOT / "work" / "analysis" / "usa_subtitle_comparison.json"
+COMPARISON = ROOT / "inputs" / "analysis" / "usa_subtitle_comparison.json"
 
 SECTION_MAGIC = int.from_bytes(b"K1US", "little")
 

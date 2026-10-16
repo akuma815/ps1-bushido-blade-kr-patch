@@ -30,7 +30,7 @@ from build_options_poc import rebuild_mode2_form1_integrity
 from build_subtitle_v37 import make_raw_sector
 
 ROOT = Path(__file__).resolve().parents[2]
-SCAN = ROOT / "work" / "analysis" / "usa_tim_scan.json"
+SCAN = ROOT / "inputs" / "analysis" / "usa_tim_scan.json"
 ASSET_DIR = ROOT / "workspace" / "graphics" / "usa"
 
 ASSETS = (
